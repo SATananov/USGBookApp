@@ -1,5 +1,5 @@
-// Generated from IT MASTER V11 editorial consolidation. Italian is authoritative.
-// Editorial [VERIFICA] notes are metadata only and are never rendered to readers.
+// Generated from IT MASTER V11 PASS C historical revision. Italian is authoritative.
+// Editorial [VERIFICA] notes remain metadata and are never rendered to readers.
 export const italianMaster = {
   "frontMatter": [
     {
@@ -1469,7 +1469,7 @@ export const italianMaster = {
         },
         {
           "type": "paragraph",
-          "text": "Molto prima della fama dei Molossi, il Vicino Oriente antico conosceva già cani di forme e funzioni differenti. La Mesopotamia ha lasciato immagini e manufatti di cani potenti; l’Anatolia e il Mediterraneo orientale sono stati per millenni spazi di passaggio, conflitto e scambio. È quindi possibile immaginare un patrimonio canino molto più vasto, nel quale popolazioni locali dei Balcani e dell’Epiro abbiano incontrato nel tempo influenze provenienti da altre regioni."
+          "text": "Molto prima della fama dei Molossi, il Vicino Oriente antico conosceva già cani di forme e funzioni differenti. Mesopotamia, Anatolia e Mediterraneo orientale ci mostrano la profondità storica del rapporto fra uomini e cani potenti, ma non una genealogia continua verso l’Epiro e poi verso Roma."
         },
         {
           "type": "paragraph",
@@ -1477,7 +1477,7 @@ export const italianMaster = {
         },
         {
           "type": "paragraph",
-          "text": "Non possediamo una catena genealogica che permetta di seguire un cane dalla Mesopotamia fino all’Epiro e poi a Roma. Non possiamo prendere una statuetta antica, riconoscervi una testa potente e chiamarla antenato del Cane Corso."
+          "text": "Possiamo immaginare incontri, spostamenti e influenze fra popolazioni canine. Non possiamo trasformare una statuetta, una somiglianza o una rotta culturale in un pedigree del Cane Corso."
         },
         {
           "type": "paragraph",
@@ -1715,23 +1715,7 @@ export const italianMaster = {
         },
         {
           "type": "paragraph",
-          "text": "La cosa più importante non è dimostrare che il Pugnax fosse “già” il Cane Corso. È capire il principio: Roma, come grande sistema agricolo, militare e commerciale, aveva bisogno di cani differenti per funzioni differenti. La selezione funzionale non è un’invenzione moderna."
-        },
-        {
-          "type": "paragraph",
-          "text": "Se esiste continuità, la prima continuità da cercare non è un certificato genealogico lungo duemila anni. È la continuità di una domanda: un cane forte, mobile, controllabile, capace di prendere e di accompagnare l’uomo."
-        },
-        {
-          "type": "paragraph",
-          "text": "Il Pugnax è uno dei punti in cui il fascino della storia può facilmente superare la documentazione. Proprio per questo nel nostro libro non deve essere cancellato, ma trattato con due voci. La prima è quella del Dott. Flavio Bruno, che lo colloca dentro una lunga tradizione di selezione funzionale, addestramento e impiego. La seconda è quella critica, che chiede a ogni dettaglio concreto quale fonte lo sostenga."
-        },
-        {
-          "type": "paragraph",
-          "text": "Questa doppia lettura ci permette di salvare ciò che conta davvero. Anche se un termine antico non corrispondesse a una “razza” nel senso moderno, il mondo romano conosceva la specializzazione degli animali e il valore pratico della selezione. È questo che ci interessa: l’idea che il cane potesse essere scelto e formato per compiti diversi e che il corpo seguisse, almeno in parte, il mestiere."
-        },
-        {
-          "type": "paragraph",
-          "text": "Il Pugnax non deve quindi diventare il certificato di nascita del Cane Corso. Può diventare una finestra su un principio molto più antico della cinofilia moderna: gli uomini riconoscono qualità, le cercano di nuovo nella generazione successiva e, così facendo, costruiscono popolazioni adatte a un uso."
+          "text": "Il punto non è dimostrare che il Pugnax fosse “già” il Cane Corso. È capire se e come il mondo romano selezionasse cani differenti per funzioni differenti, senza trasformare un termine antico in una razza moderna."
         },
         {
           "type": "paragraph",
@@ -1796,7 +1780,7 @@ export const italianMaster = {
         },
         {
           "type": "paragraph",
-          "text": "Dott. Flavio Bruno, però, ci chiede di guardare anche alla mentalità funzionale romana. Nei suoi testi Roma seleziona, organizza e utilizza. Il cane non viene pensato soltanto come presenza domestica, ma come animale al quale può essere assegnato un lavoro preciso."
+          "text": "**Sul piano documentario**, la pluralità dei cani romani è il dato più solido. **Nella lettura del Dott. Flavio Bruno**, però, dobbiamo guardare anche alla mentalità funzionale romana. Nei suoi testi Roma seleziona, organizza e utilizza. Il cane non viene pensato soltanto come presenza domestica, ma come animale al quale può essere assegnato un lavoro preciso."
         },
         {
           "type": "paragraph",
@@ -1812,7 +1796,7 @@ export const italianMaster = {
         },
         {
           "type": "heading",
-          "text": "Una lettura italiana: non un cane importato, ma una funzione che si organizza"
+          "text": "La lettura del Dott. Flavio Bruno: non un cane importato, ma una funzione che si organizza"
         },
         {
           "type": "paragraph",
@@ -2316,7 +2300,7 @@ export const italianMaster = {
         },
         {
           "type": "paragraph",
-          "text": "Una delle fonti da verificare con particolare attenzione è *La Caccia* di Erasmo di Valvasone, pubblicata nel 1591, spesso citata nella letteratura sul Cane Corso."
+          "text": "Una delle ancore scritte più importanti è *Della caccia* di Erasmo di Valvasone, pubblicata nel 1591. Il testo ci porta davanti al termine **Corso** dentro un contesto venatorio: un dato molto più forte di una semplice somiglianza iconografica."
         },
         {
           "type": "paragraph",
@@ -2385,7 +2369,7 @@ export const italianMaster = {
       ],
       "editorialNotes": [
         "**[VERIFICA — SELEZIONE RINASCIMENTALE]** Gli incroci specifici, le denominazioni storiche dei prodotti e la loro diffusione devono essere documentati prima della pubblicazione. L’idea generale di selezione utilitaristica è plausibile; i dettagli richiedono fonte.",
-        "**[VERIFICA — ERASMO DI VALVASONE]** Dovremo controllare l’edizione, il testo originale, il contesto completo della citazione e il significato storico del termine “Corso”, evitando di leggerlo automaticamente come equivalente della razza moderna.",
+        "**[VERIFICA — ERASMO DI VALVASONE]** Nel master definitivo dovremo citare l’edizione e il passo nel suo contesto completo. Il termine storico “Corso” non sarà comunque trattato automaticamente come equivalente perfetto della razza moderna.",
         "**[VERIFICA — ICONOGRAFIA RINASCIMENTALE]** Ogni immagine dovrà essere studiata per autore, datazione, provenienza, soggetto e contesto. Le somiglianze morfologiche saranno presentate come osservazioni, non come prove genealogiche."
       ]
     },
@@ -3121,7 +3105,7 @@ export const italianMaster = {
         },
         {
           "type": "paragraph",
-          "text": "Dott. Flavio Bruno descrive il cane capace di afferrare il muso o l’orecchio per bloccare temporaneamente il bovino e permettere all’uomo di intervenire."
+          "text": "Nella memoria funzionale raccolta dal Dott. Flavio Bruno, il cane poteva afferrare il muso o l’orecchio per bloccare temporaneamente il bovino e permettere all’uomo di intervenire."
         },
         {
           "type": "paragraph",
@@ -3402,7 +3386,7 @@ export const italianMaster = {
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Quando una funzione resta ma cambia territorio, anche il tipo può assumere nomi e sfumature locali. Bucciuriscu e Vuccerisco ci obbligano a guardare il Sud non come un blocco uniforme, ma come una costellazione di usi e memorie."
+          "text": "Quando una funzione resta ma cambia territorio, anche il tipo può assumere nomi e sfumature locali. **Bucciuriscu** e **Vuccerisco** ci interessano prima di tutto come nomi e tipi regionali nella memoria degli utilizzatori, non come due razze storiche già dimostrate."
         },
         {
           "type": "paragraph",
@@ -3458,7 +3442,7 @@ export const italianMaster = {
         },
         {
           "type": "heading",
-          "text": "Il valore delle varianti locali"
+          "text": "Il valore dei nomi e dei tipi locali"
         },
         {
           "type": "paragraph",
@@ -3682,14 +3666,6 @@ export const italianMaster = {
         },
         {
           "type": "paragraph",
-          "text": "Nel racconto del Dott. Flavio Bruno, l’epoca borbonica rappresenta un momento nel quale il Cane Corso trova spazio nella caccia, nelle fattorie e nella gestione del bestiame. È una lettura forte e suggestiva che dobbiamo distinguere nelle sue componenti: alcune appartengono a un quadro storico generale plausibile, altre richiedono una verifica documentaria precisa."
-        },
-        {
-          "type": "paragraph",
-          "text": "Dott. Flavio Bruno parla delle cacce reali, del cinghiale e del lupo, del ruolo delle campagne e della podolica allevata allo stato brado. La frase «il corso era il signore indiscusso della fattoria» restituisce bene la centralità che egli attribuisce al cane nel sistema rurale del Regno."
-        },
-        {
-          "type": "paragraph",
           "text": "Non serve che ogni dettaglio venga confermato perché il capitolo abbia valore. La sua funzione narrativa è mostrare l’avvicinamento a un’epoca nella quale il cane del Sud può essere osservato sempre meno come figura astratta e sempre più come parte di economie e mestieri concreti."
         },
         {
@@ -3715,7 +3691,6 @@ export const italianMaster = {
       ],
       "editorialNotes": [
         "**[VERIFICA — PERIODO BORBONICO]** Politiche agricole, diffusione del cane, opere artistiche e interpretazioni iconografiche richiedono verifica specifica.",
-        "**[VERIFICA — BORBONI]** Dovremo verificare le riserve reali citate, le fonti sull’uso specifico del Cane Corso, le rappresentazioni artistiche e il rapporto fra politiche agricole borboniche e diffusione di determinati tipi canini.",
         "Dott. Flavio Bruno collega anche il Cane Corso alla cultura figurativa del periodo borbonico. Qui il nostro metodo deve restare rigoroso: una scultura o una statuina può mostrare un tipo canino compatibile, ma l'identificazione precisa richiede prudenza. **[VERIFICA — ICONOGRAFIA BORBONICA]** Le attribuzioni specifiche delle figure canine della Reggia di Caserta, dei presepi e di altre opere devono essere controllate opera per opera."
       ]
     },
@@ -3743,18 +3718,6 @@ export const italianMaster = {
           "text": "Ciò che interessa alla nostra storia è ancora una volta la funzione: un cane capace di seguire uomini in movimento, vivere in condizioni difficili, sorvegliare e reagire."
         },
         {
-          "type": "paragraph",
-          "text": "Dott. Flavio Bruno mi ha parlato dei briganti non per trasformare il Cane Corso in una bandiera, ma per ricordare che un cane utile viene cercato da chiunque viva in condizioni nelle quali guardia, silenzio, coraggio e fedeltà possano fare la differenza. Il bosco, la clandestinità e gli spostamenti richiedono un animale diverso da quello puramente sedentario."
-        },
-        {
-          "type": "paragraph",
-          "text": "La storia del brigantaggio, però, è carica di interpretazioni politiche e identitarie. Per questo questo capitolo dovrà essere particolarmente sobrio. Non glorificheremo la violenza e non useremo il cane per prendere posizione su un conflitto storico complesso."
-        },
-        {
-          "type": "paragraph",
-          "text": "Ciò che possiamo conservare già nel master è l’idea funzionale: il Cane Corso non apparteneva a una classe sociale unica. Poteva essere desiderato ovunque servissero le qualità per cui era noto."
-        },
-        {
           "type": "heading",
           "text": "La memoria di un territorio"
         },
@@ -3777,7 +3740,6 @@ export const italianMaster = {
       ],
       "editorialNotes": [
         "**[VERIFICA — BRIGANTAGGIO]** Date, nomi, episodi specifici e impiego dei cani devono essere verificati con fonti storiche indipendenti.",
-        "**[VERIFICA — BRIGANTAGGIO]** Ogni nome, banda, località, episodio o uso specifico del Cane Corso dovrà essere verificato attraverso storiografia affidabile e, quando possibile, fonti contemporanee.",
         "Nelle sue parole il Cane Corso dei briganti è soprattutto sentinella: un animale che deve vivere nel bosco, seguire uomini in movimento, percepire la presenza estranea e, quando necessario, proteggere. Dott. Flavio Bruno racconta anche di cani addestrati a segnalare in modo discreto per non rivelare la posizione del gruppo. È un'immagine coerente con la funzione, ma gli episodi specifici devono essere verificati prima di essere presentati come fatti storici. **[VERIFICA — FONTI MILITARI E BRIGANTAGGIO]**"
       ]
     },
@@ -5178,7 +5140,7 @@ export const italianMaster = {
         }
       ],
       "editorialNotes": [
-        "**[VERIFICA — RECUPERO DELLA RAZZA]** Questi numeri, le date, le sovrapposizioni fra i diversi censimenti e la reale indipendenza delle correnti di sangue dovranno essere ricostruiti sulle fonti originali S.A.C.C./ENCI e, quando possibile, sui registri del Libro Aperto.",
+        "**[VERIFICA — RECUPERO DELLA RAZZA]** La cronologia generale e i principali numeri ENCI/S.A.C.C. sono documentabili; restano da verificare con le fonti originali le sovrapposizioni fra i censimenti e soprattutto che cosa significhi, sul piano genealogico, parlare di “correnti di sangue” indipendenti.",
         "**[VERIFICA — CONTRO-NARRAZIONE DEL RECUPERO]** La tesi del Dott. Flavio Bruno sulla continuità della popolazione, sugli eventuali incroci e sulle motivazioni del racconto del recupero dovrà essere confrontata con registri genealogici, documenti S.A.C.C./ENCI, pubblicazioni dell’epoca, testimonianze indipendenti e — dove disponibili — dati genetici. Le valutazioni su intenzioni personali, vanità o interessi economici resteranno opinioni attribuite e non fatti affermati dal libro."
       ]
     },
@@ -7418,10 +7380,7 @@ export const italianMaster = {
       }
     ],
     "editorialNotes": [
-      "V11 consolida ripetizioni narrative evidenti senza modificare la struttura di 10 Parti, 49 Capitoli ed Epilogo. In questa passata sono stati consolidati in modo conservativo i Capitoli 21, 24, 38 e 48, mantenendo testimonianze, citazioni, marcatori [VERIFICA] e distinzione fra fatto, memoria e interpretazione. I Capitoli 1, 2, 3, 6, 30, 49 e l’Epilogo sono stati riesaminati come nodi strutturali e mantenuti nella loro forma V10 perché già coerenti con il ritmo narrativo previsto.",
-      "I marcatori **[VERIFICA]** appartengono soltanto al processo editoriale del master. Prima della pubblicazione saranno risolti attraverso fonti adeguate e rimossi dal testo finale oppure trasformati in note bibliografiche.",
-      "Le citazioni attribuite al Dott. Flavio Bruno provengono dal corpus delle conversazioni private messe a disposizione per questo progetto e dovranno essere ricontrollate parola per parola nella fase finale di editing, mantenendo il significato e la voce originale.",
-      "Le sezioni in prima persona di Stefano De Tanini rappresentano interpretazione ed esperienza dell’autore e non vengono presentate come prova storica."
+      "## NOTA INTERNA V11 — PASS C STORICO\n\nPASS C applica una revisione conservativa ai Capitoli 3, 5, 6, 9, 14, 16, 18, 19 e 30.\nObiettivi: ridurre ripetizioni reali; distinguere dato documentario, ipotesi e interpretazione; non trasformare Pugnax, Molosso, varianti regionali o memoria funzionale in genealogie dimostrate; mantenere intatte le citazioni autentiche e la tesi «La funzione fa il tipo».\n\n---\n\n## NOTA INTERNA V11 — EDITORIAL CONSOLIDATION\n\nV11 consolida ripetizioni narrative evidenti senza modificare la struttura di 10 Parti, 49 Capitoli ed Epilogo.\nIn questa passata sono stati consolidati in modo conservativo i Capitoli 21, 24, 38 e 48, mantenendo testimonianze, citazioni, marcatori [VERIFICA] e distinzione fra fatto, memoria e interpretazione.\nI Capitoli 1, 2, 3, 6, 30, 49 e l’Epilogo sono stati riesaminati come nodi strutturali e mantenuti nella loro forma V10 perché già coerenti con il ritmo narrativo previsto.\n\n---\n\n## NOTA INTERNA PER LA REVISIONE DEL MASTER\n\nI marcatori **[VERIFICA]** appartengono soltanto al processo editoriale del master. Prima della pubblicazione saranno risolti attraverso fonti adeguate e rimossi dal testo finale oppure trasformati in note bibliografiche.\n\nLe citazioni attribuite al Dott. Flavio Bruno provengono dal corpus delle conversazioni private messe a disposizione per questo progetto e dovranno essere ricontrollate parola per parola nella fase finale di editing, mantenendo il significato e la voce originale.\n\nLe sezioni in prima persona di Stefano De Tanini rappresentano interpretazione ed esperienza dell’autore e non vengono presentate come prova storica."
     ]
   }
 }
