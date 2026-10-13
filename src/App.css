@@ -1,4 +1,4 @@
-/* USG Heritage Antique Premium — Visual Match 01 */
+﻿/* USG Heritage Antique Premium — Visual Match 01 */
 .book-shell {
   margin: 6px;
   border: 1px solid #80643b;
@@ -1336,3 +1336,139 @@
   }
 }
 /* === FOOTER COMPACT 01 END === */
+
+/* === COVER V10 INTEGRATION 01 START === */
+.cover-language-page {
+  min-height: 0;
+  height: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 24px;
+  padding: 42px 28px 54px;
+  box-sizing: border-box;
+}
+
+.cover-language-frame {
+  width: min(100%, 700px);
+  margin: 0;
+}
+
+.cover-language-art {
+  display: block;
+  width: 100%;
+  height: auto;
+  object-fit: contain;
+  border-radius: 2px;
+  box-shadow:
+    0 18px 42px rgba(34, 23, 13, 0.24),
+    0 3px 10px rgba(34, 23, 13, 0.16);
+}
+
+.cover-master-actions {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  gap: 14px;
+  width: 100%;
+}
+
+.cover-master-actions .button-link {
+  margin: 0;
+}
+
+.cover-secondary-action {
+  background: transparent;
+}
+
+@media (max-width: 760px) {
+  .cover-language-page {
+    padding: 24px 16px 38px;
+    gap: 20px;
+  }
+
+  .cover-language-frame {
+    width: min(100%, 620px);
+  }
+
+  .cover-master-actions {
+    gap: 10px;
+  }
+}
+
+@media (max-width: 460px) {
+  .cover-language-page {
+    padding: 18px 10px 30px;
+  }
+
+  .cover-master-actions {
+    flex-direction: column;
+    align-items: stretch;
+  }
+
+  .cover-master-actions .button-link {
+    justify-content: center;
+    width: 100%;
+  }
+}
+/* === COVER V10 INTEGRATION 01 END === */
+
+/* === COVER SECONDARY BUTTON 01 START === */
+.cover-master-actions .cover-secondary-action {
+  color: #2b2418;
+  border-color: rgba(43, 36, 24, 0.78);
+  background: rgba(255, 250, 238, 0.34);
+  text-shadow: none;
+}
+
+.cover-master-actions .cover-secondary-action:visited {
+  color: #2b2418;
+}
+
+.cover-master-actions .cover-secondary-action:hover,
+.cover-master-actions .cover-secondary-action:focus-visible {
+  color: #f7ead0;
+  background: #17150f;
+  border-color: #b48a38;
+}
+/* === COVER SECONDARY BUTTON 01 END === */
+
+/* === COVER ACTIONS MATCH 01 START === */
+.cover-master-actions .button-link,
+.cover-master-actions .cover-secondary-action {
+  color: #f5e9d2;
+  background: #11110e;
+  border-color: #b48a38;
+  text-shadow: none;
+  transition:
+    background-color 160ms ease,
+    color 160ms ease,
+    border-color 160ms ease,
+    transform 160ms ease,
+    box-shadow 160ms ease;
+}
+
+.cover-master-actions .button-link:visited,
+.cover-master-actions .cover-secondary-action:visited {
+  color: #f5e9d2;
+}
+
+.cover-master-actions .button-link:hover,
+.cover-master-actions .button-link:focus-visible,
+.cover-master-actions .cover-secondary-action:hover,
+.cover-master-actions .cover-secondary-action:focus-visible {
+  color: #17150f;
+  background: #c79a43;
+  border-color: #d8b46c;
+  box-shadow: 0 8px 20px rgba(38, 28, 12, 0.20);
+  transform: translateY(-1px);
+}
+
+.cover-master-actions .button-link:active,
+.cover-master-actions .cover-secondary-action:active {
+  transform: translateY(0);
+  box-shadow: 0 3px 9px rgba(38, 28, 12, 0.16);
+}
+/* === COVER ACTIONS MATCH 01 END === */
