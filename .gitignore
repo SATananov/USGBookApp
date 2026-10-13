@@ -24,3 +24,5 @@ dist-ssr
 *.sw?
 
 .usg-backups/
+
+.usg-backups/
