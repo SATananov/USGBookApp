@@ -3,6 +3,7 @@ import test from 'node:test'
 import { book, parts, chapters, readingItems, epilogue } from './book.js'
 import { media, resolveMediaAsset } from './media.js'
 import { languages, ui } from '../localization/ui.js'
+import { timeline, sources } from './reference.js'
 
 const codes = languages.map(({ code }) => code)
 
@@ -12,7 +13,7 @@ test('UI translations cover exactly EN, BG and IT', () => {
   for (const code of codes) assert.ok(ui[code])
 })
 
-test('IT MASTER V11 PASS C structure is complete and ordered', () => {
+test('IT MASTER V11 PASS D structure is complete and ordered', () => {
   assert.equal(book.originalLanguage, 'it')
   assert.equal(book.plannedChapters, 49)
   assert.equal(parts.length, 10)
@@ -76,4 +77,23 @@ test('text-free conceptual media can share a source or use a local override', ()
   assert.equal(resolveMediaAsset(item, 'en'), original)
   assert.equal(resolveMediaAsset(item, 'bg'), override)
   if (media[0]) for (const code of codes) assert.equal(resolveMediaAsset(media[0], code), media[0].original)
+})
+
+test('PASS D timeline and source registry are populated and linked', () => {
+  assert.ok(timeline.length >= 8)
+  assert.ok(sources.length >= 7)
+  const sourceIds = new Set(sources.map((source) => source.id))
+  assert.equal(sourceIds.size, sources.length)
+
+  for (const entry of timeline) {
+    assert.ok(entry.id)
+    assert.ok(entry.date)
+    assert.ok(entry.translations.it?.title)
+    assert.ok(entry.translations.it?.body)
+    assert.ok(entry.translations.bg?.title)
+    assert.ok(entry.translations.bg?.body)
+    for (const sourceId of entry.sourceIds) assert.ok(sourceIds.has(sourceId))
+  }
+
+  assert.ok(timeline.some((entry) => entry.id === 'fci-standard-2023'))
 })

@@ -1,4 +1,4 @@
-﻿/* USG Heritage Antique Premium — Visual Match 01 */
+/* USG Heritage Antique Premium — Visual Match 01 */
 .book-shell {
   margin: 6px;
   border: 1px solid #80643b;
@@ -1472,3 +1472,55 @@
   box-shadow: 0 3px 9px rgba(38, 28, 12, 0.16);
 }
 /* === COVER ACTIONS MATCH 01 END === */
+
+/* === PASS D REFERENCES START === */
+.reference-list {
+  list-style: none;
+  padding: 0;
+  margin: 34px auto;
+  max-width: 860px;
+  display: grid;
+  gap: 18px;
+}
+
+.reference-entry {
+  padding: 20px 22px;
+  border-block: 1px solid #b89a6c;
+}
+
+.reference-entry .eyebrow {
+  margin-bottom: 6px;
+}
+
+.reference-entry h2 {
+  margin: 0 0 10px;
+  font-size: 1.45rem;
+}
+
+.reference-entry p {
+  line-height: 1.7;
+}
+
+.reference-sources {
+  display: grid;
+  gap: 6px;
+  margin-top: 12px;
+}
+
+.reference-entry a,
+.reference-sources a {
+  display: inline-block;
+  padding: 6px 0;
+}
+
+.reference-page > .text-link {
+  display: inline-block;
+  margin-top: 20px;
+}
+
+@media (max-width: 760px) {
+  .reference-entry {
+    padding-inline: 8px;
+  }
+}
+/* === PASS D REFERENCES END === */
