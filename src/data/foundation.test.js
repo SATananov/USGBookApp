@@ -12,7 +12,7 @@ test('UI translations cover exactly EN, BG and IT', () => {
   for (const code of codes) assert.ok(ui[code])
 })
 
-test('IT MASTER V9 structure is complete and ordered', () => {
+test('IT MASTER V10 structure is complete and ordered', () => {
   assert.equal(book.originalLanguage, 'it')
   assert.equal(book.plannedChapters, 49)
   assert.equal(parts.length, 10)
@@ -34,7 +34,6 @@ test('all chapters resolve to a valid part and continuous reader navigation', ()
     assert.ok(chapter.contentIt.length > 0)
     assert.deepEqual(chapter.mediaIds, [])
   }
-
   for (let index = 0; index < readingItems.length; index += 1) {
     const item = readingItems[index]
     assert.equal(item.previousSlug ?? null, readingItems[index - 1]?.slug ?? null)

@@ -1,6 +1,5 @@
-// Generated from IT MASTER V9. Italian is the authoritative editorial source.
+// Generated from IT MASTER V10. Italian is the authoritative editorial source.
 // Editorial [VERIFICA] notes are retained as metadata and never rendered to readers.
-
 export const italianMaster = {
   "frontMatter": [
     {
@@ -111,10 +110,6 @@ export const italianMaster = {
         {
           "type": "paragraph",
           "text": "Il lettore saprà sempre in quale territorio si trova."
-        },
-        {
-          "type": "paragraph",
-          "text": "---"
         }
       ],
       "editorialNotes": [
@@ -216,7 +211,7 @@ export const italianMaster = {
         },
         {
           "type": "quote",
-          "text": "**«La funzione fa il tipo.»**",
+          "text": "«La funzione fa il tipo.»",
           "attribution": "Dott. Flavio Bruno"
         },
         {
@@ -342,10 +337,6 @@ export const italianMaster = {
         {
           "type": "question",
           "text": "che cosa dobbiamo conservare perché continui a essere Cane Corso?"
-        },
-        {
-          "type": "paragraph",
-          "text": "---"
         }
       ],
       "editorialNotes": []
@@ -360,16 +351,36 @@ export const italianMaster = {
       "partId": "parte-i",
       "blocks": [
         {
-          "type": "paragraph",
+          "type": "question",
           "text": "Prima della razza c’era il cane. Prima del pedigree c’era la necessità."
         },
         {
           "type": "paragraph",
-          "text": "Per il Dott. Flavio Bruno, il punto di partenza non è Roma e non è nemmeno il Cane Corso. È molto più indietro: è l’uomo che deve sopravvivere e scopre che accanto a lui esiste un animale capace di vedere, sentire, annusare, inseguire, avvertire e collaborare."
+          "text": "Quando iniziai a cercare l’origine del Cane Corso, la mia prima tentazione fu quella più naturale: andare indietro nel tempo."
         },
         {
           "type": "paragraph",
-          "text": "Quando gli chiesi quanto indietro potessimo spingerci nella ricerca dell’origine, mi rispose che voleva seguire l’origine del cane **«seguendo il duro lavoro di sopravvivenza dell’uomo»**. Poco dopo formulò un pensiero che avrebbe dovuto stare prima di qualsiasi genealogia:"
+          "text": "Roma. L’Epiro. Il Mediterraneo. I grandi cani dell’antichità."
+        },
+        {
+          "type": "paragraph",
+          "text": "Cercavo una linea."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il Dott. Flavio Bruno mi costrinse invece a cercare qualcos’altro."
+        },
+        {
+          "type": "paragraph",
+          "text": "Per lui il punto di partenza non era Roma e non era nemmeno il Cane Corso. Era molto più indietro: l’uomo che doveva sopravvivere e che, accanto a sé, aveva scoperto un animale capace di vedere ciò che lui non vedeva, sentire ciò che lui non sentiva, annusare, inseguire, avvertire, difendere e collaborare."
+        },
+        {
+          "type": "paragraph",
+          "text": "Quando gli chiesi quanto indietro potessimo spingerci nella ricerca dell’origine, mi rispose che voleva seguire la storia del cane **«seguendo il duro lavoro di sopravvivenza dell’uomo»**."
+        },
+        {
+          "type": "paragraph",
+          "text": "Poco dopo aggiunse una frase che avrebbe cambiato il modo in cui stavo cercando:"
         },
         {
           "type": "quote",
@@ -378,15 +389,31 @@ export const italianMaster = {
         },
         {
           "type": "paragraph",
-          "text": "Questa frase cambia l’inizio della nostra storia."
+          "text": "Da quel momento la domanda non fu più soltanto:"
+        },
+        {
+          "type": "question",
+          "text": "da dove viene il Cane Corso?"
         },
         {
           "type": "paragraph",
-          "text": "Non stiamo cercando il primo Cane Corso. Stiamo cercando il momento in cui la necessità comincia a modellare il cane."
+          "text": "Prima dovevo comprenderne un’altra:"
+        },
+        {
+          "type": "question",
+          "text": "perché l’uomo aveva bisogno di un cane fatto in un certo modo?"
         },
         {
           "type": "paragraph",
-          "text": "Dott. Flavio Bruno parte dai primi cani accanto all’uomo, da tipi piccoli, agili, primitivi, capaci di collaborare nella caccia e di avvertire l’accampamento. La sua ricostruzione dei primi tipi canini contiene elementi che dovranno essere confrontati con la moderna archeogenetica e con la storia della domesticazione; ma il principio che ne ricava è molto più ampio delle singole classificazioni."
+          "text": "Non stavamo cercando il primo Cane Corso."
+        },
+        {
+          "type": "paragraph",
+          "text": "Stavamo cercando il momento in cui la necessità aveva cominciato a modellare il cane."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il Dott. Flavio Bruno parte dai primi cani accanto all’uomo, da tipi primitivi, agili, capaci di collaborare nella caccia e di avvertire un accampamento. Alcuni elementi della sua ricostruzione dei primi tipi canini appartengono a un terreno che deve essere confrontato con l’archeologia e con la moderna archeogenetica. Ma il principio che ne ricava va molto oltre una classificazione delle origini."
         },
         {
           "type": "quote",
@@ -395,35 +422,107 @@ export const italianMaster = {
         },
         {
           "type": "paragraph",
-          "text": "Mutazione, incrocio, selezione e soprattutto uso: per Dott. Flavio Bruno è così che, nel tempo, l’uomo trasforma il cane e il cane accompagna la trasformazione dell’uomo."
+          "text": "Mutazione, incontro fra popolazioni, selezione, ambiente e soprattutto uso."
         },
         {
           "type": "paragraph",
-          "text": "Per gran parte della storia umana il cane non è stato scelto perché corrispondeva a un disegno ideale, ma perché era capace di svolgere un compito. Custodire, seguire, cacciare, proteggere, condurre, trattenere, avvisare: ogni funzione chiedeva qualità diverse."
+          "text": "Il cane cambiava insieme all’uomo perché cambiavano i problemi che l’uomo gli chiedeva di risolvere."
         },
         {
           "type": "paragraph",
-          "text": "Il cane che doveva percorrere grandi distanze non poteva essere costruito come quello destinato a presidiare un luogo. Il cane chiamato a contenere un animale potente aveva esigenze differenti da quello incaricato di sorvegliare una proprietà. Il corpo, il carattere e il comportamento erano legati al lavoro."
+          "text": "Per gran parte della storia non esisteva un disegno ideale davanti al quale mettere il cane per verificare se fosse corretto."
         },
         {
           "type": "paragraph",
-          "text": "Questo non significa che ogni uomo del passato praticasse una selezione scientifica. Significa che il lavoro stesso selezionava. Un cane incapace di svolgere la propria funzione aveva meno ragioni per essere riprodotto di uno che dimostrava utilità, stabilità e resistenza."
+          "text": "Esisteva un compito."
         },
         {
           "type": "paragraph",
-          "text": "Dott. Flavio Bruno mi ha insegnato a guardare questo processo senza romanticismo ma anche senza arroganza moderna. Il fatto che non esistesse un registro genealogico non significa che non esistesse conoscenza. L’uomo rurale conosceva il cane che aveva davanti, conosceva spesso i suoi genitori, soprattutto conosceva il risultato."
+          "text": "Custodire. Seguire. Cacciare. Proteggere. Condurre. Trattenere. Avvisare."
         },
         {
           "type": "paragraph",
-          "text": "La domanda non era: «È conforme allo standard?»"
+          "text": "Ogni compito chiedeva qualcosa di diverso."
         },
         {
           "type": "paragraph",
-          "text": "Era: «Serve?»"
+          "text": "Un cane che doveva percorrere grandi distanze non poteva essere costruito nello stesso modo di un cane destinato a presidiare un luogo. Un cane chiamato a contenere un animale potente aveva necessità diverse da quello incaricato di sorvegliare una proprietà."
         },
         {
           "type": "paragraph",
-          "text": "E questa domanda, ripetuta per generazioni, poteva costruire un tipo."
+          "text": "Corpo, carattere e comportamento non erano ancora tre categorie separate."
+        },
+        {
+          "type": "paragraph",
+          "text": "Erano una sola risposta a un problema concreto."
+        },
+        {
+          "type": "paragraph",
+          "text": "Questo non significa immaginare uomini del passato impegnati in una selezione scientifica nel senso moderno del termine."
+        },
+        {
+          "type": "paragraph",
+          "text": "La selezione poteva essere molto più semplice e molto più dura."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il cane funzionava oppure non funzionava."
+        },
+        {
+          "type": "paragraph",
+          "text": "Resisteva oppure cedeva."
+        },
+        {
+          "type": "paragraph",
+          "text": "Capiva l’uomo oppure diventava difficile da utilizzare."
+        },
+        {
+          "type": "paragraph",
+          "text": "Aveva equilibrio oppure trasformava la propria forza in un problema."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il lavoro stesso diventava selezione."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il Dott. Flavio Bruno mi ha insegnato a guardare questo mondo senza idealizzarlo, ma anche senza commettere l’errore opposto: credere che l’assenza di un pedigree significasse assenza di conoscenza."
+        },
+        {
+          "type": "paragraph",
+          "text": "L’uomo rurale poteva non possedere un archivio genealogico."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma conosceva il cane che aveva davanti."
+        },
+        {
+          "type": "paragraph",
+          "text": "Spesso ne conosceva i genitori."
+        },
+        {
+          "type": "paragraph",
+          "text": "E soprattutto conosceva il risultato."
+        },
+        {
+          "type": "paragraph",
+          "text": "La sua domanda non era:"
+        },
+        {
+          "type": "question",
+          "text": "«È conforme allo standard?»"
+        },
+        {
+          "type": "paragraph",
+          "text": "La domanda era:"
+        },
+        {
+          "type": "question",
+          "text": "«Serve?»"
+        },
+        {
+          "type": "paragraph",
+          "text": "Ripetuta per generazioni, quella domanda poteva costruire un tipo."
         },
         {
           "type": "heading",
@@ -431,23 +530,35 @@ export const italianMaster = {
         },
         {
           "type": "paragraph",
-          "text": "Qui nasce anche una delle mie domande più ostinate."
+          "text": "Ed è qui che nasce una delle domande che più a lungo mi hanno accompagnato."
         },
         {
           "type": "paragraph",
-          "text": "Se la funzione modella il cane, quanto indietro possiamo seguire non il Cane Corso, ma **l’idea del grande cane da lavoro**?"
+          "text": "Se la funzione modella il cane, quanto lontano possiamo seguire non il Cane Corso, ma **l’idea del grande cane da lavoro**?"
         },
         {
           "type": "paragraph",
-          "text": "Le civiltà del Vicino Oriente antico hanno lasciato immagini e oggetti che mostrano la presenza di cani robusti, talvolta rappresentati come guardiani, animali legati alla caccia, alla protezione o a significati religiosi. In Mesopotamia, molto prima di Roma, il cane era già dentro il mondo organizzato dell’uomo."
+          "text": "Le civiltà del Vicino Oriente antico ci hanno lasciato immagini e oggetti nei quali compaiono cani potenti, inseriti nella caccia, nella protezione, nel controllo e anche nel mondo simbolico e religioso."
         },
         {
           "type": "paragraph",
-          "text": "Questo non ci autorizza a dire: “qui nasce il Cane Corso”."
+          "text": "Molto prima di Roma, il cane era già parte del mondo organizzato dell’uomo."
         },
         {
           "type": "paragraph",
-          "text": "Non ci autorizza nemmeno a costruire una genealogia lineare:"
+          "text": "Ma qui bisogna fermarsi un istante."
+        },
+        {
+          "type": "paragraph",
+          "text": "Queste immagini non ci autorizzano a dire:"
+        },
+        {
+          "type": "question",
+          "text": "«Qui nasce il Cane Corso.»"
+        },
+        {
+          "type": "paragraph",
+          "text": "E non ci permettono di tracciare con sicurezza una linea:"
         },
         {
           "type": "question",
@@ -455,11 +566,7 @@ export const italianMaster = {
         },
         {
           "type": "paragraph",
-          "text": "Sarebbe una conclusione più forte delle prove."
-        },
-        {
-          "type": "paragraph",
-          "text": "Ma apre una domanda legittima: popolazioni di grandi cani da lavoro dell’Anatolia, della Mesopotamia, del Mediterraneo orientale e dei Balcani possono aver partecipato, attraverso secoli di spostamenti umani, commercio, guerra e allevamento, alla storia remota dei tipi che in seguito il mondo greco avrebbe chiamato o associato ai Molossi?"
+          "text": "Una linea così netta sarebbe più forte delle prove che possediamo."
         },
         {
           "type": "paragraph",
@@ -467,27 +574,115 @@ export const italianMaster = {
         },
         {
           "type": "paragraph",
-          "text": "Quando sottoposi a Dott. Flavio Bruno queste ipotesi, la sua risposta fu istruttiva proprio perché non cercò di assecondarmi. Mi disse di mettere da parte ciò che avevo letto e di affrontare il suo testo con una mente **«vergine»**. Voleva ricostruire il cane partendo non da una catena di nomi, ma dalla necessità umana."
+          "text": "Possiamo però porre una domanda."
         },
         {
           "type": "paragraph",
-          "text": "Questa è la tensione che manterremo in tutto il libro."
+          "text": "Popolazioni di grandi cani da lavoro presenti in Anatolia, Mesopotamia, nel Mediterraneo orientale e nei Balcani possono essere entrate, attraverso migrazioni, commercio, guerra, allevamento e contatto fra popoli, nella storia remota dei cani che il mondo greco avrebbe poi associato ai Molossi?"
         },
         {
           "type": "paragraph",
-          "text": "Io, Stefano, posso domandarmi se un filo lontanissimo colleghi i grandi cani dell’antico Oriente, il Mediterraneo, l’Epiro e Roma. Posso considerarlo possibile. Posso cercare reperti, immagini, rotte e confronti. Ma Dott. Flavio Bruno mi riporta al punto dal quale nessuna ipotesi può fuggire: **che cosa chiedeva l’uomo a quel cane?**"
+          "text": "È possibile."
         },
         {
           "type": "paragraph",
-          "text": "Non dobbiamo trasformare questa idea in un’altra leggenda. Non esiste necessariamente una linea pura, intatta, lunga millenni. Popolazioni e uomini si muovono, si incontrano, si mescolano. Ciò che può sopravvivere più a lungo di una genealogia è una necessità."
+          "text": "Ma possibile non significa dimostrato."
         },
         {
           "type": "paragraph",
-          "text": "Se la necessità rimane, rimane anche la pressione per produrre un cane capace di rispondervi."
+          "text": "Ed è proprio quando cercai di sviluppare questa ipotesi che il Dott. Flavio Bruno fece qualcosa che, col tempo, avrei imparato a riconoscere come parte del suo metodo."
         },
         {
           "type": "paragraph",
-          "text": "Questa è la prima chiave del nostro viaggio:"
+          "text": "Non cercò di darmi ragione."
+        },
+        {
+          "type": "paragraph",
+          "text": "Mi disse di mettere da parte ciò che avevo letto e di affrontare il suo racconto con una mente **«vergine»**."
+        },
+        {
+          "type": "paragraph",
+          "text": "Voleva che prima dei nomi cercassi l’uomo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Prima delle genealogie, il lavoro."
+        },
+        {
+          "type": "paragraph",
+          "text": "Prima delle razze, la necessità."
+        },
+        {
+          "type": "paragraph",
+          "text": "Quella risposta mi rimase impressa perché mostrava la differenza fra le nostre due posizioni."
+        },
+        {
+          "type": "paragraph",
+          "text": "Io cercavo ancora una linea attraverso il tempo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Lui cercava il motivo per cui quella linea avrebbe potuto continuare ad avere senso."
+        },
+        {
+          "type": "paragraph",
+          "text": "Io potevo domandarmi se un filo lontanissimo collegasse l’antico Oriente, il Mediterraneo, l’Epiro e Roma."
+        },
+        {
+          "type": "paragraph",
+          "text": "Potevo cercare immagini, testi, reperti e rotte."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma il Dott. Flavio Bruno mi riportava sempre alla domanda dalla quale nessuna genealogia può fuggire:"
+        },
+        {
+          "type": "question",
+          "text": "che cosa chiedeva l’uomo a quel cane?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Forse è questa la precauzione più importante all’inizio del nostro viaggio."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non dobbiamo sostituire una leggenda con un’altra."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non abbiamo bisogno di immaginare una linea pura, immobile e intatta per migliaia di anni."
+        },
+        {
+          "type": "paragraph",
+          "text": "Gli uomini si muovono."
+        },
+        {
+          "type": "paragraph",
+          "text": "Le popolazioni si incontrano."
+        },
+        {
+          "type": "paragraph",
+          "text": "I cani viaggiano con loro."
+        },
+        {
+          "type": "paragraph",
+          "text": "Si incrociano."
+        },
+        {
+          "type": "paragraph",
+          "text": "Cambiano."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ciò che può durare più a lungo di una genealogia è una necessità."
+        },
+        {
+          "type": "paragraph",
+          "text": "E quando una necessità rimane, rimane anche la pressione per produrre un cane capace di rispondervi."
+        },
+        {
+          "type": "paragraph",
+          "text": "Questa è la prima chiave del libro:"
         },
         {
           "type": "question",
@@ -495,19 +690,127 @@ export const italianMaster = {
         },
         {
           "type": "paragraph",
-          "text": "La differenza sembra piccola, ma non lo è. Dire che un cane “appartiene” a una razza significa partire da una classificazione già esistente. Dire invece che un tipo nasce da un bisogno significa osservare il processo prima della classificazione. È il passaggio che Dott. Flavio Bruno mi ha insegnato più di ogni altro. Non cercare subito il cartellino con il nome; cerca prima l’uomo, il luogo, il problema da risolvere."
+          "text": "Sembra una differenza piccola."
         },
         {
           "type": "paragraph",
-          "text": "Un cane che vive in una masseria non viene giudicato in pochi minuti. Viene giudicato ogni giorno. Se è nervoso inutilmente, diventa un pericolo. Se non è abbastanza vigile, diventa inutile. Se non regge fisicamente, non può accompagnare il lavoro. Se non comprende il proprio uomo, la forza diventa un difetto. La selezione pratica non aveva bisogno di parole sofisticate per essere severa: la vita stessa mostrava quali soggetti potevano restare nel sistema e quali no."
+          "text": "Non lo è."
         },
         {
           "type": "paragraph",
-          "text": "Per questo il passato non deve essere idealizzato. C’erano errori, improvvisazione, durezza e condizioni che oggi non vorremmo ripetere. Ma c’era anche un criterio che la cinofilia moderna rischia talvolta di dimenticare: il cane era intero. Corpo e carattere non erano due capitoli separati. La salute non era un allegato. L’intelligenza non era un ornamento. Tutto veniva provato nello stesso animale."
+          "text": "Dire che un cane appartiene a una razza significa osservare una classificazione già costruita."
         },
         {
           "type": "paragraph",
-          "text": "Quando oggi diciamo “Cane Corso”, quindi, partiamo dalla fine di un lungo processo. Questo libro vuole fare il percorso inverso: togliere per un momento il nome, tornare alla necessità e chiedersi che cosa doveva essere un cane perché uomini diversi, generazione dopo generazione, continuassero a volerlo accanto."
+          "text": "Chiedersi perché un tipo sia nato significa invece guardare ciò che esisteva prima della classificazione."
+        },
+        {
+          "type": "paragraph",
+          "text": "L’uomo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il territorio."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il lavoro."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il problema da risolvere."
+        },
+        {
+          "type": "paragraph",
+          "text": "Un cane che viveva in una masseria non veniva giudicato per pochi minuti."
+        },
+        {
+          "type": "paragraph",
+          "text": "Veniva giudicato ogni giorno."
+        },
+        {
+          "type": "paragraph",
+          "text": "Se era nervoso senza motivo, diventava un pericolo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Se non era vigile, diventava inutile."
+        },
+        {
+          "type": "paragraph",
+          "text": "Se non reggeva fisicamente, non poteva accompagnare il lavoro."
+        },
+        {
+          "type": "paragraph",
+          "text": "Se non comprendeva il proprio uomo, persino la forza poteva trasformarsi in un difetto."
+        },
+        {
+          "type": "paragraph",
+          "text": "La vita non utilizzava parole sofisticate."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma sapeva essere un giudice severo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Questo non significa che il passato fosse migliore."
+        },
+        {
+          "type": "paragraph",
+          "text": "C’erano errori, improvvisazione, durezza e condizioni che oggi non vorremmo ripetere."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma esisteva un principio che la cinofilia moderna rischia talvolta di dimenticare:"
+        },
+        {
+          "type": "question",
+          "text": "il cane veniva giudicato intero."
+        },
+        {
+          "type": "paragraph",
+          "text": "Corpo e carattere non erano due capitoli separati."
+        },
+        {
+          "type": "paragraph",
+          "text": "La salute non era un allegato."
+        },
+        {
+          "type": "paragraph",
+          "text": "L’intelligenza non era un ornamento."
+        },
+        {
+          "type": "paragraph",
+          "text": "Tutto doveva funzionare nello stesso animale."
+        },
+        {
+          "type": "paragraph",
+          "text": "Quando oggi pronunciamo il nome **Cane Corso**, partiamo quindi dalla fine di un processo lunghissimo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il nostro viaggio farà il contrario."
+        },
+        {
+          "type": "paragraph",
+          "text": "Per qualche pagina toglieremo il nome."
+        },
+        {
+          "type": "paragraph",
+          "text": "Metteremo da parte il pedigree."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non partiremo dallo standard."
+        },
+        {
+          "type": "paragraph",
+          "text": "Torneremo al bisogno."
+        },
+        {
+          "type": "paragraph",
+          "text": "Perché prima di domandarci **da dove viene il Cane Corso**, dobbiamo capire perché, per così tanto tempo, qualcuno ha continuato ad avere bisogno di un cane come lui."
         }
       ],
       "editorialNotes": [
@@ -523,51 +826,583 @@ export const italianMaster = {
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Le parole “mastino”, “pastore” e “cane da presa” sembrano semplici. Non lo sono."
+          "text": "Le parole sembrano semplici."
+        },
+        {
+          "type": "question",
+          "text": "Mastino. Pastore. Cane da presa."
         },
         {
           "type": "paragraph",
-          "text": "Un cane che vive con le greggi può svolgere funzioni molto diverse: condurre, proteggere, accompagnare la transumanza. Un cane da presa non è semplicemente un cane che morde, ma un cane impiegato in un lavoro in cui la presa e il mantenimento del contatto hanno valore pratico. Un mastino, nella tradizione descritta dal Dott. Flavio Bruno, non è soltanto un cane grande: è spesso un cane d’attesa, capace di presidiare e reagire quando la minaccia arriva."
+          "text": "Le pronunciamo oggi come se indicassero categorie nette, già ordinate, quasi naturali."
         },
         {
           "type": "paragraph",
-          "text": "Dott. Flavio Bruno insiste su una distinzione che attraversa tutto il libro: **il mastino come cane d’attesa; il corso come cane d’attacco**, cioè più mobile e più legato all’azione dell’uomo. Questa formula non va trasformata in una legge assoluta. Serve a comprendere due pressioni funzionali differenti."
+          "text": "Ma più parlavo con il Dott. Flavio Bruno, più capivo che una parola, da sola, può ingannare."
         },
         {
           "type": "paragraph",
-          "text": "Un cane che resta consuma energia in modo diverso da quello che segue. Un cane che presidia un gregge vive un rapporto diverso con gli animali rispetto a quello che accompagna il macellaio o il guardiano."
+          "text": "Può descrivere."
         },
         {
           "type": "paragraph",
-          "text": "La parola “presa” va trattata allo stesso modo. La presa è una funzione, non un elogio della violenza. Un cane che non possiede controllo non è automaticamente un buon cane da presa. Nella funzione reale contano determinazione e capacità di fermarsi, coraggio e discriminazione."
+          "text": "Ma può anche nascondere."
         },
         {
           "type": "paragraph",
-          "text": "Quando le categorie vengono confuse, perdiamo proprio ciò che dovremmo studiare: **perché quei cani erano differenti?**"
+          "text": "Un cane che vive accanto alle greggi, per esempio, non svolge necessariamente lo stesso lavoro di un altro cane che vive nello stesso ambiente."
         },
         {
           "type": "paragraph",
-          "text": "Il nostro compito non è mettere tutti i cani forti nella stessa scatola, ma capire che cosa veniva chiesto a ciascuno."
+          "text": "Uno conduce."
         },
         {
           "type": "paragraph",
-          "text": "---"
+          "text": "Uno protegge."
         },
         {
           "type": "paragraph",
-          "text": "Dott. Flavio Bruno torna spesso sulla precisione delle parole perché, nel suo modo di vedere, confondere i mestieri significa confondere i cani. Il Mastino Abruzzese che accompagna il gregge nella transumanza, il Cane Corso del guardiano, il cane del macellaio e il piccolo volpino che dà l’allarme possono collaborare nello stesso mondo rurale senza essere intercambiabili. Ognuno occupa uno spazio funzionale."
+          "text": "Uno accompagna la transumanza."
         },
         {
           "type": "paragraph",
-          "text": "Questa è anche la ragione per cui il termine “cane da presa” non deve essere trasformato in una caricatura. La presa storica ha un contesto: contenere un animale, bloccarlo, dare all’uomo il tempo di intervenire. La forza della bocca non basta. Serve il corpo per arrivare alla presa, la mente per scegliere il momento e il rapporto con l’uomo per interrompere l’azione. Nel racconto del Dott. Flavio Bruno, il cane veramente utile non è quello che “vuole combattere”; è quello che sa fare ciò che gli viene richiesto."
+          "text": "Uno segnala."
         },
         {
           "type": "paragraph",
-          "text": "Il contrasto fra cane d’attesa e cane d’attacco serve proprio a vedere due logiche. Il mastino può fare della posizione e della presenza una parte essenziale della propria efficacia. Il corso deve più spesso trasferire la propria azione nello spazio: seguire, raggiungere, accompagnare, frapporsi. Non è una gerarchia fra razze. È una differenza di lavoro."
+          "text": "Uno interviene."
         },
         {
           "type": "paragraph",
-          "text": "Da qui nasce anche una regola per tutto il libro: quando due cani sembrano simili, non concluderemo subito che siano la stessa cosa. Chiederemo prima dove vivevano, come venivano utilizzati, quanto si muovevano, da chi dipendevano e quale errore avrebbe potuto costare loro il posto nel sistema di lavoro."
+          "text": "Il territorio può essere lo stesso."
+        },
+        {
+          "type": "paragraph",
+          "text": "Gli animali attorno possono essere gli stessi."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma la funzione cambia."
+        },
+        {
+          "type": "paragraph",
+          "text": "E quando cambia la funzione, cambia anche ciò che l’uomo pretende dal cane."
+        },
+        {
+          "type": "paragraph",
+          "text": "È qui che il Dott. Flavio Bruno introduce una distinzione che tornerà molte volte nel nostro percorso."
+        },
+        {
+          "type": "question",
+          "text": "Il mastino come cane d’attesa. Il corso come cane d’attacco."
+        },
+        {
+          "type": "paragraph",
+          "text": "Quando lessi questa formula per la prima volta, mi sembrò quasi troppo semplice."
+        },
+        {
+          "type": "paragraph",
+          "text": "Poi capii che non stava cercando di costruire una definizione zoologica."
+        },
+        {
+          "type": "paragraph",
+          "text": "Stava descrivendo due modi diversi di lavorare."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il cane d’attesa presidia."
+        },
+        {
+          "type": "paragraph",
+          "text": "Occupa uno spazio."
+        },
+        {
+          "type": "paragraph",
+          "text": "Fa della propria presenza una parte della funzione."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non ha necessariamente bisogno di inseguire ciò che arriva."
+        },
+        {
+          "type": "paragraph",
+          "text": "Aspetta che il problema entri nel proprio raggio d’azione."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il cane d’attacco, invece, deve più spesso trasferire l’azione nello spazio."
+        },
+        {
+          "type": "paragraph",
+          "text": "Seguire."
+        },
+        {
+          "type": "paragraph",
+          "text": "Raggiungere."
+        },
+        {
+          "type": "paragraph",
+          "text": "Accompagnare."
+        },
+        {
+          "type": "paragraph",
+          "text": "Intervenire."
+        },
+        {
+          "type": "paragraph",
+          "text": "Frapporsi."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non è una questione di maggiore o minore aggressività."
+        },
+        {
+          "type": "paragraph",
+          "text": "È una questione di movimento."
+        },
+        {
+          "type": "paragraph",
+          "text": "Di rapporto con l’uomo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Di distanza."
+        },
+        {
+          "type": "paragraph",
+          "text": "Di tempo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Due cani possono essere entrambi forti."
+        },
+        {
+          "type": "paragraph",
+          "text": "Entrambi coraggiosi."
+        },
+        {
+          "type": "paragraph",
+          "text": "Entrambi capaci di difendere."
+        },
+        {
+          "type": "paragraph",
+          "text": "Eppure non essere costruiti per lo stesso lavoro."
+        },
+        {
+          "type": "paragraph",
+          "text": "Questa fu una delle prime cose che mi obbligarono a cambiare il modo di guardare il Cane Corso."
+        },
+        {
+          "type": "paragraph",
+          "text": "Fino a quel momento la somiglianza fisica aveva troppo peso."
+        },
+        {
+          "type": "paragraph",
+          "text": "Un cane grande, potente, con una testa forte, poteva facilmente essere collocato nella stessa famiglia mentale di altri cani altrettanto grandi e potenti."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma il Dott. Flavio Bruno mi riportava sempre alla domanda che ormai cominciava a diventare familiare:"
+        },
+        {
+          "type": "question",
+          "text": "che cosa doveva fare?"
+        },
+        {
+          "type": "paragraph",
+          "text": "La risposta cambia tutto."
+        },
+        {
+          "type": "paragraph",
+          "text": "Un cane che resta fermo per ore davanti a un luogo consuma energia in modo diverso da quello che deve percorrere chilometri."
+        },
+        {
+          "type": "paragraph",
+          "text": "Un cane che protegge un gregge vive un rapporto diverso con gli animali rispetto al cane che accompagna un commerciante o un macellaio."
+        },
+        {
+          "type": "paragraph",
+          "text": "Un cane che lavora lontano dall’uomo deve prendere decisioni che un cane costantemente guidato dall’uomo non è costretto a prendere nello stesso modo."
+        },
+        {
+          "type": "paragraph",
+          "text": "E poi c’è la parola forse più fraintesa:"
+        },
+        {
+          "type": "question",
+          "text": "presa."
+        },
+        {
+          "type": "paragraph",
+          "text": "“Cane da presa” oggi può evocare immagini sbagliate."
+        },
+        {
+          "type": "paragraph",
+          "text": "Un cane che morde."
+        },
+        {
+          "type": "paragraph",
+          "text": "Un cane aggressivo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Un cane costruito per combattere."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma la presa storica non nasce come celebrazione della violenza."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nasce come soluzione a un problema pratico."
+        },
+        {
+          "type": "paragraph",
+          "text": "Bloccare."
+        },
+        {
+          "type": "paragraph",
+          "text": "Contenere."
+        },
+        {
+          "type": "paragraph",
+          "text": "Trattenere."
+        },
+        {
+          "type": "paragraph",
+          "text": "Dare all’uomo il tempo di intervenire."
+        },
+        {
+          "type": "paragraph",
+          "text": "Per questo il Dott. Flavio Bruno insiste sul fatto che la forza della bocca, da sola, non dice quasi nulla."
+        },
+        {
+          "type": "paragraph",
+          "text": "Bisogna arrivare alla presa."
+        },
+        {
+          "type": "paragraph",
+          "text": "Bisogna scegliere il momento."
+        },
+        {
+          "type": "paragraph",
+          "text": "Bisogna restare."
+        },
+        {
+          "type": "paragraph",
+          "text": "Bisogna saper interrompere."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il cane veramente utile non è quello che vuole usare la forza sempre."
+        },
+        {
+          "type": "paragraph",
+          "text": "È quello che sa quando usarla."
+        },
+        {
+          "type": "paragraph",
+          "text": "Questa differenza sembra sottile finché non proviamo a immaginare il lavoro reale."
+        },
+        {
+          "type": "paragraph",
+          "text": "Un animale potente fugge."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il cane deve raggiungerlo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Deve avvicinarsi abbastanza da entrare in contatto."
+        },
+        {
+          "type": "paragraph",
+          "text": "Deve avere il coraggio per farlo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma anche la lucidità per non trasformare l’azione in caos."
+        },
+        {
+          "type": "paragraph",
+          "text": "Deve trattenere."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma non perdere completamente il rapporto con l’uomo che sta intervenendo."
+        },
+        {
+          "type": "paragraph",
+          "text": "In pochi secondi servono corpo, coraggio, equilibrio e controllo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Se manca uno di questi elementi, la forza può diventare inutile."
+        },
+        {
+          "type": "paragraph",
+          "text": "O pericolosa."
+        },
+        {
+          "type": "paragraph",
+          "text": "Fu allora che cominciai a capire perché il Dott. Flavio Bruno trattava con tanta attenzione le parole."
+        },
+        {
+          "type": "paragraph",
+          "text": "Confondere i nomi significava rischiare di confondere i mestieri."
+        },
+        {
+          "type": "paragraph",
+          "text": "E confondere i mestieri significava confondere i cani."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nel mondo rurale potevano convivere animali molto diversi."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il Mastino Abruzzese accanto al gregge."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il Cane Corso vicino al guardiano."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il cane del macellaio."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il piccolo volpino che avvertiva per primo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non erano necessariamente rivali."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non erano nemmeno versioni diverse dello stesso cane."
+        },
+        {
+          "type": "paragraph",
+          "text": "Erano parti differenti dello stesso sistema."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il piccolo cane poteva sentire prima."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il grande poteva intervenire dopo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Uno avvertiva."
+        },
+        {
+          "type": "paragraph",
+          "text": "Uno tratteneva."
+        },
+        {
+          "type": "paragraph",
+          "text": "Uno accompagnava."
+        },
+        {
+          "type": "paragraph",
+          "text": "Uno presidiava."
+        },
+        {
+          "type": "paragraph",
+          "text": "E improvvisamente quel mondo smetteva di apparire come una collezione confusa di “cani forti”."
+        },
+        {
+          "type": "paragraph",
+          "text": "Diventava un sistema di funzioni."
+        },
+        {
+          "type": "paragraph",
+          "text": "È qui che anche la distinzione fra **cane d’attesa** e **cane d’attacco** diventa più chiara."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non dobbiamo trasformarla in una legge universale."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non significa che ogni mastino della storia sia rimasto immobile e che ogni Cane Corso abbia sempre corso verso una minaccia."
+        },
+        {
+          "type": "paragraph",
+          "text": "Significa che, nella lettura funzionale proposta dal Dott. Flavio Bruno, dietro i due tipi esistono pressioni di selezione differenti."
+        },
+        {
+          "type": "paragraph",
+          "text": "Uno può costruire gran parte della propria efficacia intorno alla posizione."
+        },
+        {
+          "type": "paragraph",
+          "text": "L’altro deve più spesso portare la propria efficacia altrove."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ed è proprio lo spazio a cambiare il cane."
+        },
+        {
+          "type": "paragraph",
+          "text": "Se devi seguire un uomo, hai bisogno di una certa mobilità."
+        },
+        {
+          "type": "paragraph",
+          "text": "Se devi accompagnare un viaggio, il corpo deve reggere quel viaggio."
+        },
+        {
+          "type": "paragraph",
+          "text": "Se devi raggiungere qualcosa, devi poter accelerare."
+        },
+        {
+          "type": "paragraph",
+          "text": "Se devi intervenire e poi tornare sotto controllo, non basta essere potente."
+        },
+        {
+          "type": "paragraph",
+          "text": "Serve equilibrio."
+        },
+        {
+          "type": "paragraph",
+          "text": "Serve intelligenza."
+        },
+        {
+          "type": "paragraph",
+          "text": "Serve relazione."
+        },
+        {
+          "type": "paragraph",
+          "text": "Qui cominciai a comprendere anche un altro errore."
+        },
+        {
+          "type": "paragraph",
+          "text": "Noi moderni tendiamo a classificare guardando ciò che vediamo."
+        },
+        {
+          "type": "paragraph",
+          "text": "La testa."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il torace."
+        },
+        {
+          "type": "paragraph",
+          "text": "L’altezza."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il peso."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il colore."
+        },
+        {
+          "type": "paragraph",
+          "text": "La massa."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma uomini che vivevano del lavoro del cane potevano distinguere animali che a noi, osservati in una fotografia, sembrerebbero molto simili."
+        },
+        {
+          "type": "paragraph",
+          "text": "Perché loro non guardavano soltanto il corpo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Guardavano ciò che quel corpo riusciva a fare."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ed è questo il punto che dobbiamo conservare."
+        },
+        {
+          "type": "paragraph",
+          "text": "Quando due cani sembrano simili, non concluderemo subito che appartengano alla stessa storia."
+        },
+        {
+          "type": "paragraph",
+          "text": "Prima chiederemo:"
+        },
+        {
+          "type": "question",
+          "text": "Dove vivevano?"
+        },
+        {
+          "type": "question",
+          "text": "Con chi lavoravano?"
+        },
+        {
+          "type": "question",
+          "text": "Quanto dovevano muoversi?"
+        },
+        {
+          "type": "question",
+          "text": "Che cosa dovevano affrontare?"
+        },
+        {
+          "type": "question",
+          "text": "Da chi dipendevano?"
+        },
+        {
+          "type": "question",
+          "text": "Che cosa sarebbe accaduto se avessero sbagliato?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Solo dopo torneremo a guardare la forma."
+        },
+        {
+          "type": "paragraph",
+          "text": "Perché forse è proprio qui che nasce uno degli errori più grandi nella storia del Cane Corso."
+        },
+        {
+          "type": "paragraph",
+          "text": "Vedere corpi simili."
+        },
+        {
+          "type": "paragraph",
+          "text": "Dare loro un unico nome."
+        },
+        {
+          "type": "paragraph",
+          "text": "E poi immaginare che quel nome dimostri un’unica origine."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma la funzione ci ha appena insegnato il contrario."
+        },
+        {
+          "type": "paragraph",
+          "text": "Due cani possono assomigliarsi e avere storie diverse."
+        },
+        {
+          "type": "paragraph",
+          "text": "E due cani possono essere imparentati da una necessità prima ancora che da una classificazione."
+        },
+        {
+          "type": "paragraph",
+          "text": "A questo punto, però, incontriamo una parola ancora più grande."
+        },
+        {
+          "type": "paragraph",
+          "text": "Una parola sotto la quale, per decenni, sono stati messi moltissimi cani diversi."
+        },
+        {
+          "type": "question",
+          "text": "Molosso."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ed è proprio lì che il problema diventa più difficile."
         }
       ],
       "editorialNotes": []
@@ -579,6 +1414,10 @@ export const italianMaster = {
       "title": "Il problema del “Molosso”",
       "partId": "parte-i",
       "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Dopo aver distinto i mestieri, incontrai una parola che sembrava capace di riunire tutto. Proprio per questo era pericolosa. Più la usavo, più il Dott. Flavio Bruno mi costringeva a chiedermi se stavo descrivendo la storia oppure soltanto mettendo ordine con categorie moderne."
+        },
         {
           "type": "paragraph",
           "text": "“Molosso” è una delle parole più potenti e più ambigue della cinofilia."
@@ -645,8 +1484,8 @@ export const italianMaster = {
           "text": "La formulazione che considero più onesta è questa:"
         },
         {
-          "type": "paragraph",
-          "text": "**prima dell’Epiro esiste già una storia molto antica di cani da lavoro; l’Epiro può essere uno dei luoghi nei quali un determinato tipo acquista identità e fama, senza dover essere necessariamente l’origine assoluta di tutti i cani potenti successivi.**"
+          "type": "question",
+          "text": "prima dell’Epiro esiste già una storia molto antica di cani da lavoro; l’Epiro può essere uno dei luoghi nei quali un determinato tipo acquista identità e fama, senza dover essere necessariamente l’origine assoluta di tutti i cani potenti successivi."
         },
         {
           "type": "paragraph",
@@ -695,6 +1534,10 @@ export const italianMaster = {
         {
           "type": "paragraph",
           "text": "Anche il Cane Corso ne esce rafforzato. Non ha bisogno di essere il discendente esclusivo di un mitico cane universale per possedere profondità storica. La sua profondità può stare nella continuità delle necessità, nella cultura del Mezzogiorno, nella persistenza di uomini che cercavano cani con forza, mobilità, presa, guardia e legame con il padrone."
+        },
+        {
+          "type": "paragraph",
+          "text": "Tolto il mito del contenitore unico, resta finalmente spazio per una domanda più utile: se i nomi possono confondere, che cosa continua a modellare il cane? La risposta ci porta direttamente al principio che guiderà tutto il resto del libro."
         }
       ],
       "editorialNotes": [
@@ -711,6 +1554,10 @@ export const italianMaster = {
       "title": "La funzione prima del nome",
       "partId": "parte-i",
       "blocks": [
+        {
+          "type": "paragraph",
+          "text": "A questo punto avevamo tolto sicurezza a molte parole. Restava però una domanda: se il nome non basta, che cosa tiene insieme un tipo attraverso il tempo? La risposta del Dott. Flavio Bruno è il filo che regge tutto il libro."
+        },
         {
           "type": "paragraph",
           "text": "Un nome può sopravvivere a una funzione. Una funzione può sopravvivere a un nome. Per questo, se vogliamo comprendere il cane antico, dobbiamo imparare a non partire dalla parola."
@@ -750,10 +1597,6 @@ export const italianMaster = {
         },
         {
           "type": "paragraph",
-          "text": "---"
-        },
-        {
-          "type": "paragraph",
           "text": "Nel messaggio che mi inviò il 26 maggio, Dott. Flavio Bruno riassunse con grande chiarezza ciò che intendeva per tipo: un soggetto armonico che riflette non soltanto un aspetto, ma «il carattere, l’attitudine e il temperamento tipico». Poi aggiunse la frase che sarebbe diventata il centro del nostro lavoro: **«la Funzione fa il tipo»**."
         },
         {
@@ -778,6 +1621,10 @@ export const italianMaster = {
       "title": "Il Pugnax",
       "partId": "parte-ii",
       "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Entrando nel mondo romano, la tentazione di trovare finalmente un antenato con un nome preciso diventa fortissima. Il termine *Pugnax* sembra offrire proprio questo. Ma una parola suggestiva non può sostituire una prova."
+        },
         {
           "type": "paragraph",
           "text": "Il termine *Pugnax* occupa un posto particolare nel racconto storico del Cane Corso. È suggestivo, potente, capace di unire l’immaginario romano alla funzione di un cane coraggioso e combattivo. Proprio per questo deve essere trattato con disciplina."
@@ -885,6 +1732,10 @@ export const italianMaster = {
         {
           "type": "paragraph",
           "text": "Il Pugnax non deve quindi diventare il certificato di nascita del Cane Corso. Può diventare una finestra su un principio molto più antico della cinofilia moderna: gli uomini riconoscono qualità, le cercano di nuovo nella generazione successiva e, così facendo, costruiscono popolazioni adatte a un uso."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il *Pugnax* resta quindi una porta, non una scorciatoia genealogica. Per attraversarla dobbiamo guardare Roma non come fabbrica di una razza moderna, ma come sistema capace di organizzare uomini, animali e funzioni."
         }
       ],
       "editorialNotes": [
@@ -899,6 +1750,10 @@ export const italianMaster = {
       "title": "Roma",
       "partId": "parte-ii",
       "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Roma è il luogo nel quale molte domande antiche sembrano avvicinarsi al Cane Corso. È anche il punto nel quale dobbiamo essere più prudenti: organizzazione, uso e specializzazione non significano automaticamente nascita di una razza moderna."
+        },
         {
           "type": "paragraph",
           "text": "Roma non deve essere trasformata in un marchio d’origine. È un ambiente storico immenso nel quale uomini, animali, merci e tecniche si muovevano su distanze enormi."
@@ -1028,8 +1883,8 @@ export const italianMaster = {
           "text": "Ma forse:"
         },
         {
-          "type": "paragraph",
-          "text": "**antiche popolazioni di cani da lavoro → incontri e selezioni nel Mediterraneo e nei Balcani → tipi noti nel mondo greco ed epirota → pluralità di cani forti nel mondo romano → popolazioni funzionali locali dell’Italia → tradizioni di lavoro nelle quali, molti secoli dopo, riconosciamo il Cane Corso.**"
+          "type": "question",
+          "text": "antiche popolazioni di cani da lavoro → incontri e selezioni nel Mediterraneo e nei Balcani → tipi noti nel mondo greco ed epirota → pluralità di cani forti nel mondo romano → popolazioni funzionali locali dell’Italia → tradizioni di lavoro nelle quali, molti secoli dopo, riconosciamo il Cane Corso."
         },
         {
           "type": "paragraph",
@@ -1106,6 +1961,10 @@ export const italianMaster = {
         {
           "type": "paragraph",
           "text": "Per la nostra storia, Roma è importante soprattutto perché mostra quanto sia antica l’associazione fra uomo e cane specializzato. Il resto deve essere conquistato fonte per fonte, non ricevuto come leggenda."
+        },
+        {
+          "type": "paragraph",
+          "text": "Roma ci insegna così a distinguere organizzazione da origine. Quando il sistema politico crolla, la domanda decisiva diventa un’altra: quali funzioni sopravvivono quando il nome dell’impero non basta più a tenerle insieme?"
         }
       ],
       "editorialNotes": [
@@ -1121,6 +1980,10 @@ export const italianMaster = {
       "title": "Dopo Roma",
       "partId": "parte-ii",
       "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Gli imperi finiscono. I bisogni no. Dopo Roma la documentazione cambia, i nomi si spostano, le strutture politiche si trasformano; ma l’uomo continua ad avere animali da custodire, proprietà da difendere e selvaggina da affrontare."
+        },
         {
           "type": "paragraph",
           "text": "La caduta di un impero non coincide con la scomparsa delle necessità che quell’impero aveva organizzato."
@@ -1216,6 +2079,10 @@ export const italianMaster = {
         {
           "type": "paragraph",
           "text": "Ed è proprio da questa necessità che entriamo nel Medioevo."
+        },
+        {
+          "type": "paragraph",
+          "text": "È in questa continuità disordinata che entriamo nel Medioevo: meno interessati a trovare un nome stabile, più attenti a seguire ciò che uomini e cani devono ancora fare insieme."
         }
       ],
       "editorialNotes": [
@@ -1229,6 +2096,10 @@ export const italianMaster = {
       "title": "Il Medioevo",
       "partId": "parte-ii",
       "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Il Medioevo non ci consegna un Cane Corso già pronto. Ci consegna qualcosa di più utile: un mondo nel quale funzioni, mestieri e cani continuano a selezionarsi reciprocamente."
+        },
         {
           "type": "paragraph",
           "text": "Il Medioevo dura quasi un millennio e non può essere trattato come un unico paesaggio immobile."
@@ -1340,6 +2211,10 @@ export const italianMaster = {
         {
           "type": "paragraph",
           "text": "E quando arriviamo al Rinascimento, le tracce diventano finalmente più visibili."
+        },
+        {
+          "type": "paragraph",
+          "text": "Quando le fonti rinascimentali diventano più visibili, avremo quindi un vantaggio: sapremo già che un’immagine può mostrare una funzione senza consegnarci automaticamente una genealogia."
         }
       ],
       "editorialNotes": [
@@ -1355,6 +2230,10 @@ export const italianMaster = {
       "title": "Il Rinascimento",
       "partId": "parte-ii",
       "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Con il Rinascimento le immagini aumentano e la tentazione di riconoscere il Cane Corso in ogni cane potente diventa ancora più forte. È proprio qui che dobbiamo imparare a guardare senza battezzare troppo in fretta."
+        },
         {
           "type": "paragraph",
           "text": "Con il Rinascimento il cane entra con maggiore evidenza nella rappresentazione dell’uomo."
@@ -1444,13 +2323,8 @@ export const italianMaster = {
           "text": "Questo passaggio è fondamentale perché ci permette di separare tre livelli:"
         },
         {
-          "type": "list",
-          "ordered": true,
-          "items": [
-            "l’antichità delle **funzioni**;",
-            "la documentazione storica del **nome**;",
-            "la definizione moderna della **razza**."
-          ]
+          "type": "paragraph",
+          "text": "1. l’antichità delle **funzioni**; 2. la documentazione storica del **nome**; 3. la definizione moderna della **razza**."
         },
         {
           "type": "paragraph",
@@ -1503,6 +2377,10 @@ export const italianMaster = {
         {
           "type": "question",
           "text": "La funzione fa il tipo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il Rinascimento ci avvicina al nome, ma non chiude il problema. Per capire perché il tipo continua a esistere dobbiamo seguire il cane fuori dalle immagini e dentro il lavoro dell’Età Moderna."
         }
       ],
       "editorialNotes": [
@@ -1518,6 +2396,10 @@ export const italianMaster = {
       "title": "L’Età Moderna",
       "partId": "parte-ii",
       "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Arrivati all’Età Moderna, la domanda sull’origine comincia a perdere il centro della scena. Il cane diventa più comprensibile quando smettiamo di inseguire soltanto il passato e iniziamo a entrare nei luoghi dove doveva ancora servire."
+        },
         {
           "type": "paragraph",
           "text": "Fra la fine del Quattrocento e il Settecento il paesaggio italiano cambia, ma il cane da lavoro continua a essere giudicato con un criterio molto antico: deve essere utile."
@@ -1651,6 +2533,10 @@ export const italianMaster = {
       "title": "La Masseria",
       "partId": "parte-iii",
       "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Finché restiamo nei secoli, il cane rimane in parte astratto. La masseria cambia tutto. Qui il Cane Corso smette di essere una figura storica e torna a essere una presenza inserita in un’economia, in un territorio e in una giornata di lavoro."
+        },
         {
           "type": "paragraph",
           "text": "La masseria non è soltanto un edificio."
@@ -1826,6 +2712,10 @@ export const italianMaster = {
         {
           "type": "paragraph",
           "text": "Produce cani capaci di risolvere gli stessi problemi."
+        },
+        {
+          "type": "paragraph",
+          "text": "Dentro la masseria possiamo finalmente distinguere ruoli che, visti da lontano, sembravano confondersi. Il primo confronto necessario è con il grande cane pastorale della transumanza."
         }
       ],
       "editorialNotes": [
@@ -1839,6 +2729,10 @@ export const italianMaster = {
       "title": "Il Mastino Abruzzese e la transumanza",
       "partId": "parte-iii",
       "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Nella masseria non esisteva un solo grande cane con tutte le funzioni. Il confronto con il Mastino Abruzzese rende visibile ciò che le categorie moderne spesso appiattiscono: due cani forti possono appartenere allo stesso mondo e rispondere a necessità differenti."
+        },
         {
           "type": "paragraph",
           "text": "Per capire il Cane Corso bisogna capire anche ciò che Cane Corso non è."
@@ -1978,6 +2872,10 @@ export const italianMaster = {
         {
           "type": "question",
           "text": "La funzione fa il tipo."
+        },
+        {
+          "type": "paragraph",
+          "text": "La differenza con il Mastino Abruzzese non serve a creare una gerarchia. Serve a vedere meglio il Cane Corso: più vicino all’uomo, più mobile, chiamato a un’altra forma di intervento."
         }
       ],
       "editorialNotes": [
@@ -1991,6 +2889,10 @@ export const italianMaster = {
       "title": "Il Cane Corso e il guardiano",
       "partId": "parte-iii",
       "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Dopo il gregge, torniamo vicino all’uomo. Il Cane Corso del guardiano permette di vedere meglio uno dei suoi tratti più importanti: la forza non è separata dalla relazione con chi la dirige."
+        },
         {
           "type": "paragraph",
           "text": "Il guardiano non cerca un cane teorico."
@@ -2154,6 +3056,10 @@ export const italianMaster = {
         {
           "type": "paragraph",
           "text": "È da questa prova che nasce il tipo funzionale."
+        },
+        {
+          "type": "paragraph",
+          "text": "Dal guardiano passiamo agli animali che spesso rendevano necessario quell’intervento. È davanti a suini, bovini e cavalli che la presa torna a essere ciò che era: uno strumento dentro un lavoro."
         }
       ],
       "editorialNotes": []
@@ -2165,6 +3071,10 @@ export const italianMaster = {
       "title": "Suini, bovini e cavalli",
       "partId": "parte-iii",
       "blocks": [
+        {
+          "type": "paragraph",
+          "text": "La teoria della funzione diventa concreta davanti al bestiame. Suini, bovini e cavalli non sono uno sfondo folkloristico: sono problemi reali che chiedono corpo, presa, mobilità e controllo."
+        },
         {
           "type": "paragraph",
           "text": "Per capire davvero il Cane Corso rurale bisogna allontanarsi dall’immagine moderna dell’animale domestico e guardare il mondo del bestiame."
@@ -2292,6 +3202,10 @@ export const italianMaster = {
         {
           "type": "paragraph",
           "text": "Ed è proprio questo equilibrio fra forza e movimento che rende credibile il Cane Corso come cane di uomini che lavoravano con animali molto più grandi di lui."
+        },
+        {
+          "type": "paragraph",
+          "text": "Questa funzione ci porta naturalmente a una figura che ha bisogno del cane tanto nello spostamento quanto nel contenimento: il macellaio."
         }
       ],
       "editorialNotes": [
@@ -2306,6 +3220,10 @@ export const italianMaster = {
       "title": "Il cane dei macellai",
       "partId": "parte-iii",
       "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Fra tutte le figure rurali, il macellaio rende evidente perché un cane utile non potesse essere soltanto massiccio. Doveva accompagnare, proteggere, contenere animali e restare leggibile per il proprio uomo."
+        },
         {
           "type": "paragraph",
           "text": "Per comprendere il rapporto fra Cane Corso e macellaio dobbiamo prima liberarci dell’immagine moderna del mestiere."
@@ -2465,6 +3383,10 @@ export const italianMaster = {
         {
           "type": "paragraph",
           "text": "Ma perché racconta ciò che qualcuno ha vissuto."
+        },
+        {
+          "type": "paragraph",
+          "text": "Seguendo il macellaio, il cane esce dalla sola masseria e attraversa strade, mercati e territori. È così che le funzioni comuni possono incontrare nomi locali differenti."
         }
       ],
       "editorialNotes": [
@@ -2478,6 +3400,10 @@ export const italianMaster = {
       "title": "Bucciuriscu e Vuccerisco",
       "partId": "parte-iii",
       "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Quando una funzione resta ma cambia territorio, anche il tipo può assumere nomi e sfumature locali. Bucciuriscu e Vuccerisco ci obbligano a guardare il Sud non come un blocco uniforme, ma come una costellazione di usi e memorie."
+        },
         {
           "type": "paragraph",
           "text": "Quando Dott. Flavio Bruno mi parlò del **Bucciuriscu calabrese** e del **Vuccerisco siciliano**, compresi ancora meglio quanto fosse pericoloso immaginare il Cane del Sud come una popolazione perfettamente uniforme."
@@ -2641,6 +3567,10 @@ export const italianMaster = {
         {
           "type": "question",
           "text": "la funzione non distrugge il tipo. Lo crea."
+        },
+        {
+          "type": "paragraph",
+          "text": "Le varianti locali ci preparano alla domanda successiva: quanto può essere riconoscibile un cane quando nessuna istituzione gli ha ancora imposto un modello scritto?"
         }
       ],
       "editorialNotes": [
@@ -2657,6 +3587,10 @@ export const italianMaster = {
       "blocks": [
         {
           "type": "paragraph",
+          "text": "A questo punto possiamo porre una domanda che, vista con gli occhi moderni, sembra quasi impossibile: come può esistere un tipo riconoscibile senza uno standard scritto? Il mondo degli utilizzatori aveva una risposta pratica."
+        },
+        {
+          "type": "paragraph",
           "text": "Prima dello standard esisteva il cane."
         },
         {
@@ -2670,10 +3604,6 @@ export const italianMaster = {
         {
           "type": "paragraph",
           "text": "Il Cane Corso rurale non era una fotografia ripetuta. Era una famiglia di soluzioni funzionali."
-        },
-        {
-          "type": "paragraph",
-          "text": "---"
         },
         {
           "type": "paragraph",
@@ -2727,6 +3657,10 @@ export const italianMaster = {
       "blocks": [
         {
           "type": "paragraph",
+          "text": "L’Ottocento porta con sé nuovi documenti, nuovi poteri e nuovi conflitti. Ma sotto le istituzioni resta il Mezzogiorno reale, quello nel quale uomini e cani continuano a essere misurati dall’utilità."
+        },
+        {
+          "type": "paragraph",
           "text": "Dott. Flavio Bruno attribuisce al periodo borbonico un ruolo importante nello sviluppo agricolo e pastorale del Mezzogiorno e colloca il Cane Corso dentro questo sistema."
         },
         {
@@ -2745,10 +3679,6 @@ export const italianMaster = {
         {
           "type": "paragraph",
           "text": "L’importanza dell’Ottocento è che il Cane Corso entra in un mondo storicamente più vicino e meglio documentabile: proprietà rurali, pastorizia, brigantaggio, commercio, amministrazione. La funzione diventa più visibile."
-        },
-        {
-          "type": "paragraph",
-          "text": "---"
         },
         {
           "type": "paragraph",
@@ -2777,6 +3707,10 @@ export const italianMaster = {
         {
           "type": "paragraph",
           "text": "Per me la lezione del capitolo non è che “i Borboni possedevano il Cane Corso e quindi la storia è provata”. È un'altra: quanto più ci avviciniamo all'Ottocento, tanto più il Cane può essere letto dentro mestieri e strutture sociali reali. Il cane smette lentamente di essere soltanto un'ombra nell'iconografia e torna a essere ciò che Dott. Flavio Bruno vuole che io guardi: **un lavoratore accanto all'uomo**."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nel Mezzogiorno ottocentesco la stessa utilità può finire al servizio di uomini molto diversi. È qui che compare la figura del brigante e con essa il rischio di trasformare il cane in simbolo politico."
         }
       ],
       "editorialNotes": [
@@ -2794,6 +3728,10 @@ export const italianMaster = {
       "blocks": [
         {
           "type": "paragraph",
+          "text": "La parola 'brigante' rischia di trasformare la storia in leggenda. Per evitarlo dobbiamo separare propaganda, cronaca e funzione. Il cane non diventa diverso soltanto perché cambia l’uomo che lo conduce."
+        },
+        {
+          "type": "paragraph",
           "text": "Il brigantaggio postunitario è una pagina complessa e politicamente sensibile della storia italiana. Non va trasformato in leggenda romantica né ridotto a una sola interpretazione."
         },
         {
@@ -2803,10 +3741,6 @@ export const italianMaster = {
         {
           "type": "paragraph",
           "text": "Ciò che interessa alla nostra storia è ancora una volta la funzione: un cane capace di seguire uomini in movimento, vivere in condizioni difficili, sorvegliare e reagire."
-        },
-        {
-          "type": "paragraph",
-          "text": "---"
         },
         {
           "type": "paragraph",
@@ -2835,6 +3769,10 @@ export const italianMaster = {
         {
           "type": "paragraph",
           "text": "Ci interessa però un dato funzionale: se un cane era capace di adattarsi alla clandestinità, al movimento e alla sorveglianza, possedeva qualità diverse da quelle di un animale selezionato soltanto per impressionare. Anche qui il territorio e la necessità continuano a selezionare."
+        },
+        {
+          "type": "paragraph",
+          "text": "Per non cadere in quel simbolismo dobbiamo compiere un ultimo passo: guardare lo stesso tipo di capacità dall’altra parte del conflitto."
         }
       ],
       "editorialNotes": [
@@ -2852,6 +3790,10 @@ export const italianMaster = {
       "blocks": [
         {
           "type": "paragraph",
+          "text": "Una funzione non possiede una morale propria. Lo stesso tipo di cane può essere utile a uomini che stanno su fronti opposti. È un passaggio scomodo, ma necessario per non trasformare la storia del Cane Corso in una favola di buoni e cattivi."
+        },
+        {
+          "type": "paragraph",
           "text": "Un cane non possiede un’ideologia."
         },
         {
@@ -2865,10 +3807,6 @@ export const italianMaster = {
         {
           "type": "paragraph",
           "text": "La sua storia è la storia di ciò che gli uomini gli hanno chiesto di fare."
-        },
-        {
-          "type": "paragraph",
-          "text": "---"
         },
         {
           "type": "paragraph",
@@ -2914,6 +3852,10 @@ export const italianMaster = {
       "blocks": [
         {
           "type": "paragraph",
+          "text": "Fin qui abbiamo inseguito documenti, funzioni e contesti. Ora la storia cambia voce. Con *I sogni di un ragazzo* entriamo nella memoria personale del Dott. Flavio Bruno, e il libro diventa più vicino alla fonte umana che lo ha messo in movimento."
+        },
+        {
+          "type": "paragraph",
           "text": "A un certo punto la storia smette di essere soltanto cronologia e diventa voce."
         },
         {
@@ -2953,10 +3895,6 @@ export const italianMaster = {
         {
           "type": "paragraph",
           "text": "E io, leggendo le sue parole, ho capito che una parte del Cane Corso può essere conservata anche così: non soltanto nel sangue, ma nella memoria di ciò che gli uomini si aspettavano da lui."
-        },
-        {
-          "type": "paragraph",
-          "text": "---"
         },
         {
           "type": "paragraph",
@@ -3025,6 +3963,10 @@ export const italianMaster = {
         {
           "type": "paragraph",
           "text": "Per questo ho voluto conservare questo racconto con una cura particolare. Non perché ogni ricordo personale debba diventare prova storica, ma perché senza questa memoria non comprenderemmo la voce che guida il libro."
+        },
+        {
+          "type": "paragraph",
+          "text": "Da questa memoria nasce un lessico che i capitoli successivi renderanno concreto. Prima di tornare alla teoria, dobbiamo incontrare alcuni cani attraverso i loro nomi e le storie che li hanno resi memorabili."
         }
       ],
       "editorialNotes": []
@@ -3036,6 +3978,10 @@ export const italianMaster = {
       "title": "Guagliò e Picciotto",
       "partId": "parte-v",
       "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Le grandi idee diventano più chiare quando entrano in un racconto. Guagliò e Picciotto non servono a dimostrare una legge universale; servono a mostrare che cosa significavano equilibrio, relazione e giudizio nella memoria di chi quei cani li ha conosciuti."
+        },
         {
           "type": "paragraph",
           "text": "Il nome che diamo a un cane può raccontare il posto che occupa nella nostra vita."
@@ -3076,10 +4022,6 @@ export const italianMaster = {
         {
           "type": "paragraph",
           "text": "Questa è una delle idee che riconosco anche nei miei Cane. Non ho bisogno di inventare per loro un passato eroico. Mi basta osservare quella disposizione: stare con l’uomo, capire dove si trova il problema e scegliere una posizione."
-        },
-        {
-          "type": "paragraph",
-          "text": "---"
         },
         {
           "type": "paragraph",
@@ -3128,6 +4070,10 @@ export const italianMaster = {
         {
           "type": "paragraph",
           "text": "Questa è una differenza enorme. La forza senza giudizio produce pericolo. Il giudizio senza coraggio produce inefficacia. Nel racconto del vecchio macellaio, il valore di Guagliò nasce dall'unione delle due cose."
+        },
+        {
+          "type": "paragraph",
+          "text": "Guagliò e Picciotto ci mostrano il valore del giudizio. Spezzaferro ci insegnerà invece un’altra disciplina: non chiamare Cane Corso ciò che nella memoria era Mastino soltanto perché il racconto ci affascina."
         }
       ],
       "editorialNotes": []
@@ -3139,6 +4085,10 @@ export const italianMaster = {
       "title": "Spezzaferro",
       "partId": "parte-v",
       "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Spezzaferro è importante proprio perché ci obbliga a non forzare la storia. Non era un Cane Corso. Era un Mastino. Conservare questa differenza significa rispettare il metodo che il libro sta costruendo."
+        },
         {
           "type": "paragraph",
           "text": "Spezzaferro **non era un Cane Corso**."
@@ -3198,10 +4148,6 @@ export const italianMaster = {
         },
         {
           "type": "paragraph",
-          "text": "---"
-        },
-        {
-          "type": "paragraph",
           "text": "Spezzaferro merita di essere raccontato lentamente, perché non è importante per ciò che “dimostra” su una razza. È importante per ciò che mostra sul legame."
         },
         {
@@ -3247,6 +4193,10 @@ export const italianMaster = {
         {
           "type": "paragraph",
           "text": "Il racconto vale anche per un'altra ragione: ricorda che la storia rurale non era popolata da “razze” isolate in compartimenti moderni. Gli uomini conoscevano tipi differenti perché avevano bisogno di lavori differenti. Il Cane Corso non diventa più importante se chiamiamo Cane Corso ogni cane memorabile. Diventa più comprensibile quando sappiamo riconoscere ciò che non era."
+        },
+        {
+          "type": "paragraph",
+          "text": "Questa distinzione prepara il terreno al racconto più duro. Anche lì dovremo conservare la voce senza trasformare la memoria in diagnosi o la paura in leggenda."
         }
       ],
       "editorialNotes": []
@@ -3258,6 +4208,10 @@ export const italianMaster = {
       "title": "Il grido della rabbia",
       "partId": "parte-v",
       "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Ci sono racconti che non possono essere ridotti a una definizione tecnica. *Il grido della rabbia* appartiene a questa categoria: memoria, paura, conoscenze dell’epoca e responsabilità umana si intrecciano senza diventare automaticamente prova scientifica."
+        },
         {
           "type": "paragraph",
           "text": "Anche **Leone**, protagonista di questo racconto, era un Mastino. Non un Cane Corso."
@@ -3307,10 +4261,6 @@ export const italianMaster = {
         {
           "type": "paragraph",
           "text": "È memoria familiare, non certificazione genealogica. Proprio per questo è preziosa."
-        },
-        {
-          "type": "paragraph",
-          "text": "---"
         },
         {
           "type": "paragraph",
@@ -3416,6 +4366,10 @@ export const italianMaster = {
       "blocks": [
         {
           "type": "paragraph",
+          "text": "Entrando nel Novecento il Cane Corso è ancora dentro il mondo che lo aveva modellato. Fino agli anni Cinquanta molte funzioni tradizionali restano comprensibili perché esiste ancora la struttura sociale che le rende necessarie."
+        },
+        {
+          "type": "paragraph",
           "text": "Dott. Flavio Bruno riassume la prima metà del Novecento con tre immagini funzionali:"
         },
         {
@@ -3441,10 +4395,6 @@ export const italianMaster = {
         {
           "type": "paragraph",
           "text": "È il momento più delicato della nostra storia."
-        },
-        {
-          "type": "paragraph",
-          "text": "---"
         },
         {
           "type": "paragraph",
@@ -3493,6 +4443,10 @@ export const italianMaster = {
         {
           "type": "paragraph",
           "text": "È qui che la storia orale diventa particolarmente preziosa. Non sostituisce i documenti, ma riduce la distanza fra il cane rurale e chi, negli ultimi decenni del Novecento, cercò di riconoscerne ancora le tracce."
+        },
+        {
+          "type": "paragraph",
+          "text": "Finché la funzione resta, il tipo continua a ricevere una prova quotidiana. Il problema nasce quando il mondo che produce quella prova comincia a scomparire."
         }
       ],
       "editorialNotes": []
@@ -3504,6 +4458,10 @@ export const italianMaster = {
       "title": "Quando il mondo rurale cambia",
       "partId": "parte-vi",
       "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Poi il mondo cambia più rapidamente del cane. Meccanizzazione, trasformazione dell’agricoltura, nuove forme di proprietà e nuovi modi di vivere riducono gli spazi nei quali la vecchia funzione veniva provata ogni giorno."
+        },
         {
           "type": "paragraph",
           "text": "Una razza funzionale può sopravvivere a molte cose. Fa più fatica a sopravvivere alla scomparsa della funzione che l’ha costruita."
@@ -3519,10 +4477,6 @@ export const italianMaster = {
         {
           "type": "paragraph",
           "text": "Il recupero può salvare il nome e una parte del tipo. Ma apre anche un problema nuovo: chi decide che cosa deve essere conservato?"
-        },
-        {
-          "type": "paragraph",
-          "text": "---"
         },
         {
           "type": "paragraph",
@@ -3559,6 +4513,10 @@ export const italianMaster = {
         {
           "type": "paragraph",
           "text": "Il Cane Corso entra così nella modernità con una domanda aperta: **come si conserva una funzione quando il mondo che la rendeva necessaria non esiste più nello stesso modo?**"
+        },
+        {
+          "type": "paragraph",
+          "text": "La perdita di funzione non lascia un vuoto neutro. Crea spazio per nuovi usi, nuove mode e anche nuovi abusi. È qui che dobbiamo affrontare la criminalità moderna senza retroproiettarla sul passato."
         }
       ],
       "editorialNotes": [
@@ -3572,6 +4530,10 @@ export const italianMaster = {
       "title": "Il cane da presa e la malavita moderna",
       "partId": "parte-vi",
       "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Quando una capacità antica entra in un contesto criminale moderno, il rischio di confondere la funzione con l’abuso diventa enorme. Per questo dobbiamo separare con precisione il cane da presa storico dallo sfruttamento clandestino contemporaneo."
+        },
         {
           "type": "paragraph",
           "text": "Questo capitolo richiede la massima disciplina."
@@ -3591,10 +4553,6 @@ export const italianMaster = {
         {
           "type": "paragraph",
           "text": "Un cane nato per lavorare accanto all’uomo può essere sfruttato contro l’uomo. Questa deformazione non racconta l’essenza della razza; racconta l’essere umano."
-        },
-        {
-          "type": "paragraph",
-          "text": "---"
         },
         {
           "type": "paragraph",
@@ -3627,6 +4585,10 @@ export const italianMaster = {
         {
           "type": "paragraph",
           "text": "Questa parte non serve a rendere il Cane più “duro”. Serve al contrario a separare il cane dalla scelta criminale dell'uomo. Un animale selezionato per lavorare può essere deformato, fisicamente e mentalmente, quando la violenza diventa lo scopo invece di uno strumento limitato dalla funzione."
+        },
+        {
+          "type": "paragraph",
+          "text": "Separato l’abuso dalla funzione, possiamo vedere meglio un fenomeno più ampio: le capacità del cane possono essere riutilizzate, imitate o deformate ogni volta che cambia il contesto umano."
         }
       ],
       "editorialNotes": [
@@ -3642,6 +4604,10 @@ export const italianMaster = {
       "title": "Tutto passa, tutto torna",
       "partId": "parte-vi",
       "blocks": [
+        {
+          "type": "paragraph",
+          "text": "La storia non procede in linea retta. Alcune funzioni scompaiono, altre riemergono sotto forme diverse, altre ancora vengono imitate senza comprenderne il contesto. Tutto passa, ma non tutto ritorna nello stesso modo."
+        },
         {
           "type": "paragraph",
           "text": "Dott. Flavio Bruno chiude l’ultimo grande materiale che mi inviò con quattro parole:"
@@ -3670,10 +4636,6 @@ export const italianMaster = {
         {
           "type": "paragraph",
           "text": "La domanda è se, quando qualcosa torna, ritorna davvero la funzione oppure soltanto la sua immagine."
-        },
-        {
-          "type": "paragraph",
-          "text": "---"
         },
         {
           "type": "paragraph",
@@ -3770,6 +4732,10 @@ export const italianMaster = {
       "blocks": [
         {
           "type": "paragraph",
+          "text": "A un certo punto cambia il giudice. Il cane che per generazioni era stato valutato dall’utilizzatore entra nel mondo della razza riconosciuta. Non è soltanto un passaggio amministrativo: cambia il sistema che decide che cosa vale la pena conservare."
+        },
+        {
+          "type": "paragraph",
           "text": "Il passaggio da tipo funzionale a razza riconosciuta è insieme salvezza e rischio."
         },
         {
@@ -3787,10 +4753,6 @@ export const italianMaster = {
         {
           "type": "paragraph",
           "text": "Il vero problema non è il riconoscimento. È dimenticare ciò che si stava cercando di riconoscere."
-        },
-        {
-          "type": "paragraph",
-          "text": "---"
         },
         {
           "type": "paragraph",
@@ -3823,6 +4785,10 @@ export const italianMaster = {
         {
           "type": "paragraph",
           "text": "È qui che nasce il problema che Dott. Flavio Bruno mi ripeterà in molti modi: se la descrizione dimentica la funzione, il cane può continuare a chiamarsi nello stesso modo mentre il tipo lentamente cambia."
+        },
+        {
+          "type": "paragraph",
+          "text": "È da questo cambio di giudice che nasce il grande nodo del 'recupero'. Prima di celebrarlo o contestarlo dobbiamo capire esattamente che cosa intendiamo con quella parola."
         }
       ],
       "editorialNotes": []
@@ -3834,6 +4800,10 @@ export const italianMaster = {
       "title": "Il recupero",
       "partId": "parte-vii",
       "blocks": [
+        {
+          "type": "paragraph",
+          "text": "La parola 'recupero' sembra chiudere la questione. In realtà la apre. Che cosa fu recuperato davvero: un cane scomparso, una popolazione ancora presente, un riconoscimento, uno standard, oppure l’accesso alla cinofilia ufficiale?"
+        },
         {
           "type": "paragraph",
           "text": "Per anni anch’io ho conosciuto una storia semplice."
@@ -4230,6 +5200,10 @@ export const italianMaster = {
         {
           "type": "paragraph",
           "text": "Ed è proprio da qui che comincia il problema successivo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Qualunque risposta daremo, una cosa è certa: dal momento del riconoscimento il Cane Corso entra stabilmente in un sistema diverso. Utilizzatori e cinofilia ufficiale iniziano a guardare lo stesso cane con strumenti differenti."
         }
       ],
       "editorialNotes": [
@@ -4244,6 +5218,10 @@ export const italianMaster = {
       "title": "Utilizzatori e cinofilia ufficiale",
       "partId": "parte-vii",
       "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Il passaggio alla cinofilia ufficiale non oppone semplicemente passato e futuro. Mette a confronto due criteri di giudizio: l’utilizzatore che vede il cane nel tempo e l’istituzione che deve descriverlo, registrarlo e valutarlo."
+        },
         {
           "type": "paragraph",
           "text": "Dott. Flavio Bruno traccia una distinzione netta fra **utilizzatori pratici** e mondo della cinofilia ufficiale."
@@ -4268,10 +5246,6 @@ export const italianMaster = {
         {
           "type": "paragraph",
           "text": "Non serve contrapporre due mondi come bene assoluto e male assoluto. Serve domandare quale criterio guida una scelta di allevamento. Se l’obiettivo diventa vincere un ring, il ring selezionerà. Se l’obiettivo è una funzione, la funzione selezionerà."
-        },
-        {
-          "type": "paragraph",
-          "text": "---"
         },
         {
           "type": "paragraph",
@@ -4320,6 +5294,10 @@ export const italianMaster = {
         {
           "type": "paragraph",
           "text": "Forse nessuno di questi, da solo, basta. La sfida è farli dialogare senza lasciare che uno solo cancelli tutti gli altri."
+        },
+        {
+          "type": "paragraph",
+          "text": "Per far dialogare quei due mondi servono strumenti. Il primo è il pedigree: prezioso quando conserva memoria, insufficiente quando pretende di sostituire la selezione."
         }
       ],
       "editorialNotes": [
@@ -4335,6 +5313,10 @@ export const italianMaster = {
       "blocks": [
         {
           "type": "paragraph",
+          "text": "Il pedigree è uno strumento potente proprio perché conserva memoria. Ma nessun documento può sostituire ciò che documenta. La genealogia acquista senso quando resta collegata al cane vivo."
+        },
+        {
+          "type": "paragraph",
           "text": "Il pedigree è uno strumento. Non è il cane."
         },
         {
@@ -4348,10 +5330,6 @@ export const italianMaster = {
         {
           "type": "paragraph",
           "text": "Io considero la genealogia importante. Ma se un documento diventa il criterio unico, corriamo il rischio di certificare la discendenza e dimenticare ciò che dovrebbe discendere."
-        },
-        {
-          "type": "paragraph",
-          "text": "---"
         },
         {
           "type": "paragraph",
@@ -4392,6 +5370,10 @@ export const italianMaster = {
         {
           "type": "paragraph",
           "text": "La buona cinofilia dovrebbe riuscire a usare la prima per proteggere la seconda."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il pedigree ci dice da chi viene il cane. Non può dirci, da solo, perché quel cane dovrebbe restare Cane Corso. Per questo il passo successivo è lo standard."
         }
       ],
       "editorialNotes": []
@@ -4405,6 +5387,10 @@ export const italianMaster = {
       "blocks": [
         {
           "type": "paragraph",
+          "text": "Lo standard prova a trasformare una popolazione reale in parole condivise. È necessario comprenderne il valore senza invertire la causa: il testo viene dopo il cane, non il cane dopo il testo."
+        },
+        {
+          "type": "paragraph",
           "text": "Uno standard nasce per descrivere e proteggere un tipo. Può però diventare pericoloso quando viene letto come una formula meccanica."
         },
         {
@@ -4414,10 +5400,6 @@ export const italianMaster = {
         {
           "type": "paragraph",
           "text": "Lo standard è utile quando ricorda il cane. Diventa insufficiente quando il cane viene modificato per assomigliare a un’interpretazione estrema dello standard."
-        },
-        {
-          "type": "paragraph",
-          "text": "---"
         },
         {
           "type": "paragraph",
@@ -4450,6 +5432,10 @@ export const italianMaster = {
         {
           "type": "paragraph",
           "text": "Per questo, nelle pagine successive, non confronteremo semplicemente il Cane con una lista di misure. Chiederemo per ogni caratteristica: **a che cosa serve? quale compromesso funzionale rappresenta? che cosa accade quando viene estremizzata?**"
+        },
+        {
+          "type": "paragraph",
+          "text": "Lo standard definisce un confine, ma ogni confine può essere letto con misura oppure spinto fino all’esagerazione. Da qui nasce il problema di ipotipo, tipo e ipertipo."
         }
       ],
       "editorialNotes": [
@@ -4463,6 +5449,10 @@ export const italianMaster = {
       "title": "Ipotipo, tipo, ipertipo",
       "partId": "parte-vii",
       "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Ogni definizione di tipo contiene un rischio: trasformare l’identità in estremizzazione. Fra ipotipo, tipo e ipertipo si gioca una parte decisiva del rapporto fra riconoscibilità e funzionalità."
+        },
         {
           "type": "paragraph",
           "text": "Il Dott. Flavio Bruno mi spiegò questi tre concetti con grande chiarezza."
@@ -4538,6 +5528,10 @@ export const italianMaster = {
       "blocks": [
         {
           "type": "paragraph",
+          "text": "Dopo aver attraversato la storia possiamo finalmente tornare al corpo. Ma ora lo guardiamo diversamente: non come un catalogo di parti, bensì come il risultato di pressioni funzionali che devono ancora dialogare fra loro."
+        },
+        {
+          "type": "paragraph",
           "text": "La forma è importante. Ma la forma, da sola, non basta."
         },
         {
@@ -4571,10 +5565,6 @@ export const italianMaster = {
         {
           "type": "paragraph",
           "text": "La bellezza funzionale nasce dall’armonia."
-        },
-        {
-          "type": "paragraph",
-          "text": "---"
         },
         {
           "type": "paragraph",
@@ -4615,6 +5605,10 @@ export const italianMaster = {
         {
           "type": "paragraph",
           "text": "Per questo la frase “la funzione fa il tipo” non significa soltanto che il lavoro influenza l'aspetto. Significa che **l'armonia nasce dall'insieme delle richieste funzionali**. Quando selezioniamo un solo tratto ignorando il resto, rompiamo quell'armonia."
+        },
+        {
+          "type": "paragraph",
+          "text": "La forma, allora, non è più un’immagine da difendere. È un sistema da comprendere. La testa è il luogo più evidente nel quale questa differenza diventa visibile."
         }
       ],
       "editorialNotes": []
@@ -4626,6 +5620,10 @@ export const italianMaster = {
       "title": "Testa, bocca e presa",
       "partId": "parte-viii",
       "blocks": [
+        {
+          "type": "paragraph",
+          "text": "La testa è forse la parte del Cane Corso che più facilmente diventa simbolo. Proprio per questo deve essere sottratta all’immagine isolata e riportata a bocca, respirazione, presa e proporzione."
+        },
         {
           "type": "paragraph",
           "text": "La testa del Cane Corso ha un valore identitario forte. Ma proprio per questo è una delle parti più esposte all’esagerazione."
@@ -4649,10 +5647,6 @@ export const italianMaster = {
         {
           "type": "paragraph",
           "text": "La testa deve raccontare forza, non caricatura."
-        },
-        {
-          "type": "paragraph",
-          "text": "---"
         },
         {
           "type": "paragraph",
@@ -4685,6 +5679,10 @@ export const italianMaster = {
         {
           "type": "paragraph",
           "text": "Questo significa che bocca e testa non possono essere comprese senza comportamento. Una testa impressionante su un cane privo di tempismo e controllo non ricrea la funzione antica."
+        },
+        {
+          "type": "paragraph",
+          "text": "Se la testa deve restare funzionale, il movimento ci mostra se l’intero corpo riesce davvero a sostenere ciò che promette da fermo."
         }
       ],
       "editorialNotes": [
@@ -4700,6 +5698,10 @@ export const italianMaster = {
       "title": "Movimento",
       "partId": "parte-viii",
       "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Un cane può apparire potente da fermo e raccontare un’altra storia quando si muove. Il movimento è il momento in cui molte scelte morfologiche smettono di essere opinioni e diventano conseguenze."
+        },
         {
           "type": "paragraph",
           "text": "Un cane da lavoro deve muoversi."
@@ -4723,10 +5725,6 @@ export const italianMaster = {
         {
           "type": "paragraph",
           "text": "La funzione non permette alla morfologia di mentire a lungo."
-        },
-        {
-          "type": "paragraph",
-          "text": "---"
         },
         {
           "type": "paragraph",
@@ -4771,6 +5769,10 @@ export const italianMaster = {
         {
           "type": "paragraph",
           "text": "La struttura non è una statua. È un corpo destinato a vivere."
+        },
+        {
+          "type": "paragraph",
+          "text": "Ma nemmeno un movimento corretto basta a spiegare il Cane Corso. Rimane la parte che decide quando e perché quel corpo entra in azione: il carattere."
         }
       ],
       "editorialNotes": []
@@ -4782,6 +5784,10 @@ export const italianMaster = {
       "title": "Carattere e “coscienza”",
       "partId": "parte-viii",
       "blocks": [
+        {
+          "type": "paragraph",
+          "text": "La parte più difficile da fotografare è anche quella più facile da perdere: il carattere. La vecchia parola 'coscienza', nella memoria richiamata dal Dott. Flavio Bruno, prova a nominare qualcosa che nessuna misura anatomica può contenere da sola."
+        },
         {
           "type": "paragraph",
           "text": "Fra tutte le parole che Dott. Flavio Bruno mi ha regalato, una delle più belle è **coscienza**."
@@ -4823,10 +5829,6 @@ export const italianMaster = {
         {
           "type": "paragraph",
           "text": "Forse non possiamo misurare facilmente questa qualità. Ma se la perdiamo, possiamo avere un cane perfetto sulla carta e lontano da ciò che gli uomini del Sud chiamavano Cane Corso."
-        },
-        {
-          "type": "paragraph",
-          "text": "---"
         },
         {
           "type": "paragraph",
@@ -4883,6 +5885,10 @@ export const italianMaster = {
         {
           "type": "paragraph",
           "text": "Il vero coraggio non è rumore. È disponibilità ad agire quando serve e capacità di non agire quando non serve."
+        },
+        {
+          "type": "paragraph",
+          "text": "La 'coscienza' conduce direttamente alla guardia. Non basta reagire; bisogna distinguere. Non basta avere coraggio; bisogna sapere quando usarlo."
         }
       ],
       "editorialNotes": [
@@ -4896,6 +5902,10 @@ export const italianMaster = {
       "title": "La guardia",
       "partId": "parte-viii",
       "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Se dobbiamo scegliere una funzione capace di spiegare la persistenza del Cane Corso, la guardia occupa un posto centrale nella lettura del Dott. Flavio Bruno. Ma guardia non significa reazione indiscriminata."
+        },
         {
           "type": "paragraph",
           "text": "La guardia non è abbaiare a tutto."
@@ -4923,10 +5933,6 @@ export const italianMaster = {
         {
           "type": "paragraph",
           "text": "La forza più importante non è partire. È sapere perché partire."
-        },
-        {
-          "type": "paragraph",
-          "text": "---"
         },
         {
           "type": "paragraph",
@@ -4967,6 +5973,10 @@ export const italianMaster = {
         {
           "type": "paragraph",
           "text": "La guardia moderna dovrebbe ricordare questa lezione. Proteggere non significa impedire al cane di vivere socialmente. Significa selezionare stabilità, relazione con il proprietario e capacità di discriminazione."
+        },
+        {
+          "type": "paragraph",
+          "text": "Se la guardia aiuta a spiegare la continuità funzionale, il colore mostra l’opposto: una caratteristica immediatamente visibile che può diventare troppo importante quando perdiamo di vista l’insieme."
         }
       ],
       "editorialNotes": []
@@ -4978,6 +5988,10 @@ export const italianMaster = {
       "title": "Il colore non fa il Cane Corso",
       "partId": "parte-viii",
       "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Il colore è visibile immediatamente, e proprio per questo rischia di ricevere più importanza di qualità che richiedono anni per essere comprese. La storia funzionale del Cane Corso ci insegna a rimettere le priorità al loro posto."
+        },
         {
           "type": "paragraph",
           "text": "Il colore è la prima cosa che molti vedono e una delle ultime che dovrebbe guidare la selezione."
@@ -5010,10 +6024,6 @@ export const italianMaster = {
         {
           "type": "paragraph",
           "text": "Prima deve essere Cane Corso."
-        },
-        {
-          "type": "paragraph",
-          "text": "---"
         },
         {
           "type": "paragraph",
@@ -5063,6 +6073,10 @@ export const italianMaster = {
       "blocks": [
         {
           "type": "paragraph",
+          "text": "Dopo la storia arriva la responsabilità. Se la funzione ha costruito il tipo, allevare significa scegliere quali pressioni continueranno ad agire sulla generazione successiva."
+        },
+        {
+          "type": "paragraph",
           "text": "Allevare non significa produrre cuccioli."
         },
         {
@@ -5084,10 +6098,6 @@ export const italianMaster = {
         {
           "type": "paragraph",
           "text": "Allevare è un’arte perché unisce conoscenza, osservazione e giudizio. Ma è anche responsabilità perché ogni errore può moltiplicarsi."
-        },
-        {
-          "type": "paragraph",
-          "text": "---"
         },
         {
           "type": "paragraph",
@@ -5144,6 +6154,10 @@ export const italianMaster = {
         {
           "type": "paragraph",
           "text": "La cinofilia moderna può fare meglio del passato soltanto se unisce quella osservazione agli strumenti di oggi, non se sostituisce l'osservazione con i documenti."
+        },
+        {
+          "type": "paragraph",
+          "text": "L’arte dell’allevamento diventa concreta nel momento della scelta. E la prima scelta da chiarire è se vogliamo selezionare un’immagine oppure un cane ancora capace di funzione."
         }
       ],
       "editorialNotes": []
@@ -5155,6 +6169,10 @@ export const italianMaster = {
       "title": "Selezione funzionale",
       "partId": "parte-ix",
       "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Selezionare funzionalmente non significa ricreare artificialmente il passato. Significa chiedersi quali qualità rendevano coerente il cane e come possano essere osservate responsabilmente nel presente."
+        },
         {
           "type": "paragraph",
           "text": "Il Dott. Flavio Bruno mi disse:"
@@ -5183,10 +6201,6 @@ export const italianMaster = {
         {
           "type": "paragraph",
           "text": "La funzione deve essere conservata senza riprodurre la crudeltà di epoche diverse."
-        },
-        {
-          "type": "paragraph",
-          "text": "---"
         },
         {
           "type": "paragraph",
@@ -5227,6 +6241,10 @@ export const italianMaster = {
         {
           "type": "paragraph",
           "text": "La tradizione non si conserva imitando teatralmente il passato. Si conserva mantenendo vive le qualità che il passato aveva selezionato."
+        },
+        {
+          "type": "paragraph",
+          "text": "La funzione non può però essere inseguita sacrificando la salute genetica. Una popolazione viva ha bisogno anche di variabilità, conoscenza e responsabilità nella gestione delle genealogie."
         }
       ],
       "editorialNotes": [
@@ -5240,6 +6258,10 @@ export const italianMaster = {
       "title": "Variabilità genetica e consanguineità",
       "partId": "parte-ix",
       "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Ogni selezione restringe qualcosa. Per questo conservare il tipo senza impoverire la popolazione richiede equilibrio fra coerenza, variabilità genetica e conoscenza delle genealogie."
+        },
         {
           "type": "paragraph",
           "text": "Una razza chiusa possiede un problema che non può essere ignorato: ogni scelta riproduttiva modifica la sua variabilità genetica."
@@ -5263,10 +6285,6 @@ export const italianMaster = {
         {
           "type": "paragraph",
           "text": "La natura lavora con variazione. L’allevatore deve imparare a governarla, non distruggerla."
-        },
-        {
-          "type": "paragraph",
-          "text": "---"
         },
         {
           "type": "paragraph",
@@ -5299,6 +6317,10 @@ export const italianMaster = {
         {
           "type": "paragraph",
           "text": "La variabilità non è il contrario della selezione. È la materia sulla quale la selezione può lavorare."
+        },
+        {
+          "type": "paragraph",
+          "text": "La genetica ci riporta dal concetto alla nascita reale. Ogni scelta finisce in una madre, in una gravidanza e in cuccioli che devono essere vitali prima ancora di poter diventare tipici."
         }
       ],
       "editorialNotes": [
@@ -5316,6 +6338,10 @@ export const italianMaster = {
       "blocks": [
         {
           "type": "paragraph",
+          "text": "La selezione non comincia quando scegliamo un cucciolo. Comincia molto prima, nella scelta dei genitori e nella capacità della madre di portare, partorire e allevare una cucciolata sana."
+        },
+        {
+          "type": "paragraph",
           "text": "Una razza non si conserva soltanto scegliendo lo stallone. Si conserva attraverso la madre."
         },
         {
@@ -5329,10 +6355,6 @@ export const italianMaster = {
         {
           "type": "paragraph",
           "text": "Nei primi giorni la selezione non è ancora il giudizio su quale cucciolo sia “più bello”. È la responsabilità di permettere a tutti di svilupparsi nelle migliori condizioni possibili."
-        },
-        {
-          "type": "paragraph",
-          "text": "---"
         },
         {
           "type": "paragraph",
@@ -5361,6 +6383,10 @@ export const italianMaster = {
         {
           "type": "paragraph",
           "text": "La madre non trasmette soltanto geni. È il primo ambiente del cucciolo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Dalla nascita comincia un altro tipo di selezione: non quella dell’esclusione, ma quella della cura. Crescere bene significa permettere al potenziale genetico di esprimersi senza forzarlo."
         }
       ],
       "editorialNotes": [
@@ -5376,6 +6402,10 @@ export const italianMaster = {
       "title": "Crescita e alimentazione",
       "partId": "parte-ix",
       "blocks": [
+        {
+          "type": "paragraph",
+          "text": "La crescita mette alla prova la nostra pazienza. Un grande cane giovane invita facilmente a cercare massa e precocità; conservare significa invece rispettare tempi biologici che non possono essere accelerati senza conseguenze."
+        },
         {
           "type": "paragraph",
           "text": "Il cucciolo di Cane Corso cresce rapidamente. Proprio per questo la crescita non deve essere forzata."
@@ -5399,10 +6429,6 @@ export const italianMaster = {
         {
           "type": "paragraph",
           "text": "Il Cane Corso deve avere tempo di diventare Cane Corso."
-        },
-        {
-          "type": "paragraph",
-          "text": "---"
         },
         {
           "type": "paragraph",
@@ -5435,6 +6461,10 @@ export const italianMaster = {
         {
           "type": "paragraph",
           "text": "Se vogliamo conservare un Cane equilibrato, dobbiamo smettere di confondere precocità con qualità."
+        },
+        {
+          "type": "paragraph",
+          "text": "La crescita ci ricorda che conservare non significa produrre risultati immediati. La stessa logica vale per la salute: intervenire quando serve, ma soprattutto creare condizioni che riducano il bisogno di intervenire."
         }
       ],
       "editorialNotes": [
@@ -5450,6 +6480,10 @@ export const italianMaster = {
       "title": "Prevenire prima di curare",
       "partId": "parte-ix",
       "blocks": [
+        {
+          "type": "paragraph",
+          "text": "La tradizione da sola non basta, ma nemmeno la modernità ha senso se dimentica il cane intero. Prevenire significa unire conoscenza scientifica, responsabilità e rispetto della natura dell’animale."
+        },
         {
           "type": "paragraph",
           "text": "Il Dott. Flavio Bruno intitolò una delle sue sezioni veterinarie **“Prevenzione e cura secondo scienza, coscienza e natura.”**"
@@ -5473,10 +6507,6 @@ export const italianMaster = {
         {
           "type": "paragraph",
           "text": "Conservare una razza non significa soltanto far nascere la generazione successiva. Significa far vivere bene quella presente."
-        },
-        {
-          "type": "paragraph",
-          "text": "---"
         },
         {
           "type": "paragraph",
@@ -5532,6 +6562,10 @@ export const italianMaster = {
       "blocks": [
         {
           "type": "paragraph",
+          "text": "Dopo migliaia di pagine, immagini e standard, il rischio finale è sorprendentemente semplice: scambiare il Cane Corso con la sua fotografia. Una razza viva non può essere fermata in un istante."
+        },
+        {
+          "type": "paragraph",
           "text": "Una fotografia ferma un istante. Una razza viva attraversa il tempo."
         },
         {
@@ -5553,10 +6587,6 @@ export const italianMaster = {
         {
           "type": "paragraph",
           "text": "Il vero passato non era fermo. Lavorava."
-        },
-        {
-          "type": "paragraph",
-          "text": "---"
         },
         {
           "type": "paragraph",
@@ -5597,6 +6627,10 @@ export const italianMaster = {
         {
           "type": "paragraph",
           "text": "Un Cane Corso vivo è tempo, comportamento, movimento, salute e relazione."
+        },
+        {
+          "type": "paragraph",
+          "text": "Se una fotografia non basta, nemmeno il nome basta. Dobbiamo confrontare ciò che abbiamo conservato con ciò che poteva andare perduto mentre il cane diventava una razza globale."
         }
       ],
       "editorialNotes": []
@@ -5608,6 +6642,10 @@ export const italianMaster = {
       "title": "Cosa abbiamo conservato? Cosa abbiamo perduto?",
       "partId": "parte-x",
       "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Siamo arrivati alla domanda che il libro preparava dall’inizio. Non più soltanto da dove viene il Cane Corso, né soltanto perché era fatto così. Ora dobbiamo guardare ciò che abbiamo davanti e chiederci: che cosa è rimasto?"
+        },
         {
           "type": "paragraph",
           "text": "Abbiamo conservato il nome."
@@ -5726,10 +6764,6 @@ export const italianMaster = {
         },
         {
           "type": "paragraph",
-          "text": "---"
-        },
-        {
-          "type": "paragraph",
           "text": "Questa domanda non deve avere una risposta comoda. Sarebbe facile concludere che prima tutto era vero e oggi tutto è corrotto. Sarebbe falso. Sarebbe altrettanto facile dire che il riconoscimento moderno ha salvato la razza e quindi ogni critica è nostalgia. Anche questo sarebbe insufficiente."
         },
         {
@@ -5832,6 +6866,10 @@ export const italianMaster = {
         {
           "type": "question",
           "text": "che cosa sa ancora essere?"
+        },
+        {
+          "type": "paragraph",
+          "text": "La risposta non può essere una sentenza unica. Può però diventare un criterio per scegliere. Ed è proprio questo il compito dell’ultimo capitolo: trasformare il dubbio in responsabilità verso il futuro."
         }
       ],
       "editorialNotes": []
@@ -5843,6 +6881,10 @@ export const italianMaster = {
       "title": "Conservare una razza viva",
       "partId": "parte-x",
       "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Conservare non significa tornare indietro. Significa scegliere consapevolmente che cosa deve attraversare il cambiamento. L’ultima domanda non riguarda il passato: riguarda il Cane Corso che consegneremo a chi verrà dopo di noi."
+        },
         {
           "type": "paragraph",
           "text": "Conservare non significa congelare."
@@ -5929,7 +6971,7 @@ export const italianMaster = {
         },
         {
           "type": "quote",
-          "text": "**«La funzione fa il tipo.»**",
+          "text": "«La funzione fa il tipo.»",
           "attribution": "Dott. Flavio Bruno"
         },
         {
@@ -6099,6 +7141,10 @@ export const italianMaster = {
         {
           "type": "paragraph",
           "text": "Conservare una razza viva significa questo: **consegnarla al futuro ancora capace di spiegare, con il proprio corpo e con il proprio carattere, perché è diventata ciò che è.**"
+        },
+        {
+          "type": "paragraph",
+          "text": "La conclusione non è un modello congelato, ma un impegno: continuare a fare la domanda giusta. È da qui che il libro può passare dall’autore al lettore, come un testimone in una staffetta."
         }
       ],
       "editorialNotes": []
@@ -6440,26 +7486,12 @@ export const italianMaster = {
       {
         "type": "question",
         "text": "La funzione fa il tipo."
-      },
-      {
-        "type": "paragraph",
-        "text": "---"
-      },
-      {
-        "type": "paragraph",
-        "text": "## NOTA INTERNA PER LA REVISIONE DEL MASTER"
-      },
-      {
-        "type": "paragraph",
-        "text": "Le citazioni attribuite al Dott. Flavio Bruno provengono dal corpus delle conversazioni private messe a disposizione per questo progetto e dovranno essere ricontrollate parola per parola nella fase finale di editing, mantenendo il significato e la voce originale."
-      },
-      {
-        "type": "paragraph",
-        "text": "Le sezioni in prima persona di Stefano De Tanini rappresentano interpretazione ed esperienza dell’autore e non vengono presentate come prova storica."
       }
     ],
     "editorialNotes": [
-      "I marcatori **[VERIFICA]** appartengono soltanto al processo editoriale del master. Prima della pubblicazione saranno risolti attraverso fonti adeguate e rimossi dal testo finale oppure trasformati in note bibliografiche."
+      "I marcatori **[VERIFICA]** appartengono soltanto al processo editoriale del master. Prima della pubblicazione saranno risolti attraverso fonti adeguate e rimossi dal testo finale oppure trasformati in note bibliografiche.",
+      "Le citazioni attribuite al Dott. Flavio Bruno provengono dal corpus delle conversazioni private messe a disposizione per questo progetto e dovranno essere ricontrollate parola per parola nella fase finale di editing, mantenendo il significato e la voce originale.",
+      "Le sezioni in prima persona di Stefano De Tanini rappresentano interpretazione ed esperienza dell’autore e non vengono presentate come prova storica."
     ]
   }
 }
