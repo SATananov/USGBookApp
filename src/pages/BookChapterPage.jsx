@@ -1,59 +1,83 @@
 import { Link, useParams } from 'react-router-dom'
 import { book, getChapter, parts } from '../data/book'
-import { media } from '../data/media'
 import { useBookLanguage } from '../localization/useBookLanguage'
-import { BookImagePlate } from '../components/BookImagePlate'
 import { BookQuote } from '../components/BookQuote'
 import { BookProgress } from '../components/BookProgress'
 import { BookOrnament } from '../components/BookOrnament'
 import { BookNotFoundPage } from './BookReferencePage'
 
-export function BookChapterPage() {
-  const { slug } = useParams()
-  const chapter = getChapter(slug)
-  return chapter ? <ChapterReader key={chapter.id} chapter={chapter} /> : <BookNotFoundPage />
+function InlineText({ text }) {
+  const chunks = text.split(/(\*\*[^*]+\*\*|\*[^*]+\*)/g).filter(Boolean)
+  return chunks.map((chunk, index) => {
+    if (chunk.startsWith('**') && chunk.endsWith('**')) return <strong key={index}>{chunk.slice(2, -2)}</strong>
+    if (chunk.startsWith('*') && chunk.endsWith('*')) return <em key={index}>{chunk.slice(1, -1)}</em>
+    return <span key={index}>{chunk}</span>
+  })
 }
 
-function ChapterReader({ chapter }) {
-  const { language, t } = useBookLanguage()
-  const translated = chapter.translations[language]
-  const part = parts.find((part) => part.id === chapter.partId)
-  const next = getChapter(chapter.nextSlug)
-  const previous = getChapter(chapter.previousSlug)
+function ReadingBlocks({ blocks }) {
   return (
-    <article className={`inner-page chapter-page${chapter.status === 'planned' ? ' planned-chapter' : ''}`}>
+    <div className="reading-text">
+      {blocks.map((block, index) => {
+        if (block.type === 'heading') return <h2 key={index}><InlineText text={block.text} /></h2>
+        if (block.type === 'question') return <p key={index} className="book-question"><strong><InlineText text={block.text} /></strong></p>
+        if (block.type === 'quote') return <BookQuote key={index} text={block.text.replaceAll('**', '')} attribution={block.attribution} />
+        if (block.type === 'list') {
+          const Tag = block.ordered ? 'ol' : 'ul'
+          return <Tag key={index}>{block.items.map((item, itemIndex) => <li key={itemIndex}><InlineText text={item} /></li>)}</Tag>
+        }
+        return <p key={index}><InlineText text={block.text} /></p>
+      })}
+    </div>
+  )
+}
+
+export function BookChapterPage() {
+  const { slug } = useParams()
+  const item = getChapter(slug)
+  return item ? <ChapterReader key={item.id} item={item} /> : <BookNotFoundPage />
+}
+
+function ChapterReader({ item }) {
+  const { language, t } = useBookLanguage()
+  const translated = item.translations[language] ?? item.translations.it
+  const previous = getChapter(item.previousSlug)
+  const next = getChapter(item.nextSlug)
+  const part = item.kind === 'chapter' ? parts.find((candidate) => candidate.id === item.partId) : null
+
+  return (
+    <article className="inner-page chapter-page">
       <header className="chapter-heading">
-        <p className="eyebrow">{t.part} {part.number} <span aria-hidden="true">—</span> {part.translations[language].title}</p>
+        {part ? (
+          <p className="eyebrow">{t.part} {part.number} <span aria-hidden="true">—</span> {part.translations[language].title}</p>
+        ) : (
+          <p className="eyebrow">{item.kind === 'epilogue' ? 'Epilogo' : 'PRIMA E DOPO IL CANE CORSO'}</p>
+        )}
         <BookOrnament className="chapter-rule" />
         <h1>{translated.title}</h1>
-        <p className="intro">{translated.intro}</p>
+        {language !== 'it' && <p className="intro">Testo master italiano · traduzione {language.toUpperCase()} dopo il lock editoriale.</p>}
       </header>
-      {chapter.status === 'planned' ? (
-        <section className="reference-placeholder">
-          <BookOrnament />
-          <h2>{t.inPreparation}</h2><p>{t.nextNote}</p>
-        </section>
-      ) : <>
-        {chapter.mediaIds.map((id, index) => (
-          <BookImagePlate key={id} media={media.find((item) => item.id === id)} number={index + 1} />
-        ))}
-        <BookOrnament className="caption-rule" />
-        <BookQuote text={translated.quote} attribution={translated.quoteAttribution} />
-      </>}
-      <BookProgress part={part.number} position={chapter.number} total={book.plannedChapters}
-        next={next && { slug: next.slug, title: next.translations[language].title }} />
+
+      <ReadingBlocks blocks={item.contentIt} />
+
+      {item.kind === 'chapter' && (
+        <BookProgress
+          part={part.number}
+          position={item.number}
+          total={book.plannedChapters}
+          next={next && { slug: next.slug, title: next.translations[language]?.title ?? next.translations.it.title }}
+        />
+      )}
+
       <div className="chapter-notes">
         <Link className="text-link" to={previous ? `/chapter/${previous.slug}` : '/contents'}>
-          <span aria-hidden="true">←</span> {t.previous} · {previous ? previous.translations[language].title : t.contents}
+          <span aria-hidden="true">←</span> {t.previous} · {previous ? previous.translations[language]?.title ?? previous.translations.it.title : t.contents}
         </Link>
-        {chapter.status === 'demo' && <details className="edition-notes">
-          <summary>{t.sampleEdition} · {t.editionNotes}</summary>
-          <div className="reading-text">
-            <p>{t.demoNote} {t.demoPosition}</p>
-            <h2>{translated.sectionTitle}</h2>
-            {translated.paragraphs.map((paragraph, index) => <p key={index}>{paragraph}</p>)}
-          </div>
-        </details>}
+        {item.kind !== 'chapter' && next && (
+          <Link className="text-link" to={`/chapter/${next.slug}`}>
+            {t.next} · {next.translations[language]?.title ?? next.translations.it.title} <span aria-hidden="true">→</span>
+          </Link>
+        )}
       </div>
     </article>
   )

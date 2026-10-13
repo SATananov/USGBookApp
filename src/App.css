@@ -1090,3 +1090,249 @@
     height: 90px;
   }
 }
+
+/* === READING UX 01 START === */
+/* Frame safety + long-form readability.
+   This block intentionally overrides earlier visual layers without removing them. */
+
+/* Keep all reader content safely inside the ornamental frame. */
+.inner-page {
+  padding-top: 64px;
+  padding-bottom: 58px;
+}
+
+/* Chapter pages need extra breathing room near the lower frame. */
+.chapter-page {
+  padding-top: 42px;
+  padding-bottom: 52px;
+}
+
+/* Comfortable measure for long-form reading. */
+.reading-text {
+  max-width: 860px;
+  margin: 30px auto 0;
+  font-size: 20px;
+  line-height: 1.82;
+}
+
+.reading-text p {
+  margin-block: 0;
+}
+
+.reading-text p + p {
+  margin-top: 1.18em;
+}
+
+.reading-text h2 {
+  margin: 42px 0 16px;
+  line-height: 1.25;
+}
+
+/* Give Dott. Flavio Bruno quote blocks enough room below the ornament. */
+.book-quote {
+  margin-top: 34px;
+  margin-bottom: 44px;
+}
+
+.book-quote .ornament {
+  bottom: -14px;
+}
+
+/* Keep progress and previous/next navigation away from the lower frame. */
+.book-progress {
+  margin-top: 36px;
+  padding: 26px 18px 8px;
+}
+
+.chapter-notes {
+  margin-top: 18px;
+  padding-bottom: 18px;
+}
+
+.chapter-notes > .text-link {
+  font-size: 14px;
+}
+
+/* Cover safe zone: no typography sitting on the ornamental border. */
+.cover-page {
+  min-height: calc(100svh - 150px);
+  justify-content: flex-start;
+  padding-top: 58px;
+  padding-bottom: 62px;
+  box-sizing: border-box;
+}
+
+.cover-page > .eyebrow:first-child {
+  margin-top: 0;
+  margin-bottom: 14px;
+}
+
+.cover-crest {
+  margin-top: 8px;
+}
+
+.cover-edition {
+  margin-top: 28px;
+  margin-bottom: 0;
+}
+
+/* Medium desktop / narrow browser:
+   keep the book readable instead of visually shrinking it. */
+@media (max-width: 1180px) {
+  .book-workspace {
+    grid-template-columns: 220px minmax(0, 1fr);
+  }
+
+  .reading-text {
+    max-width: 760px;
+    font-size: 19px;
+    line-height: 1.8;
+  }
+
+  .inner-page {
+    padding-inline: 38px;
+  }
+}
+
+/* Tablet / narrow window. */
+@media (max-width: 860px) {
+  .reading-text {
+    max-width: 720px;
+    font-size: 18px;
+    line-height: 1.78;
+  }
+
+  .cover-page {
+    padding-top: 46px;
+    padding-bottom: 50px;
+  }
+}
+
+/* Mobile. */
+@media (max-width: 760px) {
+  .inner-page {
+    padding: 44px 24px 42px;
+  }
+
+  .chapter-page {
+    padding-top: 34px;
+    padding-bottom: 42px;
+  }
+
+  .reading-text {
+    max-width: none;
+    margin-top: 24px;
+    font-size: 18px;
+    line-height: 1.74;
+  }
+
+  .book-progress {
+    margin-top: 30px;
+    padding: 22px 4px 8px;
+  }
+
+  .chapter-notes {
+    padding-bottom: 14px;
+  }
+
+  .cover-page {
+    padding: 42px 22px 48px;
+  }
+
+  .cover-page > .eyebrow:first-child {
+    margin-bottom: 10px;
+  }
+
+  .cover-edition {
+    margin-top: 24px;
+  }
+}
+
+@media (max-width: 460px) {
+  .reading-text {
+    font-size: 17px;
+    line-height: 1.72;
+  }
+
+  .inner-page {
+    padding-inline: 20px;
+  }
+
+  .chapter-heading h1 {
+    font-size: 2.2rem;
+  }
+}
+/* === READING UX 01 END === */
+
+/* === PAGE FILL 01 START === */
+/* Make the parchment page fill the full workspace height.
+   The grid row height is driven by the taller sidebar, so the reader must
+   stretch its page instead of exposing the brown reader background below. */
+
+.reader {
+  display: flex;
+  flex-direction: column;
+}
+
+.reader > .book-page {
+  flex: 1 1 auto;
+  min-height: 100%;
+}
+
+/* Cover should occupy the available parchment naturally, not force an
+   extra viewport-based minimum that creates awkward vertical rhythm. */
+.cover-page {
+  min-height: 0;
+  height: 100%;
+}
+
+/* Keep the footer immediately after the finished book workspace. */
+.book-workspace {
+  align-items: stretch;
+}
+
+@media (max-width: 760px) {
+  .reader {
+    display: block;
+  }
+
+  .reader > .book-page {
+    min-height: calc(100svh - 140px);
+  }
+
+  .cover-page {
+    height: auto;
+  }
+}
+/* === PAGE FILL 01 END === */
+
+/* === FOOTER COMPACT 01 START === */
+/* At strong browser zoom-out the viewport measured in CSS pixels becomes
+   very tall. Do not force the whole shell to occupy that artificial height. */
+.book-shell {
+  min-height: 0;
+}
+
+/* Footer should size to its content, never stretch into unused viewport space. */
+.heritage-footer {
+  min-height: 112px;
+  height: auto;
+  flex: 0 0 auto;
+  align-self: auto;
+  align-content: center;
+  padding-top: 18px;
+  padding-bottom: 18px;
+  box-sizing: border-box;
+}
+
+/* Keep the normal mobile shell behaviour where filling the viewport is useful. */
+@media (max-width: 760px) {
+  .book-shell {
+    min-height: 100svh;
+  }
+
+  .heritage-footer {
+    min-height: 112px;
+  }
+}
+/* === FOOTER COMPACT 01 END === */

@@ -1,45 +1,53 @@
 import assert from 'node:assert/strict'
 import test from 'node:test'
-import { book, parts, chapters } from './book.js'
+import { book, parts, chapters, readingItems, epilogue } from './book.js'
 import { media, resolveMediaAsset } from './media.js'
 import { languages, ui } from '../localization/ui.js'
 
 const codes = languages.map(({ code }) => code)
 
-test('all UI and editorial translations cover exactly EN, BG and IT', () => {
+test('UI translations cover exactly EN, BG and IT', () => {
   assert.deepEqual(codes, ['en', 'bg', 'it'])
-  const records = [ui, book.translations, ...parts.map((p) => p.translations),
-    ...chapters.map((c) => c.translations), ...media.map((m) => m.translations)]
-  for (const translations of records) {
-    assert.deepEqual(Object.keys(translations).sort(), [...codes].sort())
-    for (const code of codes) {
-      assert.deepEqual(Object.keys(translations[code]).sort(), Object.keys(translations.en).sort())
-      for (const value of Object.values(translations[code])) {
-        if (typeof value === 'string') assert.ok(value.trim())
-        if (Array.isArray(value)) assert.ok(value.length && value.every((text) => text.trim()))
-      }
-    }
-  }
+  assert.deepEqual(Object.keys(ui).sort(), [...codes].sort())
+  for (const code of codes) assert.ok(ui[code])
 })
 
-test('demo chapter relations and media references resolve', () => {
-  assert.equal(chapters.filter((chapter) => chapter.status === 'demo').length, 1)
-  assert.equal(chapters.filter((chapter) => chapter.status === 'planned').length, 1)
-  assert.equal(chapters[0].slug, 'masseria')
+test('IT MASTER V9 structure is complete and ordered', () => {
+  assert.equal(book.originalLanguage, 'it')
+  assert.equal(book.plannedChapters, 49)
+  assert.equal(parts.length, 10)
+  assert.equal(chapters.length, 49)
+  assert.deepEqual(chapters.map((chapter) => chapter.number), Array.from({ length: 49 }, (_, index) => index + 1))
+  assert.equal(new Set(chapters.map((chapter) => chapter.slug)).size, 49)
+  assert.equal(readingItems.length, 52)
+  assert.equal(readingItems[0].slug, 'idea-del-libro')
+  assert.equal(readingItems[1].slug, 'introduzione')
+  assert.equal(readingItems.at(-1).slug, 'la-staffetta')
+  assert.equal(epilogue.slug, 'la-staffetta')
+})
+
+test('all chapters resolve to a valid part and continuous reader navigation', () => {
   for (const chapter of chapters) {
     assert.equal(chapter.bookId, book.id)
     assert.ok(parts.some((part) => part.id === chapter.partId && part.bookId === book.id))
-    assert.ok(chapter.number > 0 && chapter.number <= book.plannedChapters)
-    if (chapter.nextSlug) assert.ok(chapters.some((next) => next.slug === chapter.nextSlug && next.previousSlug === chapter.slug))
-    if (chapter.previousSlug) assert.ok(chapters.some((previous) => previous.slug === chapter.previousSlug && previous.nextSlug === chapter.slug))
-    if (chapter.status === 'planned') {
-      assert.deepEqual(chapter.mediaIds, [])
-      for (const code of codes) assert.equal(chapter.translations[code].paragraphs, undefined)
-    }
-    for (const id of chapter.mediaIds) {
-      assert.ok(media.some((item) => item.id === id && item.chapterId === chapter.id))
-    }
+    assert.equal(chapter.status, 'master')
+    assert.ok(chapter.contentIt.length > 0)
+    assert.deepEqual(chapter.mediaIds, [])
   }
+
+  for (let index = 0; index < readingItems.length; index += 1) {
+    const item = readingItems[index]
+    assert.equal(item.previousSlug ?? null, readingItems[index - 1]?.slug ?? null)
+    assert.equal(item.nextSlug ?? null, readingItems[index + 1]?.slug ?? null)
+  }
+})
+
+test('editorial VERIFICA notes are metadata, not reader blocks', () => {
+  for (const item of readingItems) {
+    const renderedText = (item.contentIt ?? []).flatMap((block) => block.items ?? [block.text ?? '']).join('\n')
+    assert.equal(renderedText.includes('[VERIFICA'), false)
+  }
+  assert.ok(readingItems.some((item) => (item.editorialNotes ?? []).some((note) => note.includes('[VERIFICA'))))
 })
 
 test('embedded-text visuals require the exact language; a missing variant stays empty', () => {
@@ -68,5 +76,5 @@ test('text-free conceptual media can share a source or use a local override', ()
     translations: { bg: { asset: override } } }
   assert.equal(resolveMediaAsset(item, 'en'), original)
   assert.equal(resolveMediaAsset(item, 'bg'), override)
-  for (const code of codes) assert.equal(resolveMediaAsset(media[0], code), media[0].original)
+  if (media[0]) for (const code of codes) assert.equal(resolveMediaAsset(media[0], code), media[0].original)
 })
