@@ -12,7 +12,7 @@ test('UI translations cover exactly EN, BG and IT', () => {
   for (const code of codes) assert.ok(ui[code])
 })
 
-test('IT MASTER V10 structure is complete and ordered', () => {
+test('IT MASTER V11 structure is complete and ordered', () => {
   assert.equal(book.originalLanguage, 'it')
   assert.equal(book.plannedChapters, 49)
   assert.equal(parts.length, 10)

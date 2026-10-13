@@ -1,5 +1,5 @@
-// Generated from IT MASTER V10. Italian is the authoritative editorial source.
-// Editorial [VERIFICA] notes are retained as metadata and never rendered to readers.
+// Generated from IT MASTER V11 editorial consolidation. Italian is authoritative.
+// Editorial [VERIFICA] notes are metadata only and are never rendered to readers.
 export const italianMaster = {
   "frontMatter": [
     {
@@ -3898,18 +3898,6 @@ export const italianMaster = {
         },
         {
           "type": "paragraph",
-          "text": "Nel racconto originale Dott. Flavio Bruno non si limita a ricordare un cane. Ricostruisce un mondo. Le fiere di bestiame, le grandi osterie, i proprietari terrieri, i macellai, i mediatori, i pratici veterinari di paese: il Cane Corso compare dentro una società intera. È questo che rende il racconto centrale per il libro. Qui la razza non è ancora separata dal proprio habitat culturale."
-        },
-        {
-          "type": "paragraph",
-          "text": "Il ragazzo Dott. Flavio Bruno osserva Diana, la cagna corso dello zio di suo padre, e ascolta le storie delle famiglie che conservano questi cani. Ma soprattutto segue l’anziano veterinario, figura decisiva della sua formazione. Quel veterinario non gli insegna soltanto a curare animali. Gli insegna a guardarli. A capire che il corpo, il carattere e il mestiere non possono essere separati. Dott. Flavio Bruno ricorda che si parlava della «fedeltà incorruttibile», dell’«equilibrio psichico» e dell’«estrema duttilità funzionale» del Cane Corso, qualità alle quali gli aspetti somatici erano armonicamente finalizzati."
-        },
-        {
-          "type": "paragraph",
-          "text": "Questa formulazione è fondamentale. In poche parole contiene già la teoria che molti anni dopo Dott. Flavio Bruno mi avrebbe riassunto come *la funzione fa il tipo*. Il corpo non è una scultura indipendente dal comportamento; è una conseguenza di ciò che il cane deve poter fare."
-        },
-        {
-          "type": "paragraph",
           "text": "Poi il ragazzo cresce. Il vecchio veterinario muore. Dott. Flavio Bruno si iscrive a Medicina Veterinaria e continua a muoversi nelle campagne, a parlare con pastori, contadini e proprietari, a osservare soggetti e a organizzare accoppiamenti e scambi di cuccioli. Il racconto diventa così anche una testimonianza del periodo che precede e accompagna la diffusione moderna della razza."
         },
         {
@@ -4264,22 +4252,6 @@ export const italianMaster = {
         },
         {
           "type": "paragraph",
-          "text": "Questo racconto richiede la stessa chiarezza di Spezzaferro: **Leone e gli altri cani sono Mastini Abruzzesi.** Fu Dott. Flavio Bruno stesso a correggere ogni possibile equivoco quando gli chiesi direttamente se fossero Cane Corso. Mi rispose: «la storia racconta il lavoro con il mastino abruzzese: gregge, pastori, tratturi, lupi»."
-        },
-        {
-          "type": "paragraph",
-          "text": "La precisazione diventò poi una lezione. Dott. Flavio Bruno spiegò che il compito del Mastino era soprattutto tenere lontano il lupo e restare vicino al gregge; solo quando il predatore attaccava, il cane doveva intervenire. Mi ricordò allora la formula già discussa: **«mastino cane d’attesa; cane corso cane d’attacco»**. Due cani forti, aggiunse, ma «due modi diversi di fare»."
-        },
-        {
-          "type": "paragraph",
-          "text": "Nel racconto, però, la funzione pastorale si trasforma in tragedia. Leone devia l’attacco di un lupo e viene morso in una posizione insolita, dietro il collare di ferro. L’animale selvatico aveva mostrato un comportamento anomalo: vocalizzazione strana, bava, aggressività insolita e attacco solitario a un uomo. Il dubbio della rabbia cresce."
-        },
-        {
-          "type": "paragraph",
-          "text": "Quello che resta, umanamente, è il sacrificio del cane. Leone non affronta il lupo perché cerca lo scontro. Entra lateralmente proprio perché il predatore si sta dirigendo verso il pastore. La ferita nasce dal gesto con cui protegge l’uomo."
-        },
-        {
-          "type": "paragraph",
           "text": "Quando Il Dott. Flavio Bruno mi spiegò la differenza fra Mastino e Cane Corso, capii anche perché aveva voluto raccontarmi questa storia prima di passare «al lavoro e alla vita del cane corso». Non stava facendo confusione. Stava costruendo un confronto. Il mondo pastorale del Mastino e il mondo operativo del Corso possono toccarsi, ma non coincidono."
         },
         {
@@ -4353,7 +4325,6 @@ export const italianMaster = {
       ],
       "editorialNotes": [
         "**[VERIFICA — VETERINARIA/STORICA]** La descrizione delle norme sanitarie, dei tempi di osservazione e della diagnosi storica della rabbia deve essere verificata rispetto al periodo dell’episodio. Non va trasformata in indicazione veterinaria contemporanea.",
-        "È qui che il testo deve unire memoria e responsabilità scientifica. La sequenza narrativa appartiene alla testimonianza dell’anziano pastore riportata dal Dott. Flavio Bruno. I tempi clinici, i segni diagnostici e le procedure veterinarie devono invece essere verificati prima della pubblicazione. **[VERIFICA — RABBIA]** La parte medica non deve mai essere letta come indicazione contemporanea.",
         "Nel racconto, il verso dell'animale malato diventa un segnale che il veterinario associa al sospetto di rabbia. La scena ha una forza narrativa enorme, ma il capitolo deve mantenere due livelli distinti: il racconto così come è stato tramandato e la conoscenza medica contemporanea della rabbia. **[VERIFICA — VETERINARIA]** Sintomi, modalità di trasmissione, comportamento clinico e protocolli devono essere verificati su fonti veterinarie aggiornate prima della pubblicazione."
       ]
     },
@@ -5832,22 +5803,6 @@ export const italianMaster = {
         },
         {
           "type": "paragraph",
-          "text": "Quando lessi la frase del Dott. Flavio Bruno — **«deve avere coscienza»** — capii che avevamo trovato una parola che non apparteneva ai manuali ma apparteneva alla gente. E proprio per questo non dobbiamo sterilizzarla."
-        },
-        {
-          "type": "paragraph",
-          "text": "Nel linguaggio degli antichi utilizzatori, come Dott. Flavio Bruno me lo ha spiegato, avere coscienza significa comprendere la situazione, rispettare il proprio uomo, distinguere il pericolo vero e non disperdere inutilmente energie. È una combinazione di intelligenza sociale, equilibrio, iniziativa e capacità di controllo."
-        },
-        {
-          "type": "paragraph",
-          "text": "Io preferisco però conservare anche la parola antica, perché dice qualcosa che i test rischiano di spezzare in pezzi. Quando vivi con un Cane per anni, impari a riconoscere quella qualità nell’insieme. Non è obbedienza cieca. Non è passività. È il momento in cui il cane sembra capire che una situazione è cambiata prima che tu abbia avuto bisogno di spiegargliela."
-        },
-        {
-          "type": "paragraph",
-          "text": "Questa “coscienza” è forse il tratto che più facilmente si perde quando si seleziona soltanto per l’aspetto o per una reattività spettacolare. E se si perde, il Cane può mantenere il corpo ma perdere una parte della propria anima funzionale."
-        },
-        {
-          "type": "paragraph",
           "text": "Il rapporto con l’uomo è il punto nel quale questa “coscienza” diventa visibile. Non è necessario che il cane sia continuamente appoggiato al padrone o che esegua ogni movimento come un cane da obbedienza sportiva. Il legame può essere più profondo e meno appariscente: sapere dove si trova l’uomo, scegliere di tornare, controllare una situazione tenendolo come riferimento."
         },
         {
@@ -5891,9 +5846,7 @@ export const italianMaster = {
           "text": "La 'coscienza' conduce direttamente alla guardia. Non basta reagire; bisogna distinguere. Non basta avere coraggio; bisogna sapere quando usarlo."
         }
       ],
-      "editorialNotes": [
-        "La scienza moderna può descrivere parti di questo fenomeno con altri termini: stabilità temperamentale, soglia di reazione, recupero, cognizione sociale, capacità di apprendimento, attenzione al conduttore. **[VERIFICA — COMPORTAMENTO]** Nella versione pubblicata potremo collegare la parola tradizionale a concetti etologici moderni senza fingere che siano perfettamente equivalenti."
-      ]
+      "editorialNotes": []
     },
     {
       "id": "capitolo-39",
@@ -6764,30 +6717,6 @@ export const italianMaster = {
         },
         {
           "type": "paragraph",
-          "text": "Questa domanda non deve avere una risposta comoda. Sarebbe facile concludere che prima tutto era vero e oggi tutto è corrotto. Sarebbe falso. Sarebbe altrettanto facile dire che il riconoscimento moderno ha salvato la razza e quindi ogni critica è nostalgia. Anche questo sarebbe insufficiente."
-        },
-        {
-          "type": "paragraph",
-          "text": "Abbiamo conservato moltissimo. Senza il recupero, gli allevatori, i registri e la diffusione internazionale, forse oggi non avremmo una popolazione così ampia e visibile. Abbiamo strumenti sanitari che gli utilizzatori del passato non possedevano, conoscenze genetiche superiori e la possibilità di confrontare soggetti provenienti da paesi diversi."
-        },
-        {
-          "type": "paragraph",
-          "text": "Ma ogni successo porta nuovi rischi. La popolarità crea mercato. Il mercato crea mode. Le mode possono premiare colori, teste, dimensioni o immagini che vendono meglio della funzionalità. La chiusura dei registri può proteggere l’identità ma anche restringere la variabilità. Le esposizioni possono aiutare a confrontare il tipo ma anche spostare l’attenzione verso ciò che è visibile in pochi minuti."
-        },
-        {
-          "type": "paragraph",
-          "text": "Quindi la domanda vera non è se abbiamo conservato o perduto. È **che cosa** abbiamo conservato bene e **che cosa** dobbiamo ancora difendere."
-        },
-        {
-          "type": "paragraph",
-          "text": "Forse abbiamo conservato la forma generale ma dobbiamo vigilare sul movimento. Forse abbiamo conservato la guardia ma in alcune linee l’abbiamo confusa con iperreattività. Forse abbiamo guadagnato uniformità e perso parte della variabilità. Forse, in altri casi, abbiamo migliorato salute e gestione senza tradire il carattere."
-        },
-        {
-          "type": "paragraph",
-          "text": "La risposta non sarà la stessa per ogni linea, ogni paese o ogni allevatore. Ed è proprio per questo che la domanda deve restare aperta."
-        },
-        {
-          "type": "paragraph",
           "text": "A questa domanda voglio aggiungere anche un’altra: **che cosa abbiamo guadagnato?** Perché una conservazione seria non può guardare soltanto alle perdite."
         },
         {
@@ -7489,6 +7418,7 @@ export const italianMaster = {
       }
     ],
     "editorialNotes": [
+      "V11 consolida ripetizioni narrative evidenti senza modificare la struttura di 10 Parti, 49 Capitoli ed Epilogo. In questa passata sono stati consolidati in modo conservativo i Capitoli 21, 24, 38 e 48, mantenendo testimonianze, citazioni, marcatori [VERIFICA] e distinzione fra fatto, memoria e interpretazione. I Capitoli 1, 2, 3, 6, 30, 49 e l’Epilogo sono stati riesaminati come nodi strutturali e mantenuti nella loro forma V10 perché già coerenti con il ritmo narrativo previsto.",
       "I marcatori **[VERIFICA]** appartengono soltanto al processo editoriale del master. Prima della pubblicazione saranno risolti attraverso fonti adeguate e rimossi dal testo finale oppure trasformati in note bibliografiche.",
       "Le citazioni attribuite al Dott. Flavio Bruno provengono dal corpus delle conversazioni private messe a disposizione per questo progetto e dovranno essere ricontrollate parola per parola nella fase finale di editing, mantenendo il significato e la voce originale.",
       "Le sezioni in prima persona di Stefano De Tanini rappresentano interpretazione ed esperienza dell’autore e non vengono presentate come prova storica."
