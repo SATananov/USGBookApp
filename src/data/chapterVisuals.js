@@ -230,6 +230,36 @@
     src: '/book/chapters/cap40-colore-non-fa-cane-corso-hero.png',
     alt: 'Più Cane Corso di colori differenti condividono lo stesso tipo funzionale e la stessa identità di razza, mostrando che il colore non definisce il Cane Corso.',
   }),
+  41: Object.freeze({
+    chapter: 41,
+    slug: 'capitolo-41',
+    src: '/book/chapters/cap41-hero.png',
+    alt: 'Scena rurale evocativa con uomo, Cane Corso e gregge, immagine di continuità tra funzione, presenza e lavoro.',
+  }),
+  42: Object.freeze({
+    chapter: 42,
+    slug: 'capitolo-42',
+    src: '/book/chapters/cap42-hero.png',
+    alt: 'Cane Corso vigile in un paesaggio rurale con uomo e bestiame, immagine evocativa della selezione attraverso il lavoro.',
+  }),
+  43: Object.freeze({
+    chapter: 43,
+    slug: 'capitolo-43',
+    src: '/book/chapters/cap43-hero.png',
+    alt: 'Scena rurale con uomo, Cane Corso e bovini, evocazione della continuità del tipo attraverso popolazioni funzionali diverse.',
+  }),
+  44: Object.freeze({
+    chapter: 44,
+    slug: 'capitolo-44',
+    src: '/book/chapters/cap44-hero.png',
+    alt: 'Uomo e Cane Corso osservano il bestiame al tramonto in un ambiente di masseria, immagine di cura, vigilanza e continuità.',
+  }),
+  45: Object.freeze({
+    chapter: 45,
+    slug: 'capitolo-45',
+    src: '/book/chapters/cap45-hero.png',
+    alt: 'Cane Corso e uomo dominano un paesaggio pastorale al tramonto, immagine conclusiva di equilibrio tra ambiente, funzione e relazione.',
+  }),
 })
 
 export function getChapterVisual(chapter) {
@@ -241,4 +271,5 @@ export function getChapterVisual(chapter) {
 
   return chapterVisuals[number] ?? null
 }
+
 
