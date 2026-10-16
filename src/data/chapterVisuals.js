@@ -1,4 +1,10 @@
 export const chapterVisuals = Object.freeze({
+  7: Object.freeze({
+    chapter: 7,
+    slug: 'dopo-roma',
+    src: '/book/chapters/cap07-dopo-roma-hero.png',
+    alt: 'Ricostruzione visiva evocativa del mondo rurale dopo Roma, con rovine, villaggi, bestiame e cani da lavoro che continuano funzioni di guardia e custodia; immagine di contesto, non ricostruzione morfologica documentaria.',
+  }),
   3: Object.freeze({
     chapter: 3,
     slug: 'problema-del-molosso',
