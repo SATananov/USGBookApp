@@ -260,9 +260,44 @@
     src: '/book/chapters/cap45-hero.png',
     alt: 'Cane Corso e uomo dominano un paesaggio pastorale al tramonto, immagine conclusiva di equilibrio tra ambiente, funzione e relazione.',
   }),
+  46: Object.freeze({
+    chapter: 46,
+    slug: 'prevenire-prima-di-curare',
+    src: '/book/chapters/cap46-prevenire-prima-di-curare-hero.png',
+    alt: 'Un uomo si prende cura con attenzione di un Cane Corso adulto nella masseria, evocando prevenzione, osservazione quotidiana, responsabilità e benessere prima della cura.',
+  }),
+  47: Object.freeze({
+    chapter: 47,
+    slug: 'il-cane-corso-non-e-una-fotografia',
+    src: '/book/chapters/cap47-il-cane-corso-non-e-una-fotografia-hero.png',
+    alt: 'Un Cane Corso cammina libero nel paesaggio rurale accanto al proprio uomo, mostrando che identità, movimento e relazione non possono essere ridotti a un’immagine statica.',
+  }),
+  48: Object.freeze({
+    chapter: 48,
+    slug: 'cosa-abbiamo-conservato-cosa-abbiamo-perduto',
+    src: '/book/chapters/cap48-cosa-abbiamo-conservato-cosa-abbiamo-perduto-hero.png',
+    alt: 'Un uomo e il proprio Cane Corso osservano insieme il paesaggio e la masseria al tramonto, immagine contemplativa di memoria, continuità, perdita e responsabilità.',
+  }),
+  49: Object.freeze({
+    chapter: 49,
+    slug: 'conservare-una-razza-viva',
+    src: '/book/chapters/cap49-conservare-una-razza-viva-hero.png',
+    alt: 'Un uomo cammina con più generazioni di Cane Corso nella campagna, evocando la conservazione di una razza viva attraverso salute, carattere, funzione e continuità.',
+  }),
 })
 
+
+export const epilogueVisual = Object.freeze({
+  id: 'epilogo',
+  slug: 'la-staffetta',
+  src: '/book/chapters/epilogo-la-staffetta-hero.png',
+  alt: 'Due generazioni di uomini si passano simbolicamente il guinzaglio accanto a un Cane Corso, evocando La Staffetta: conoscenza, responsabilità e continuità consegnate al futuro.',
+})
 export function getChapterVisual(chapter) {
+  if (chapter?.slug === 'la-staffetta' || chapter?.id === 'epilogo') {
+    return epilogueVisual
+  }
+
   const number = Number(
     chapter?.number ??
     chapter?.chapterNumber ??
@@ -271,5 +306,6 @@ export function getChapterVisual(chapter) {
 
   return chapterVisuals[number] ?? null
 }
+
 
 
