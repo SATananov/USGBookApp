@@ -210,3 +210,9 @@ test('chapter 1 has its locked Prima della razza hero visual', () => {
   assert.equal(chapterVisuals[1].slug, 'prima-della-razza')
   assert.equal(chapterVisuals[1].src, '/book/chapters/cap01-prima-della-razza-hero.png')
 })
+
+test('chapter 3 has its locked Il problema del Molosso hero visual', () => {
+  assert.equal(chapterVisuals[3].chapter, 3)
+  assert.equal(chapterVisuals[3].slug, 'problema-del-molosso')
+  assert.equal(chapterVisuals[3].src, '/book/chapters/cap03-problema-molosso-hero.png')
+})

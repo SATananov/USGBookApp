@@ -1,4 +1,10 @@
 export const chapterVisuals = Object.freeze({
+  3: Object.freeze({
+    chapter: 3,
+    slug: 'problema-del-molosso',
+    src: '/book/chapters/cap03-problema-molosso-hero.png',
+    alt: 'Ricostruzione visiva evocativa di diversi grandi tipi canini del Mediterraneo antico in contesti di guardia, pastorizia, conduzione del bestiame e caccia; immagine concettuale, non genealogia dimostrata.',
+  }),
   1: Object.freeze({
     chapter: 1,
     slug: 'prima-della-razza',
