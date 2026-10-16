@@ -5,6 +5,7 @@ import { BookQuote } from '../components/BookQuote'
 import { BookProgress } from '../components/BookProgress'
 import { BookOrnament } from '../components/BookOrnament'
 import { BookNotFoundPage } from './BookReferencePage'
+import ChapterHero from '../components/ChapterHero.jsx'
 
 function InlineText({ text }) {
   const chunks = text.split(/(\*\*[^*]+\*\*|\*[^*]+\*)/g).filter(Boolean)
@@ -58,6 +59,7 @@ function ChapterReader({ item }) {
         {language !== 'it' && <p className="intro">Testo master italiano · traduzione {language.toUpperCase()} dopo il lock editoriale.</p>}
       </header>
 
+            <ChapterHero chapter={item} />
       <ReadingBlocks blocks={item.contentIt} />
 
       {item.kind === 'chapter' && (

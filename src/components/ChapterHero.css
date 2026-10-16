@@ -1,0 +1,25 @@
+.book-chapter-hero {
+  width: min(100%, 1180px);
+  margin: 1.35rem auto 2rem;
+  padding: 0.32rem;
+  border: 1px solid rgba(139, 98, 41, 0.62);
+  background: rgba(248, 235, 202, 0.52);
+  box-shadow:
+    0 12px 32px rgba(44, 29, 14, 0.16),
+    inset 0 0 0 1px rgba(255, 250, 231, 0.66);
+}
+
+.book-chapter-hero__image {
+  display: block;
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  object-fit: cover;
+  object-position: center;
+}
+
+@media (max-width: 720px) {
+  .book-chapter-hero {
+    margin: 1rem auto 1.5rem;
+    padding: 0.2rem;
+  }
+}

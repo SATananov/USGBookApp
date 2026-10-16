@@ -4,6 +4,7 @@ import { book, parts, chapters, readingItems, epilogue } from './book.js'
 import { media, resolveMediaAsset } from './media.js'
 import { languages, ui } from '../localization/ui.js'
 import { timeline, sources } from './reference.js'
+import { chapterVisuals } from './chapterVisuals.js'
 
 const codes = languages.map(({ code }) => code)
 
@@ -13,7 +14,7 @@ test('UI translations cover exactly EN, BG and IT', () => {
   for (const code of codes) assert.ok(ui[code])
 })
 
-test('IT MASTER V11 PASS D structure is complete and ordered', () => {
+test('V12 FINAL IT LOCK structure is complete and ordered', () => {
   assert.equal(book.originalLanguage, 'it')
   assert.equal(book.plannedChapters, 49)
   assert.equal(parts.length, 10)
@@ -42,12 +43,12 @@ test('all chapters resolve to a valid part and continuous reader navigation', ()
   }
 })
 
-test('editorial VERIFICA notes are metadata, not reader blocks', () => {
+test('final lock contains no VERIFICA markers in reader blocks or editorial notes', () => {
   for (const item of readingItems) {
     const renderedText = (item.contentIt ?? []).flatMap((block) => block.items ?? [block.text ?? '']).join('\n')
     assert.equal(renderedText.includes('[VERIFICA'), false)
+    assert.equal((item.editorialNotes ?? []).some((note) => note.includes('[VERIFICA')), false)
   }
-  assert.ok(readingItems.some((item) => (item.editorialNotes ?? []).some((note) => note.includes('[VERIFICA'))))
 })
 
 test('embedded-text visuals require the exact language; a missing variant stays empty', () => {
@@ -178,4 +179,10 @@ test('V12 FINAL IT LOCK is ready to become the BG translation source', () => {
   assert.equal(chapters.length, 49)
   assert.equal(readingItems.length, 52)
   assert.equal(epilogue.slug, 'la-staffetta')
+})
+
+test('chapter 11 has its locked masseria hero visual', () => {
+  assert.equal(chapterVisuals[11].chapter, 11)
+  assert.equal(chapterVisuals[11].slug, 'la-masseria')
+  assert.equal(chapterVisuals[11].src, '/book/chapters/cap11-masseria-hero.png')
 })
