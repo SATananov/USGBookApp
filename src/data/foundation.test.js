@@ -153,3 +153,29 @@ test('V12 PASS E4 scientific and veterinary editorial status stays metadata', ()
     }
   }
 })
+
+test('V12 FINAL IT LOCK has no editorial markers in reader content', () => {
+  const forbidden = [
+    '[VERIFICA',
+    '[FONTE CHIUSA',
+    '[RESTARE ATTRIBUITA',
+    '[PARZIALMENTE CHIUSA',
+    '[RESTARE COME TRADIZIONE'
+  ]
+
+  for (const chapter of chapters) {
+    const renderedText = chapter.contentIt
+      .flatMap((block) => block.items ?? [block.text ?? ''])
+      .join('\n')
+
+    for (const token of forbidden) {
+      assert.equal(renderedText.includes(token), false)
+    }
+  }
+})
+
+test('V12 FINAL IT LOCK is ready to become the BG translation source', () => {
+  assert.equal(chapters.length, 49)
+  assert.equal(readingItems.length, 52)
+  assert.equal(epilogue.slug, 'la-staffetta')
+})
