@@ -1,4 +1,10 @@
 export const chapterVisuals = Object.freeze({
+  1: Object.freeze({
+    chapter: 1,
+    slug: 'prima-della-razza',
+    src: '/book/chapters/cap01-prima-della-razza-hero.png',
+    alt: 'Ricostruzione visiva evocativa di una comunità preistorica con uomini e cani primitivi accanto al fuoco; immagine di contesto, non ricostruzione di una razza moderna.',
+  }),
   9: Object.freeze({
     chapter: 9,
     slug: 'il-rinascimento',
