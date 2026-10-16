@@ -186,3 +186,9 @@ test('chapter 11 has its locked masseria hero visual', () => {
   assert.equal(chapterVisuals[11].slug, 'la-masseria')
   assert.equal(chapterVisuals[11].src, '/book/chapters/cap11-masseria-hero.png')
 })
+
+test('chapter 6 has its locked Rome hero visual', () => {
+  assert.equal(chapterVisuals[6].chapter, 6)
+  assert.equal(chapterVisuals[6].slug, 'roma')
+  assert.equal(chapterVisuals[6].src, '/book/chapters/cap06-roma-hero.png')
+})

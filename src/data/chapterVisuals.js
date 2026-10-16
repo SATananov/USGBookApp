@@ -1,4 +1,10 @@
 export const chapterVisuals = Object.freeze({
+  6: Object.freeze({
+    chapter: 6,
+    slug: 'roma',
+    src: '/book/chapters/cap06-roma-hero.png',
+    alt: 'Ricostruzione visiva della Roma antica con cane funzionale e contesto urbano romano; immagine evocativa, non prova di discendenza diretta del Cane Corso.',
+  }),
   11: Object.freeze({
     chapter: 11,
     slug: 'la-masseria',
