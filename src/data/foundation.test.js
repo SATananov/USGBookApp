@@ -222,3 +222,9 @@ test('chapter 7 has its locked Dopo Roma hero visual', () => {
   assert.equal(chapterVisuals[7].slug, 'dopo-roma')
   assert.equal(chapterVisuals[7].src, '/book/chapters/cap07-dopo-roma-hero.png')
 })
+
+test('chapter 8 has its locked Il Medioevo hero visual', () => {
+  assert.equal(chapterVisuals[8].chapter, 8)
+  assert.equal(chapterVisuals[8].slug, 'medioevo')
+  assert.equal(chapterVisuals[8].src, '/book/chapters/cap08-medioevo-hero.png')
+})

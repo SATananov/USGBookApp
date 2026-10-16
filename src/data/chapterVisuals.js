@@ -1,4 +1,10 @@
 export const chapterVisuals = Object.freeze({
+  8: Object.freeze({
+    chapter: 8,
+    slug: 'medioevo',
+    src: '/book/chapters/cap08-medioevo-hero.png',
+    alt: 'Ricostruzione visiva evocativa di un ambiente medievale con mercato, bestiame e diversi cani da lavoro inseriti nella vita rurale e comunitaria; immagine di contesto, non identificazione di una razza moderna.',
+  }),
   7: Object.freeze({
     chapter: 7,
     slug: 'dopo-roma',
