@@ -130,3 +130,26 @@ test('V12 PASS E3 twentieth-century documentary status stays metadata', () => {
     }
   }
 })
+
+test('V12 PASS E4 scientific and veterinary editorial status stays metadata', () => {
+  const selected = chapters.filter((chapter) => [24, 34, 36, 40, 43, 44, 45, 46].includes(chapter.number))
+  assert.equal(selected.length, 8)
+
+  const forbidden = [
+    '[FONTE CHIUSA',
+    '[RESTARE ATTRIBUITA',
+    '[PARZIALMENTE CHIUSA',
+    '[RESTARE COME TRADIZIONE',
+    '[VERIFICA'
+  ]
+
+  for (const chapter of selected) {
+    const renderedText = chapter.contentIt
+      .flatMap((block) => block.items ?? [block.text ?? ''])
+      .join('\n')
+
+    for (const token of forbidden) {
+      assert.equal(renderedText.includes(token), false)
+    }
+  }
+})

@@ -1,4 +1,4 @@
-// Generated from IT V12 PASS E3. Italian remains authoritative.
+// Generated from IT V12 PASS E4. Italian remains authoritative.
 // Editorial/source-status notes remain metadata and are never rendered to readers.
 export const italianMaster = {
   "frontMatter": [
@@ -4201,6 +4201,10 @@ export const italianMaster = {
         },
         {
           "type": "paragraph",
+          "text": "La medicina contemporanea distingue nettamente il racconto storico dai protocolli attuali. Oggi un cane, gatto o furetto clinicamente sano che abbia esposto una persona viene normalmente osservato per 10 giorni secondo le autorità sanitarie competenti; un animale con segni compatibili richiede gestione veterinaria e di sanità pubblica, e la diagnosi definitiva non si fonda su un singolo segno clinico."
+        },
+        {
+          "type": "paragraph",
           "text": "Il racconto non finisce con la morte. Sentinella, la femmina di Leone, risultò gravida. La famiglia conservò l’intera cucciolata e due cuccioli ricordavano il padre."
         },
         {
@@ -4231,6 +4235,10 @@ export const italianMaster = {
         {
           "type": "paragraph",
           "text": "Anche *Il grido della rabbia* riguarda un Mastino, non un Cane Corso. Ed è proprio per questo che appartiene al libro. Qui il centro non è la genealogia della razza, ma il mondo nel quale Dott. Flavio Bruno ha imparato a leggere gli animali e nel quale cane, uomo, selvatico e malattia potevano incontrarsi senza le protezioni della modernità."
+        },
+        {
+          "type": "paragraph",
+          "text": "Nel racconto, il verso dell'animale malato diventa un segnale che il veterinario associa al sospetto di rabbia. La scena ha una forza narrativa enorme, ma il capitolo mantiene due livelli distinti: il racconto così come è stato tramandato e la conoscenza medica contemporanea. Nella rabbia i cambiamenti comportamentali, le alterazioni della fonazione e la paralisi possono comparire, ma nessun singolo “grido” è diagnostico; la conferma richiede procedure di laboratorio appropriate."
         },
         {
           "type": "paragraph",
@@ -4290,8 +4298,7 @@ export const italianMaster = {
         }
       ],
       "editorialNotes": [
-        "**[VERIFICA — VETERINARIA/STORICA]** La descrizione delle norme sanitarie, dei tempi di osservazione e della diagnosi storica della rabbia deve essere verificata rispetto al periodo dell’episodio. Non va trasformata in indicazione veterinaria contemporanea.",
-        "Nel racconto, il verso dell'animale malato diventa un segnale che il veterinario associa al sospetto di rabbia. La scena ha una forza narrativa enorme, ma il capitolo deve mantenere due livelli distinti: il racconto così come è stato tramandato e la conoscenza medica contemporanea della rabbia. **[VERIFICA — VETERINARIA]** Sintomi, modalità di trasmissione, comportamento clinico e protocolli devono essere verificati su fonti veterinarie aggiornate prima della pubblicazione."
+        "**[PARZIALMENTE CHIUSA — RABBIA: PROTOCOLLO CONTEMPORANEO 10 GIORNI E DIAGNOSI LABORATORIALE; OPEN — NORMA ESATTA VIGENTE NEL LUOGO/PERIODO DEL RACCONTO]**"
       ]
     },
     {
@@ -5462,6 +5469,10 @@ export const italianMaster = {
         },
         {
           "type": "paragraph",
+          "text": "Queste parole non riguardano soltanto l'estetica. La letteratura veterinaria sulle conformazioni estreme mostra che una brachicefalia accentuata può compromettere respirazione e termoregolazione ed essere associata anche ad altri problemi sanitari e di benessere. Questo non significa attribuire automaticamente tali patologie a ogni Cane Corso: significa riconoscere che spingere un carattere morfologico oltre il limite fisiologico può trasformare il “tipo” in rischio."
+        },
+        {
+          "type": "paragraph",
           "text": "Dott. Flavio Bruno collega anche l'eccesso morfologico alla perdita di riproduzione naturale: cani che richiedono fecondazione artificiale, cesareo o assistenza sistematica non possono essere considerati funzionalmente equivalenti a una popolazione capace di riprodursi senza tali dipendenze. È una posizione forte. Nel libro la useremo come domanda biologica, non come condanna indiscriminata di ogni intervento veterinario."
         },
         {
@@ -5470,7 +5481,7 @@ export const italianMaster = {
         }
       ],
       "editorialNotes": [
-        "Queste parole non riguardano soltanto l'estetica. Un muso eccessivamente corto, un corpo sproporzionato, una mole portata oltre la capacità funzionale non sono semplicemente “un altro stile”. Possono modificare respirazione, movimento, termoregolazione, riproduzione e qualità della vita. **[VERIFICA — VETERINARIA]** Gli effetti clinici specifici delle conformazioni estreme devono essere descritti con letteratura veterinaria aggiornata."
+        "**[FONTE CHIUSA — CONFORMAZIONI ESTREME/BRACHICEFALIA COME RISCHIO GENERALE; NESSUNA PREVALENZA SPECIFICA ATTRIBUITA AL CANE CORSO]**"
       ]
     },
     {
@@ -5588,6 +5599,10 @@ export const italianMaster = {
         },
         {
           "type": "paragraph",
+          "text": "Lo standard FCI vigente è preciso sulla chiusura: richiede una bocca leggermente prognata, non oltre 5 mm; la chiusura a tenaglia è tollerata ma non ricercata, mentre la chiusura a forbice è classificata come difetto grave. Questo dato ufficiale va distinto dalla preferenza morfo-funzionale del Dott. Flavio Bruno."
+        },
+        {
+          "type": "paragraph",
           "text": "La presa non è una mascella fotografata. È un’azione che coinvolge testa, collo, tronco, equilibrio, coraggio e controllo."
         },
         {
@@ -5605,6 +5620,10 @@ export const italianMaster = {
         {
           "type": "paragraph",
           "text": "La testa è uno dei luoghi nei quali la cinofilia può facilmente innamorarsi del simbolo e dimenticare la funzione. Una mascella larga comunica potenza. Un muso corto può essere letto come segno di tipicità. Ma se il desiderio di rendere quei caratteri sempre più evidenti supera il limite fisiologico, il simbolo comincia a danneggiare l’animale che dovrebbe rappresentare."
+        },
+        {
+          "type": "paragraph",
+          "text": "Dott. Flavio Bruno mi ha parlato della dentatura e della preferenza per una chiusura che considera più funzionale. Questa rimane la sua opinione morfo-funzionale. Lo standard FCI vigente, invece, ricerca un leggero prognatismo entro 5 mm e considera la forbice un difetto grave. Il libro conserva entrambe le informazioni senza confonderle."
         },
         {
           "type": "paragraph",
@@ -5636,13 +5655,15 @@ export const italianMaster = {
         },
         {
           "type": "paragraph",
+          "text": "Non useremo numeri sensazionalistici sulla “forza del morso” in assenza di studi specifici e comparabili sul Cane Corso. La capacità di presa coinvolge anatomia, biomeccanica, comportamento, motivazione e contesto; una cifra isolata non descrive la funzione."
+        },
+        {
+          "type": "paragraph",
           "text": "Se la testa deve restare funzionale, il movimento ci mostra se l’intero corpo riesce davvero a sostenere ciò che promette da fermo."
         }
       ],
       "editorialNotes": [
-        "**[VERIFICA — MORFOLOGIA/ODONTOIATRIA VETERINARIA]** Le affermazioni relative a dentatura, prognatismo, biomeccanica della presa e preferenze funzionali devono essere confrontate con letteratura veterinaria contemporanea e standard ufficiali.",
-        "Dott. Flavio Bruno mi ha parlato della dentatura e della preferenza per una chiusura che considera più funzionale. Questa parte sarà verificata con odontoiatria veterinaria e con lo standard vigente. **[VERIFICA — DENTATURA]** Il libro deve distinguere l’opinione morfo-funzionale del Dott. Flavio Bruno dalla letteratura scientifica e dalle prescrizioni ufficiali.",
-        "**[VERIFICA — BIOMECCANICA E VETERINARIA]** Eviteremo numeri sensazionalistici sulla “forza del morso” se non supportati da studi specifici. La capacità di presa dipende da anatomia, tecnica, comportamento, motivazione e contesto; non può essere ridotta a una cifra da internet."
+        "**[FONTE CHIUSA — FCI STANDARD N°343/2023, MASCELLE/DENTATURA; BIOMECCANICA DELLA PRESA NON RIDOTTA A NUMERI NON VALIDATI]**"
       ]
     },
     {
@@ -5947,6 +5968,10 @@ export const italianMaster = {
         },
         {
           "type": "paragraph",
+          "text": "Lo standard FCI vigente ammette nero, diverse tonalità di grigio, fulvo e rosso cervo, frumento scuro, tigrature nere e grigie, con regole specifiche per maschera e piccole marcature bianche. Questa nomenclatura ufficiale non coincide automaticamente con tutte le denominazioni della memoria rurale."
+        },
+        {
+          "type": "paragraph",
           "text": "Il punto non è dichiarare che “qualsiasi colore va bene”. Il punto è rifiutare una selezione nella quale il colore diventa più importante della salute, del carattere, della struttura o della funzione."
         },
         {
@@ -5968,6 +5993,10 @@ export const italianMaster = {
         {
           "type": "paragraph",
           "text": "Nei suoi ricordi di *I sogni di un ragazzo* compare una varietà cromatica ampia: fulvo, grigio-cenere, nero, diverse tigrature e un formentino molto chiaro preferito in alcuni ambienti pastorali. Queste descrizioni sono memoria storica e dovranno essere distinte dai colori ammessi oggi dallo standard."
+        },
+        {
+          "type": "paragraph",
+          "text": "Uno studio pubblicato su 23.271 Cane Corso ha mostrato che le proporzioni dei colori nella discendenza non si lasciano ridurre a una semplice regola unica e che il quadro genetico è più complesso di formule da allevatore come “il nero domina”. Il libro non tradurrà quindi automaticamente i nomi tradizionali dei mantelli in loci genetici moderni."
         },
         {
           "type": "paragraph",
@@ -5995,9 +6024,8 @@ export const italianMaster = {
         }
       ],
       "editorialNotes": [
-        "**[VERIFICA — GENETICA DEL COLORE/STANDARD]** Nomenclatura storica, genetica dei mantelli e colori ufficialmente ammessi devono essere distinti e verificati prima della pubblicazione.",
-        "**[VERIFICA — COLORI]** La genetica dei loci coinvolti, le diluizioni, le maschere, le marcature bianche e la nomenclatura tradizionale saranno riviste con fonti genetiche e standard ufficiali. Non useremo semplificazioni come “il nero domina” senza una base genetica corretta.",
-        "**[VERIFICA — GENETICA DEL COLORE]** Le basi genetiche dei mantelli, le denominazioni storiche e la loro corrispondenza con i loci oggi conosciuti dovranno essere verificate separatamente. La memoria dei colori non va trasformata automaticamente in classificazione genetica."
+        "**[FONTE CHIUSA — COLORI AMMESSI: FCI STANDARD N°343/2023]**",
+        "**[FONTE CHIUSA — STUDIO CANE CORSO SU 23.271 SOGGETTI: EREDITÀ DEL COLORE COMPLESSA; LE DENOMINAZIONI STORICHE RESTANO SEPARATE DALLA CLASSIFICAZIONE GENETICA]**"
       ]
     },
     {
@@ -6212,6 +6240,10 @@ export const italianMaster = {
         },
         {
           "type": "paragraph",
+          "text": "La genetica di popolazione conferma il principio generale: nelle popolazioni chiuse, accoppiamenti fra parenti, colli di bottiglia e uso eccessivo di pochi riproduttori possono ridurre la diversità e aumentare l'omozigosi. Pedigree, coefficienti di consanguineità e strumenti genomici servono a misurare il problema, non a sostituire la selezione funzionale."
+        },
+        {
+          "type": "paragraph",
           "text": "La variabilità non è il contrario del tipo. Una popolazione può conservare identità senza diventare geneticamente uniforme."
         },
         {
@@ -6225,6 +6257,10 @@ export const italianMaster = {
         {
           "type": "paragraph",
           "text": "Dott. Flavio Bruno collega spesso il rischio della consanguineità al desiderio di uniformare e fissare rapidamente determinate caratteristiche. Nelle sue note avverte che l’uso ripetuto degli stessi soggetti può produrre omozigosi utile per fissare qualità, ma anche aumentare la probabilità di far emergere caratteri indesiderati, malformazioni, problemi sanitari e riduzione della fertilità."
+        },
+        {
+          "type": "paragraph",
+          "text": "Questo è uno dei punti nei quali il master si apre alla genetica contemporanea. Coefficienti di inbreeding, profondità del pedigree, effective population size, popular sire effect e test genomici sono strumenti utili, ma il libro non attribuisce al Cane Corso valori numerici di COI o Ne senza uno studio specifico e rappresentativo della popolazione considerata."
         },
         {
           "type": "paragraph",
@@ -6248,6 +6284,10 @@ export const italianMaster = {
         },
         {
           "type": "paragraph",
+          "text": "Il principio generale è biologicamente fondato, ma i dettagli devono restare misurabili. I rischi sanitari specifici della razza, le frequenze alleliche e i valori di consanguineità non vengono dedotti da impressioni né da un singolo pedigree: richiedono studi e dati della popolazione analizzata."
+        },
+        {
+          "type": "paragraph",
           "text": "Per me c'è però un punto che non necessita di formule per essere compreso: se voglio conservare un tipo vivo, devo conservare anche la possibilità di scegliere. Una popolazione troppo stretta può obbligare l'allevatore a ripetere gli stessi antenati e gli stessi problemi."
         },
         {
@@ -6260,9 +6300,7 @@ export const italianMaster = {
         }
       ],
       "editorialNotes": [
-        "**[VERIFICA — GENETICA]** Coefficienti di consanguineità, effective population size, strategie di gestione della diversità e rischi sanitari saranno trattati con genetica veterinaria contemporanea.",
-        "Questo è uno dei punti nei quali il master deve aprirsi alla genetica contemporanea. **[VERIFICA — GENETICA DI POPOLAZIONE]** Dovremo utilizzare coefficienti di inbreeding, pedigree depth, effective population size, popular sire effect, test genomici disponibili e letteratura specifica sul Cane Corso, distinguendo chiaramente ciò che sappiamo da ciò che ipotizziamo.",
-        "Il principio generale è biologicamente sensato, ma i dettagli richiedono precisione. **[VERIFICA — GENETICA DI POPOLAZIONE]** Coefficienti di consanguineità, effective population size, frequenze alleliche e rischi sanitari specifici della razza devono essere trattati con studi e dati, non con impressioni."
+        "**[FONTE CHIUSA — PRINCIPI GENERALI DI CONSANGUINEITÀ/DIVERSITÀ; DATI NUMERICI SPECIFICI DEL CANE CORSO RESTANO DA FONTE DEDICATA]**"
       ]
     },
     {
@@ -6286,6 +6324,10 @@ export const italianMaster = {
         },
         {
           "type": "paragraph",
+          "text": "Le linee veterinarie contemporanee confermano alcuni principi robusti: gravidanza e lattazione richiedono nutrizione completa e adeguata alla fase fisiologica; la distocia è un'emergenza clinica con cause materne e fetali; i neonati sono particolarmente vulnerabili a ipotermia, ipoglicemia, infezioni e insufficiente assunzione di colostro. Il libro non trasforma questi principi in protocolli terapeutici o dosaggi."
+        },
+        {
+          "type": "paragraph",
           "text": "Ciò che resta valido come principio è l’attenzione alla madre. Una fattrice non è un contenitore genetico. Salute, carattere, capacità materna e condizioni di vita influenzano profondamente la cucciolata."
         },
         {
@@ -6302,6 +6344,10 @@ export const italianMaster = {
         },
         {
           "type": "paragraph",
+          "text": "Le indicazioni pratiche storiche su gravidanza, parto, colostro, peso neonatale, supplementazione e profilassi non vengono conservate come ricette. Restano invece i principi compatibili con la medicina attuale: monitorare la madre e i neonati, riconoscere rapidamente i segni di difficoltà e affidare diagnosi, farmaci e interventi al veterinario."
+        },
+        {
+          "type": "paragraph",
           "text": "Ciò che voglio conservare è il principio del Dott. Flavio Bruno: prevenire, osservare e rispettare la natura del processo. Il cucciolo non comincia quando lo scegliamo a otto settimane. Comincia molto prima, nella qualità della coppia riproduttiva e nella cura della madre."
         },
         {
@@ -6311,6 +6357,10 @@ export const italianMaster = {
         {
           "type": "paragraph",
           "text": "Un cucciolo non nasce il giorno del parto. La sua storia comincia prima: nella salute della madre, nella qualità della gravidanza, nello stress, nell'alimentazione, nella scelta del maschio e nella capacità della femmina di portare e allevare naturalmente la prole."
+        },
+        {
+          "type": "paragraph",
+          "text": "Dott. Flavio Bruno, come veterinario, mi ha trasmesso molti materiali sul parto, sulla crescita e sulla prevenzione. Nel libro non trasformiamo questi capitoli in manuale clinico: conserviamo il pensiero selettivo e il valore dell'osservazione, mentre protocolli, farmaci e dosaggi restano materia della medicina veterinaria aggiornata."
         },
         {
           "type": "paragraph",
@@ -6326,9 +6376,7 @@ export const italianMaster = {
         }
       ],
       "editorialNotes": [
-        "**[VERIFICA — VETERINARIA CONTEMPORANEA]** Protocolli di sverminazione, integrazione, gestione della gravidanza, neonatologia e profilassi non saranno pubblicati come istruzioni finché non saranno confrontati con linee guida veterinarie attuali.",
-        "**[VERIFICA — RIPRODUZIONE]** Tutte le indicazioni pratiche su gravidanza, assistenza al parto, colostro, peso neonatale, supplementazione e profilassi saranno aggiornate con linee guida veterinarie contemporanee. Il libro non deve congelare una pratica medica del passato soltanto perché proviene da un veterinario esperto.",
-        "Dott. Flavio Bruno, come veterinario, mi ha trasmesso molti materiali sul parto, sulla crescita e sulla prevenzione. Nel libro non trasformeremo questi capitoli in manuale clinico; la medicina cambia e ogni indicazione pratica deve essere aggiornata. **[VERIFICA — VETERINARIA RIPRODUTTIVA]**"
+        "**[FONTE CHIUSA — PRINCIPI DI RIPRODUZIONE/NEONATOLOGIA; DOSAGGI E PROTOCOLLI CLINICI ESCLUSI DAL TESTO NARRATIVO]**"
       ]
     },
     {
@@ -6356,6 +6404,10 @@ export const italianMaster = {
         },
         {
           "type": "paragraph",
+          "text": "Le linee veterinarie contemporanee sono chiare sul principio: i cuccioli di taglia grande devono crescere con una dieta completa e bilanciata formulata per la crescita, mantenendo una condizione corporea magra ed evitando sia l'eccesso energetico sia l'eccesso di calcio. Supplementare calcio, fosforo o vitamina D sopra una dieta completa non è automaticamente utile e può essere controindicato."
+        },
+        {
+          "type": "paragraph",
           "text": "Il principio conservativo è però chiaro: un cane funzionale deve crescere per diventare forte e sano, non per diventare enorme il più rapidamente possibile."
         },
         {
@@ -6376,6 +6428,10 @@ export const italianMaster = {
         },
         {
           "type": "paragraph",
+          "text": "Le diete casalinghe o non convenzionali devono essere valutate per adeguatezza nutrizionale. Per le diete crude, WSAVA e AVMA richiamano rischi di contaminazione microbiologica, squilibri nutrizionali e problemi legati alle ossa; non esiste una base per trasformare la tradizione del crudo in una prescrizione universale."
+        },
+        {
+          "type": "paragraph",
           "text": "Il principio che possiamo già scrivere senza esitazione è semplice: la crescita deve costruire salute, non impressione. Un Cane Corso giovane troppo pesante non è necessariamente più forte; può essere soltanto più carico sulle proprie articolazioni."
         },
         {
@@ -6392,6 +6448,10 @@ export const italianMaster = {
         },
         {
           "type": "paragraph",
+          "text": "Alimentazione, movimento e ritmo di sviluppo devono rispettare ossa, articolazioni e maturazione generale. Le quantità e i fabbisogni energetici non vengono trasformati in una ricetta universale: vanno adattati al singolo soggetto, alla dieta, alla crescita e alla condizione corporea."
+        },
+        {
+          "type": "paragraph",
           "text": "La mia esperienza con i miei Cane mi ha insegnato anche un'altra cosa: crescita fisica e crescita mentale non procedono sempre allo stesso ritmo. Un corpo imponente può ancora appartenere a un giovane che deve imparare autocontrollo, relazione e fiducia."
         },
         {
@@ -6404,9 +6464,7 @@ export const italianMaster = {
         }
       ],
       "editorialNotes": [
-        "**[VERIFICA — NUTRIZIONE VETERINARIA]** Fabbisogni energetici, rapporto calcio/fosforo, integrazioni vitaminiche, alimentazione cruda, ossa e frequenza dei pasti devono essere verificati con linee guida veterinarie contemporanee prima della pubblicazione.",
-        "**[VERIFICA — NUTRIZIONE]** La versione finale dovrà utilizzare fonti veterinarie aggiornate per crescita delle razze grandi, densità energetica, minerali, calcio/fosforo, condizione corporea, alimentazione completa e rischi legati a diete non bilanciate.",
-        "Alimentazione, movimento e ritmo di sviluppo devono rispettare ossa, articolazioni e maturazione generale. **[VERIFICA — NUTRIZIONE VETERINARIA]** Quantità, rapporti minerali, fabbisogni energetici e raccomandazioni per cuccioli di taglia grande saranno verificati con linee guida veterinarie aggiornate; non useremo ricette universali."
+        "**[FONTE CHIUSA — AAHA/MERCK: CRESCITA DI TAGLIA GRANDE, BCS MAGRO, DIETA COMPLETA, EVITARE ECCESSI DI ENERGIA E CALCIO]**"
       ]
     },
     {
@@ -6439,6 +6497,10 @@ export const italianMaster = {
         {
           "type": "paragraph",
           "text": "Natura, perché il cane ha bisogno di movimento, ambiente, relazioni, riposo e una vita compatibile con ciò che è."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il principio è compatibile con la medicina veterinaria moderna, ma il libro non pubblica protocolli clinici statici. Vaccinazioni, prevenzione parassitaria, screening, gestione riproduttiva e nutrizione devono seguire linee guida aggiornate, situazione epidemiologica e valutazione del veterinario."
         },
         {
           "type": "paragraph",
@@ -6486,7 +6548,7 @@ export const italianMaster = {
         }
       ],
       "editorialNotes": [
-        "**[VERIFICA — VETERINARIA]** Tutti i protocolli medici specifici presenti nei materiali originali saranno sottoposti a revisione veterinaria attuale."
+        "**[FONTE CHIUSA — PRINCIPIO DI PREVENZIONE; PROTOCOLLI CLINICI RESTANO DINAMICI E FUORI DAL TESTO PRESCRITTIVO]**"
       ]
     },
     {
