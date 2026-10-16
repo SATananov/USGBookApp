@@ -1,4 +1,10 @@
 export const chapterVisuals = Object.freeze({
+  9: Object.freeze({
+    chapter: 9,
+    slug: 'il-rinascimento',
+    src: '/book/chapters/cap09-rinascimento-hero.png',
+    alt: 'Ricostruzione visiva evocativa del Rinascimento italiano con cani da caccia e presa in un paesaggio rurale; immagine di contesto, non identificazione certa di razza.',
+  }),
   5: Object.freeze({
     chapter: 5,
     slug: 'il-pugnax',
