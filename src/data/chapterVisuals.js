@@ -5,11 +5,23 @@
     src: '/book/chapters/cap01-prima-della-razza-hero.png',
     alt: 'Ricostruzione visiva evocativa di una comunità preistorica con uomini e cani primitivi accanto al fuoco; immagine di contesto, non ricostruzione di una razza moderna.',
   }),
+  2: Object.freeze({
+    chapter: 2,
+    slug: 'mastini-pastori-e-cani-da-presa',
+    src: '/book/chapters/cap02-mastini-pastori-cani-da-presa-hero.png',
+    alt: 'Un pastore con il suo grande cane da lavoro osserva il gregge mentre un cane da guardiania accompagna la mandria: un’immagine che mette in relazione mastini, pastori e cani da presa nel loro contesto funzionale.',
+  }),
   3: Object.freeze({
     chapter: 3,
-    slug: 'problema-del-molosso',
+    slug: 'il-problema-del-molosso',
     src: '/book/chapters/cap03-problema-molosso-hero.png',
     alt: 'Ricostruzione visiva evocativa di diversi grandi tipi canini del Mediterraneo antico in contesti di guardia, pastorizia, conduzione del bestiame e caccia; immagine concettuale, non genealogia dimostrata.',
+  }),
+  4: Object.freeze({
+    chapter: 4,
+    slug: 'la-funzione-prima-del-nome',
+    src: '/book/chapters/cap04-funzione-prima-del-nome-hero.png',
+    alt: 'Un grande cane funzionale si staglia davanti alla masseria al crepuscolo: il tipo viene colto attraverso utilità, equilibrio e presenza prima ancora del nome.',
   }),
   5: Object.freeze({
     chapter: 5,
@@ -31,7 +43,7 @@
   }),
   8: Object.freeze({
     chapter: 8,
-    slug: 'medioevo',
+    slug: 'il-medioevo',
     src: '/book/chapters/cap08-medioevo-hero.png',
     alt: 'Ricostruzione visiva evocativa di un ambiente medievale con mercato, bestiame e diversi cani da lavoro inseriti nella vita rurale e comunitaria; immagine di contesto, non identificazione di una razza moderna.',
   }),
@@ -155,7 +167,7 @@
     chapter: 28,
     slug: 'tutto-passa-tutto-torna',
     src: '/book/chapters/cap28-tutto-passa-tutto-torna-hero.png',
-    alt: 'Un uomo moderno cammina con un Cane Corso in un campo di addestramento allestito accanto a una masseria antica, immagine che suggerisce il ritorno di qualità funzionali in forme contemporanee e controllate.',
+    alt: 'Un uomo cammina con il proprio Cane Corso dentro la vecchia masseria al tramonto, immagine di continuità tra passato e presente: tutto passa, ma qualcosa ritorna in forme nuove.',
   }),
   29: Object.freeze({
     chapter: 29,
@@ -232,33 +244,33 @@
   }),
   41: Object.freeze({
     chapter: 41,
-    slug: 'capitolo-41',
+    slug: 'allevare-e-un-arte',
     src: '/book/chapters/cap41-hero.png',
-    alt: 'Scena rurale evocativa con uomo, Cane Corso e gregge, immagine di continuità tra funzione, presenza e lavoro.',
+    alt: 'Un allevatore osserva con attenzione un Cane Corso in stazione: allevare come arte di scegliere, capire e valutare ciò che un soggetto potrà trasmettere.',
   }),
   42: Object.freeze({
     chapter: 42,
-    slug: 'capitolo-42',
+    slug: 'selezione-funzionale',
     src: '/book/chapters/cap42-hero.png',
-    alt: 'Cane Corso vigile in un paesaggio rurale con uomo e bestiame, immagine evocativa della selezione attraverso il lavoro.',
+    alt: 'Un Cane Corso lavora attorno ai bovini sotto lo sguardo dell’uomo, immagine della selezione funzionale letta attraverso attitudine, equilibrio e utilità reale.',
   }),
   43: Object.freeze({
     chapter: 43,
-    slug: 'capitolo-43',
+    slug: 'variabilita-genetica-e-consanguineita',
     src: '/book/chapters/cap43-hero.png',
-    alt: 'Scena rurale con uomo, Cane Corso e bovini, evocazione della continuità del tipo attraverso popolazioni funzionali diverse.',
+    alt: 'Tre giovani Cane Corso di colori differenti, osservati dall’allevatore, evocano variabilità genetica, linee di sangue e la necessità di evitare una consanguineità impoverente.',
   }),
   44: Object.freeze({
     chapter: 44,
-    slug: 'capitolo-44',
+    slug: 'madre-parto-e-cuccioli',
     src: '/book/chapters/cap44-hero.png',
-    alt: 'Uomo e Cane Corso osservano il bestiame al tramonto in un ambiente di masseria, immagine di cura, vigilanza e continuità.',
+    alt: 'Una madre Cane Corso riposa accanto alla cucciolata appena nata in un ambiente caldo e protetto, immagine di maternità, parto e prime cure.',
   }),
   45: Object.freeze({
     chapter: 45,
-    slug: 'capitolo-45',
+    slug: 'crescita-e-alimentazione',
     src: '/book/chapters/cap45-hero.png',
-    alt: 'Cane Corso e uomo dominano un paesaggio pastorale al tramonto, immagine conclusiva di equilibrio tra ambiente, funzione e relazione.',
+    alt: 'Più cuccioli di Cane Corso mangiano insieme mentre gli adulti vegliano sullo sfondo, immagine dedicata a crescita, nutrizione e sviluppo equilibrato.',
   }),
   46: Object.freeze({
     chapter: 46,
@@ -306,6 +318,7 @@ export function getChapterVisual(chapter) {
 
   return chapterVisuals[number] ?? null
 }
+
 
 
 
