@@ -1,4 +1,10 @@
 export const chapterVisuals = Object.freeze({
+  5: Object.freeze({
+    chapter: 5,
+    slug: 'il-pugnax',
+    src: '/book/chapters/cap05-pugnax-hero.png',
+    alt: 'Ricostruzione visiva evocativa del tema Pugnax in ambiente romano; non rappresenta una prova di razza antica definita né di discendenza diretta del Cane Corso moderno.',
+  }),
   6: Object.freeze({
     chapter: 6,
     slug: 'roma',
