@@ -107,3 +107,26 @@ test('V12 PASS E2 southern historical editorial status stays metadata', () => {
     for (const token of forbidden) assert.equal(renderedText.includes(token), false)
   }
 })
+
+test('V12 PASS E3 twentieth-century documentary status stays metadata', () => {
+  const selected = chapters.filter((chapter) => [26, 27, 28, 30].includes(chapter.number))
+  assert.equal(selected.length, 4)
+
+  const forbidden = [
+    '[FONTE CHIUSA',
+    '[RESTARE ATTRIBUITA',
+    '[PARZIALMENTE CHIUSA',
+    '[RESTARE COME TRADIZIONE',
+    '[VERIFICA'
+  ]
+
+  for (const chapter of selected) {
+    const renderedText = chapter.contentIt
+      .flatMap((block) => block.items ?? [block.text ?? ''])
+      .join('\n')
+
+    for (const token of forbidden) {
+      assert.equal(renderedText.includes(token), false)
+    }
+  }
+})

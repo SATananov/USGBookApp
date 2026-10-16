@@ -1,5 +1,5 @@
-// Generated from IT V12 PASS E2. Italian remains authoritative.
-// Editorial source-status notes remain metadata and are never rendered to readers.
+// Generated from IT V12 PASS E3. Italian remains authoritative.
+// Editorial/source-status notes remain metadata and are never rendered to readers.
 export const italianMaster = {
   "frontMatter": [
     {
@@ -4405,7 +4405,7 @@ export const italianMaster = {
         },
         {
           "type": "paragraph",
-          "text": "Meccanizzazione, urbanizzazione, nuove forme di allevamento, trasformazione della proprietà agricola: il Novecento riduce progressivamente gli spazi in cui il Cane Corso tradizionale era necessario."
+          "text": "Meccanizzazione, urbanizzazione, esodo rurale, nuove forme di allevamento e trasformazione della proprietà agricola modificano profondamente il Mezzogiorno nel secondo dopoguerra. Le fonti storiche ed economiche documentano il forte ridimensionamento dell’occupazione agricola e l’accelerazione dell’esodo dalle campagne soprattutto dalla fine degli anni Cinquanta. Questo contesto riduce progressivamente gli spazi nei quali molte funzioni tradizionali dei cani da lavoro erano necessarie."
         },
         {
           "type": "paragraph",
@@ -4457,7 +4457,7 @@ export const italianMaster = {
         }
       ],
       "editorialNotes": [
-        "**[VERIFICA — STORIA SOCIALE]** La cronologia e l’impatto delle trasformazioni rurali nel Mezzogiorno saranno documentati con fonti storiche ed economiche."
+        "**[FONTE CHIUSA — TRASFORMAZIONE RURALE DEL MEZZOGIORNO; IL NESSO SPECIFICO CON IL CANE CORSO RESTA INTERPRETAZIONE FUNZIONALE]**"
       ]
     },
     {
@@ -4477,7 +4477,11 @@ export const italianMaster = {
         },
         {
           "type": "paragraph",
-          "text": "Dott. Flavio Bruno distingue chiaramente il mondo rurale tradizionale dai combattimenti clandestini organizzati e dal successivo sfruttamento criminale di cani da presa. Nelle sue note colloca la diffusione di massa del fenomeno clandestino soprattutto dagli anni Ottanta e Novanta e descrive l’impiego di Cane Corso, Mastino Napoletano, Pit Bull e incroci in ambienti criminali."
+          "text": "Dott. Flavio Bruno distingue chiaramente il mondo rurale tradizionale dai combattimenti clandestini organizzati e dal successivo sfruttamento criminale di cani da presa. Nelle sue note colloca una diversa scala del fenomeno soprattutto dagli anni Ottanta e Novanta e cita Cane Corso, Mastino Napoletano, Pit Bull e incroci in ambienti criminali."
+        },
+        {
+          "type": "paragraph",
+          "text": "La documentazione criminologica contemporanea conferma che i combattimenti tra animali sono un fenomeno reale, perseguito penalmente e collegato in diversi casi ad altre attività criminali; documenta inoltre sequestri di cani e procedimenti giudiziari. Non consente però di trasformare automaticamente ogni riferimento del Dott. Flavio Bruno a singole organizzazioni mafiose, razze, territori o cronologie in un fatto generale."
         },
         {
           "type": "paragraph",
@@ -4501,6 +4505,10 @@ export const italianMaster = {
         },
         {
           "type": "paragraph",
+          "text": "Dott. Flavio Bruno mi ha inviato anche affermazioni molto concrete su ’ndrangheta, Camorra, Sacra Corona Unita, intimidazione, status symbol e giro economico dei combattimenti. Queste restano **sue testimonianze e interpretazioni** finché non siano sostenute, punto per punto, da atti giudiziari, fonti investigative o studi criminologici indipendenti. Nessuna cifra, area geografica o attribuzione entrerà nel libro come fatto generale soltanto perché compare nella memoria o nella divulgazione."
+        },
+        {
+          "type": "paragraph",
           "text": "La funzione del capitolo è soprattutto liberare il Cane Corso da una sovrapposizione pericolosa. La sua capacità di presa e il suo coraggio non sono sinonimi di combattimento clandestino. Quando la criminalità utilizza una qualità canina, non ne diventa l’origine storica."
         },
         {
@@ -4521,6 +4529,10 @@ export const italianMaster = {
         },
         {
           "type": "paragraph",
+          "text": "Dott. Flavio Bruno mi ha descritto anche l'impiego di cani da presa da parte di organizzazioni criminali per intimidazione, guardia di luoghi illegali e combattimenti. Il libro conserva questo passaggio come **testimonianza attribuita**. Dove mancano riscontri giudiziari o istituzionali specifici, non useremo generalizzazioni su 'ndrangheta, Camorra, Sacra Corona Unita, razze coinvolte, periodi o diffusione internazionale."
+        },
+        {
+          "type": "paragraph",
           "text": "Questa parte non serve a rendere il Cane più “duro”. Serve al contrario a separare il cane dalla scelta criminale dell'uomo. Un animale selezionato per lavorare può essere deformato, fisicamente e mentalmente, quando la violenza diventa lo scopo invece di uno strumento limitato dalla funzione."
         },
         {
@@ -4529,9 +4541,7 @@ export const italianMaster = {
         }
       ],
       "editorialNotes": [
-        "**[VERIFICA — CRIMINOLOGIA]** Ogni affermazione relativa a ’ndrangheta, Sacra Corona Unita, Camorra, sequestri, traffici, combattimenti clandestini e impieghi specifici dei cani richiede fonti giudiziarie, investigative o accademiche indipendenti. Le note del Dott. Flavio Bruno restano qui come testimonianza e traccia di ricerca, non come prova definitiva.",
-        "Dott. Flavio Bruno mi ha inviato anche affermazioni molto concrete su ’ndrangheta, Camorra, Sacra Corona Unita, intimidazione, status symbol e giro economico dei combattimenti. **[VERIFICA — CRIMINOLOGIA]** Ogni dato, cifra, area geografica e attribuzione a organizzazioni criminali dovrà essere verificata con fonti giudiziarie, istituzionali o criminologiche aggiornate. Nessuna cifra entrerà nel testo finale soltanto perché compare nella memoria o nella divulgazione.",
-        "Dott. Flavio Bruno mi ha descritto anche l'impiego di cani da presa da parte di organizzazioni criminali per intimidazione, guardia di luoghi illegali e combattimenti. **[VERIFICA — CRIMINOLOGIA]** Ogni riferimento a 'ndrangheta, Camorra, Sacra Corona Unita, periodi, modalità operative e diffusione internazionale deve essere verificato attraverso fonti giudiziarie, istituzionali e studi criminologici. Non useremo generalizzazioni prive di prova."
+        "**[PARZIALMENTE CHIUSA — COMBATTIMENTI CLANDESTINI E CONTESTI CRIMINALI DOCUMENTATI; ATTRIBUZIONI SPECIFICHE A MAFIE, RAZZE E CRONOLOGIE RESTANO DA PROVARE]**"
       ]
     },
     {
@@ -4557,6 +4567,10 @@ export const italianMaster = {
         {
           "type": "paragraph",
           "text": "Prima di quella frase parla di incroci moderni, Bandog e Lacota, e dell’uso di sangue di cani italiani in programmi diversi."
+        },
+        {
+          "type": "paragraph",
+          "text": "Questa genealogia moderna resta, nel libro, **parte della ricostruzione del Dott. Flavio Bruno**. Non disponiamo di una base indipendente abbastanza solida per fissare origine, nomenclatura, combinazioni di razze o significato del termine “Lacota” come fatti storici."
         },
         {
           "type": "paragraph",
@@ -4597,6 +4611,10 @@ export const italianMaster = {
         {
           "type": "paragraph",
           "text": "Dentro questa frase c'è quasi tutta la seconda metà del libro. Le funzioni scompaiono, ma il desiderio umano di forza, protezione e presenza ritorna in forme nuove. I nomi cambiano. Gli incroci cambiano. Il mercato crea nuove etichette. Caratteristiche selezionate per secoli vengono cercate altrove e riutilizzate."
+        },
+        {
+          "type": "paragraph",
+          "text": "Dott. Flavio Bruno cita, nella propria ricostruzione, anche Bandog e Lacota come esempi moderni di incroci nei quali il sangue di cani da presa italiani sarebbe stato impiegato. Il libro non trasforma questa genealogia in un fatto acquisito: nomi, cronologie e composizione di tali popolazioni restano non chiusi documentalmente e vengono mantenuti soltanto come parte della sua ricostruzione."
         },
         {
           "type": "paragraph",
@@ -4656,8 +4674,7 @@ export const italianMaster = {
         }
       ],
       "editorialNotes": [
-        "**[VERIFICA — BANDOG/LACOTA]** Origine, nomenclatura, combinazioni di razze e significato del termine “Lacota” devono essere verificati con fonti indipendenti prima della pubblicazione.",
-        "Dott. Flavio Bruno cita, nella propria ricostruzione, anche Bandog e Lacota come esempi moderni di incroci nei quali il sangue di cani da presa italiani sarebbe stato impiegato. **[VERIFICA — STORIA DEGLI INCROCI MODERNI]** Nomi, genealogie, cronologie e composizione di queste popolazioni devono essere verificati prima della pubblicazione."
+        "**[RESTARE ATTRIBUITA — BANDOG/LACOTA; GENEALOGIE MODERNE NON CHIUSE DOCUMENTALMENTE]**"
       ]
     },
     {
@@ -4771,11 +4788,11 @@ export const italianMaster = {
         },
         {
           "type": "paragraph",
-          "text": "Negli anni Settanta e Ottanta si sviluppa realmente un progetto moderno di recupero e riconoscimento. Vengono cercati soggetti nelle regioni meridionali, organizzati accoppiamenti, realizzati censimenti, misurazioni e raduni. Nasce la S.A.C.C.; viene elaborato uno standard; l’ENCI apre un percorso ufficiale che conduce al riconoscimento italiano del 1994 e, successivamente, a quello FCI."
+          "text": "Negli anni Settanta e Ottanta si sviluppa realmente un progetto moderno di recupero e riconoscimento. Vengono cercati soggetti nelle regioni meridionali, organizzati accoppiamenti, realizzati censimenti, misurazioni e raduni. Nasce la S.A.C.C.; viene elaborato uno standard; l’ENCI apre un percorso ufficiale che conduce al riconoscimento italiano nel gennaio 1994. La FCI riconosce poi il Cane Corso a titolo provvisorio il 12 novembre 1996 e a titolo definitivo il 21 maggio 2007."
         },
         {
           "type": "paragraph",
-          "text": "Questo è un fatto storico."
+          "text": "Questa cronologia istituzionale è documentata."
         },
         {
           "type": "paragraph",
@@ -4791,7 +4808,7 @@ export const italianMaster = {
         },
         {
           "type": "paragraph",
-          "text": "La storia S.A.C.C. racconta che nel 1986, durante nuove ricerche nel Meridione, vennero reperiti circa trenta ulteriori esemplari riconducibili a undici differenti correnti di sangue. Nel 1988, secondo ENCI, Vito Indiveri presentò un censimento di cinquantasette soggetti rustici accompagnato da novantasette fotografie. Nello stesso periodo i raduni meridionali portarono davanti agli esperti decine di altri cani; fra il 1989 e il 1992 più di cinquecento esemplari furono poi iscritti al Libro Aperto."
+          "text": "La ricostruzione S.A.C.C. riferisce che nel 1986, durante nuove ricerche nel Meridione, vennero reperiti circa trenta ulteriori esemplari ricondotti a undici differenti “correnti di sangue”: questo dettaglio richiede ancora il confronto con la documentazione originale S.A.C.C. Sul piano ENCI, invece, i numeri principali sono chiari: nel 1988 più di cinquanta Corsi furono sottoposti a rilievi cinometrici; nello stesso anno Vito Indiveri presentò il censimento di cinquantasette soggetti rustici accompagnato da novantasette fotografie; dal 1989 al 1992 più di cinquecento esemplari furono iscritti al Libro Aperto."
         },
         {
           "type": "paragraph",
@@ -5144,8 +5161,8 @@ export const italianMaster = {
         }
       ],
       "editorialNotes": [
-        "**[VERIFICA — RECUPERO DELLA RAZZA]** La cronologia generale e i principali numeri ENCI/S.A.C.C. sono documentabili; restano da verificare con le fonti originali le sovrapposizioni fra i censimenti e soprattutto che cosa significhi, sul piano genealogico, parlare di “correnti di sangue” indipendenti.",
-        "**[VERIFICA — CONTRO-NARRAZIONE DEL RECUPERO]** La tesi del Dott. Flavio Bruno sulla continuità della popolazione, sugli eventuali incroci e sulle motivazioni del racconto del recupero dovrà essere confrontata con registri genealogici, documenti S.A.C.C./ENCI, pubblicazioni dell’epoca, testimonianze indipendenti e — dove disponibili — dati genetici. Le valutazioni su intenzioni personali, vanità o interessi economici resteranno opinioni attribuite e non fatti affermati dal libro."
+        "**[FONTE CHIUSA — ENCI: >50 RILIEVI CINOMETRICI NEL 1988; 57 RUSTICI / 97 FOTOGRAFIE; >500 LIBRO APERTO 1989–1992. OPEN — “11 CORRENTI DI SANGUE” E LORO SIGNIFICATO GENEALOGICO]**",
+        "**[RESTARE ATTRIBUITA — CONTRO-NARRAZIONE DEL RECUPERO DEL DOTT. FLAVIO BRUNO]** La sua tesi sulla continuità della popolazione, sugli eventuali incroci e sulle motivazioni del racconto del recupero resta una contro-lettura attribuita. I dati ENCI mostrano che negli anni Ottanta furono censiti e misurati numerosi soggetti, ma non dimostrano da soli né la continuità biologica completa sostenuta dal Dott. Flavio Bruno né il contrario. Le valutazioni su intenzioni personali, vanità o interessi economici non vengono presentate come fatti."
       ]
     },
     {
