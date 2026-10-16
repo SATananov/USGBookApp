@@ -97,3 +97,13 @@ test('PASS D timeline and source registry are populated and linked', () => {
 
   assert.ok(timeline.some((entry) => entry.id === 'fci-standard-2023'))
 })
+
+test('V12 PASS E2 southern historical editorial status stays metadata', () => {
+  const selected = chapters.filter((chapter) => [10, 12, 14, 15, 16, 18, 19].includes(chapter.number))
+  assert.equal(selected.length, 7)
+  const forbidden = ['[FONTE CHIUSA', '[RESTARE ATTRIBUITA', '[PARZIALMENTE CHIUSA', '[RESTARE COME TRADIZIONE', '[VERIFICA']
+  for (const chapter of selected) {
+    const renderedText = chapter.contentIt.flatMap((block) => block.items ?? [block.text ?? '']).join('\n')
+    for (const token of forbidden) assert.equal(renderedText.includes(token), false)
+  }
+})

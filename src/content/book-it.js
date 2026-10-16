@@ -1,5 +1,5 @@
-// Generated from IT MASTER V11 PASS C historical revision. Italian is authoritative.
-// Editorial [VERIFICA] notes remain metadata and are never rendered to readers.
+// Generated from IT V12 PASS E2. Italian remains authoritative.
+// Editorial source-status notes remain metadata and are never rendered to readers.
 export const italianMaster = {
   "frontMatter": [
     {
@@ -1477,7 +1477,7 @@ export const italianMaster = {
         },
         {
           "type": "paragraph",
-          "text": "Possiamo immaginare incontri, spostamenti e influenze fra popolazioni canine. Non possiamo trasformare una statuetta, una somiglianza o una rotta culturale in un pedigree del Cane Corso."
+          "text": "Possiamo immaginare incontri, spostamenti e influenze fra popolazioni canine. Possiamo inoltre documentare che nel Vicino Oriente antico esistevano cani potenti impiegati dall’uomo. Non possiamo però trasformare una statuetta, una somiglianza o una rotta culturale in un pedigree del Cane Corso."
         },
         {
           "type": "paragraph",
@@ -1541,8 +1541,8 @@ export const italianMaster = {
         }
       ],
       "editorialNotes": [
-        "**[VERIFICA — FONTI CLASSICHE ED EPIRO]** I riferimenti antichi ai Molossi, ai cani dell’Epiro, ai cani laconi e ai loro usi devono essere verificati direttamente nelle fonti classiche e nel loro contesto linguistico. Non ogni uso moderno del termine “molosso” coincide con quello antico.",
-        "**[VERIFICA — MESOPOTAMIA, ANATOLIA, MEDITERRANEO ORIENTALE]** Reperti e iconografia possono documentare l’esistenza di grandi cani e il loro ruolo culturale o funzionale. Il passaggio genealogico fra popolazioni dell’antico Oriente, Molossi epiroti e successivi cani romani rimane un’ipotesi da non presentare come continuità dimostrata.",
+        "**[FONTE CHIUSA — VARRO / FONTI CLASSICHE ED EPIRO]** I riferimenti antichi ai Molossi, ai cani dell’Epiro, ai cani laconi e ai loro usi devono essere verificati direttamente nelle fonti classiche e nel loro contesto linguistico. Non ogni uso moderno del termine “molosso” coincide con quello antico.",
+        "**[FONTE CHIUSA COME CONTESTO — VICINO ORIENTE ANTICO; NESSUNA GENEALOGIA DIRETTA]** Reperti e iconografia possono documentare l’esistenza di grandi cani e il loro ruolo culturale o funzionale. Il passaggio genealogico fra popolazioni dell’antico Oriente, Molossi epiroti e successivi cani romani rimane un’ipotesi da non presentare come continuità dimostrata.",
         "**[VERIFICA — STORIOGRAFIA CINOLOGICA]** La storia delle teorie ottocentesche e novecentesche sul “Mastino del Tibet” come progenitore dei molossoidi dovrà essere ricostruita attraverso testi cinologici dell’epoca e studi moderni.",
         "**[VERIFICA — STORIA MILITARE]** Ogni affermazione specifica sull’impiego militare di cani nell’antichità richiede fonte propria."
       ]
@@ -1715,7 +1715,11 @@ export const italianMaster = {
         },
         {
           "type": "paragraph",
-          "text": "Il punto non è dimostrare che il Pugnax fosse “già” il Cane Corso. È capire se e come il mondo romano selezionasse cani differenti per funzioni differenti, senza trasformare un termine antico in una razza moderna."
+          "text": "Il punto non è dimostrare che il *Pugnax* fosse “già” il Cane Corso. Il termine non verrà trattato come una denominazione di razza nel senso moderno. La domanda documentabile è un’altra: se il mondo romano distinguesse e selezionasse cani differenti per funzioni differenti."
+        },
+        {
+          "type": "paragraph",
+          "text": "Columella offre una base più solida per il nostro argomento: distingue il cane della villa, quello pastorale e quello da caccia, e descrive qualità fisiche e comportamentali diverse secondo il compito. È una testimonianza storica di selezione funzionale, non della nascita di una razza moderna."
         },
         {
           "type": "paragraph",
@@ -1723,7 +1727,7 @@ export const italianMaster = {
         }
       ],
       "editorialNotes": [
-        "**[VERIFICA — PUGNAX]** Terminologia, attestazioni latine, uso di *pugnax* come eventuale denominazione stabile di un tipo canino, proprietà militare dei cani, strutture di allevamento, scuole di addestramento, tecniche di condizionamento, armature e impieghi tattici richiedono verifica separata. Il master non assume automaticamente queste ricostruzioni come fatti documentati.",
+        "**[VERIFICA — PUGNAX COME TERMINE / USO MILITARE SPECIFICO; LA SELEZIONE FUNZIONALE ROMANA È DOCUMENTATA]** Terminologia, attestazioni latine, uso di *pugnax* come eventuale denominazione stabile di un tipo canino, proprietà militare dei cani, strutture di allevamento, scuole di addestramento, tecniche di condizionamento, armature e impieghi tattici richiedono verifica separata. Il master non assume automaticamente queste ricostruzioni come fatti documentati.",
         "**[VERIFICA — ARCHEOZOOLOGIA ROMANA]** Integrare gli studi genetici e osteometrici sui cani di età romana per descrivere la diversità delle popolazioni canine e i possibili movimenti lungo le reti imperiali."
       ]
     },
@@ -1780,7 +1784,7 @@ export const italianMaster = {
         },
         {
           "type": "paragraph",
-          "text": "**Sul piano documentario**, la pluralità dei cani romani è il dato più solido. **Nella lettura del Dott. Flavio Bruno**, però, dobbiamo guardare anche alla mentalità funzionale romana. Nei suoi testi Roma seleziona, organizza e utilizza. Il cane non viene pensato soltanto come presenza domestica, ma come animale al quale può essere assegnato un lavoro preciso."
+          "text": "**Sul piano documentario**, la pluralità dei cani romani e la distinzione funzionale attestata dagli autori agronomici sono i dati più solidi. **Nella lettura del Dott. Flavio Bruno**, però, dobbiamo guardare anche alla mentalità funzionale romana come a un sistema capace di organizzare e valorizzare attitudini diverse. Nei suoi testi Roma seleziona, organizza e utilizza. Il cane non viene pensato soltanto come presenza domestica, ma come animale al quale può essere assegnato un lavoro preciso."
         },
         {
           "type": "paragraph",
@@ -1952,9 +1956,9 @@ export const italianMaster = {
         }
       ],
       "editorialNotes": [
-        "**[VERIFICA — ROMA / ARCHEOZOOLOGIA]** Integrare gli studi pubblicati sui cani delle province romane, distinguendo chiaramente i dati archeologici e genetici dalle ipotesi sui loro impieghi.",
+        "**[FONTE CHIUSA — ARCHEOZOOLOGIA ROMANA: PLURALITÀ MORFOLOGICA E GENETICA]** Integrare gli studi pubblicati sui cani delle province romane, distinguendo chiaramente i dati archeologici e genetici dalle ipotesi sui loro impieghi.",
         "**[VERIFICA — IMPIEGO MILITARE]** Le affermazioni su legioni, armature canine, castra, proprietà statale dei cani, selezione dei cuccioli, scuole di Capua e impieghi tattici devono essere controllate individualmente. Dove la prova non è sufficiente, saranno presentate come ricostruzione o ipotesi, non come fatto.",
-        "**[VERIFICA — INTERPRETAZIONE ROMANA DI DOTT. FLAVIO BRUNO]** La presenza di specifici centri di addestramento canino presso Capua, il rapporto diretto fra tali centri e la successiva diffusione del Cane Corso, la continuità territoriale in Lazio, Campania e Meridione e gli impieghi attribuiti ai diversi periodi richiedono fonti indipendenti. Nel libro queste affermazioni restano chiaramente presentate come la ricostruzione storico-funzionale del Dott. Flavio Bruno finché la documentazione non consente formulazioni più forti."
+        "**[RESTARE ATTRIBUITA — INTERPRETAZIONE ROMANA DEL DOTT. FLAVIO BRUNO]** La presenza di specifici centri di addestramento canino presso Capua, il rapporto diretto fra tali centri e la successiva diffusione del Cane Corso, la continuità territoriale in Lazio, Campania e Meridione e gli impieghi attribuiti ai diversi periodi richiedono fonti indipendenti. Nel libro queste affermazioni restano chiaramente presentate come la ricostruzione storico-funzionale del Dott. Flavio Bruno finché la documentazione non consente formulazioni più forti."
       ]
     },
     {
@@ -2506,7 +2510,7 @@ export const italianMaster = {
         }
       ],
       "editorialNotes": [
-        "**[VERIFICA — STORIA AGRARIA]** Tipi di allevamento, distribuzione delle razze bovine, pratiche di contenimento e specifiche tecniche di presa dovranno essere confrontati con fonti agrarie e locali.",
+        "**[PARZIALMENTE CHIUSA — AMBIENTE AGRARIO E FUNZIONE; PRATICHE LOCALI DA DISTINGUERE]** Tipi di allevamento, distribuzione delle razze bovine, pratiche di contenimento e specifiche tecniche di presa dovranno essere confrontati con fonti agrarie e locali.",
         "**[VERIFICA — CORSO E VOLPINO]** La cronologia e la diffusione geografica di questo abbinamento dovranno essere documentate con fonti indipendenti; nel testo resta comunque fondamentale la testimonianza e la ricostruzione del Dott. Flavio Bruno."
       ]
     },
@@ -2863,7 +2867,7 @@ export const italianMaster = {
         }
       ],
       "editorialNotes": [
-        "**[VERIFICA — MASTINI PASTORALI / GENETICA]** Le ipotesi di parentela fra Mastino Abruzzese, cani epiroti, popolazioni caucasiche, anatoliche, iberiche e altre razze da guardiania dovranno essere verificate con fonti storiche e genetiche moderne. Eventuali antichi incroci cane-lupo citati nella tradizione non saranno presentati come fatto generale senza documentazione specifica."
+        "**[FONTE CHIUSA — FUNZIONE PASTORALE; OPEN — RELAZIONE GENETICA CON IL CANE CORSO]** Le ipotesi di parentela fra Mastino Abruzzese, cani epiroti, popolazioni caucasiche, anatoliche, iberiche e altre razze da guardiania dovranno essere verificate con fonti storiche e genetiche moderne. Eventuali antichi incroci cane-lupo citati nella tradizione non saranno presentati come fatto generale senza documentazione specifica."
       ]
     },
     {
@@ -3105,7 +3109,7 @@ export const italianMaster = {
         },
         {
           "type": "paragraph",
-          "text": "Nella memoria funzionale raccolta dal Dott. Flavio Bruno, il cane poteva afferrare il muso o l’orecchio per bloccare temporaneamente il bovino e permettere all’uomo di intervenire."
+          "text": "Nella memoria funzionale raccolta dal Dott. Flavio Bruno, il cane poteva afferrare il muso o l’orecchio per bloccare temporaneamente il bovino e permettere all’uomo di intervenire. Il dettaglio operativo resta testimonianza funzionale e non viene presentato come tecnica storica universalmente documentata."
         },
         {
           "type": "paragraph",
@@ -3193,8 +3197,8 @@ export const italianMaster = {
         }
       ],
       "editorialNotes": [
-        "**[VERIFICA — SUINICOLTURA STORICA]** L’estensione geografica e cronologica dell’allevamento brado, il valore economico dei boschi in relazione ai suini e le tecniche specifiche di gestione dovranno essere sostenuti da fonti di storia agraria.",
-        "**[VERIFICA — TECNICHE DI PRESA]** Le tecniche, i punti di presa e le modalità operative dovranno essere confrontati con testimonianze storiche indipendenti. Nel libro non saranno proposti come istruzioni contemporanee."
+        "**[FONTE CHIUSA — SUINICOLTURA STORICA DEL MEZZOGIORNO / MORRA]** L’estensione geografica e cronologica dell’allevamento brado, il valore economico dei boschi in relazione ai suini e le tecniche specifiche di gestione dovranno essere sostenuti da fonti di storia agraria.",
+        "**[RESTARE ATTRIBUITA — TECNICHE DI PRESA NELLA MEMORIA FUNZIONALE]** Le tecniche, i punti di presa e le modalità operative dovranno essere confrontati con testimonianze storiche indipendenti. Nel libro non saranno proposti come istruzioni contemporanee."
       ]
     },
     {
@@ -3374,7 +3378,7 @@ export const italianMaster = {
         }
       ],
       "editorialNotes": [
-        "**[VERIFICA — MACELLAI E COMMERCIO DEL BESTIAME]** Cercheremo documentazione indipendente su fiere, mediatori, macellai, gestione del bestiame e terminologia regionale. La testimonianza orale resterà comunque identificata come tale."
+        "**[RESTARE COME TRADIZIONE / MEMORIA — MACELLAI E MEDIATORI DI BESTIAME]** Cercheremo documentazione indipendente su fiere, mediatori, macellai, gestione del bestiame e terminologia regionale. La testimonianza orale resterà comunque identificata come tale."
       ]
     },
     {
@@ -3386,7 +3390,7 @@ export const italianMaster = {
       "blocks": [
         {
           "type": "paragraph",
-          "text": "Quando una funzione resta ma cambia territorio, anche il tipo può assumere nomi e sfumature locali. **Bucciuriscu** e **Vuccerisco** ci interessano prima di tutto come nomi e tipi regionali nella memoria degli utilizzatori, non come due razze storiche già dimostrate."
+          "text": "Quando una funzione resta ma cambia territorio, anche il tipo può assumere nomi e sfumature locali. **Bucciuriscu** e **Vuccerisco** ci interessano prima di tutto come nomi e tipi regionali nella memoria degli utilizzatori, non come due razze storiche già dimostrate. Il loro valore, nel libro, è mostrare la possibilità di espressioni locali create dalla funzione e dall’ambiente."
         },
         {
           "type": "paragraph",
@@ -3558,8 +3562,8 @@ export const italianMaster = {
         }
       ],
       "editorialNotes": [
-        "**[VERIFICA — VUCCERISCO]** Etimologia, prime attestazioni, distribuzione geografica e funzione storica del termine dovranno essere documentate prima della pubblicazione.",
-        "**[VERIFICA — BUCCIURISCU]** Occorre verificare grafia, varianti dialettali, fonti scritte, area di utilizzo e rapporto storico con i macellai calabresi."
+        "**[RESTARE ATTRIBUITA — VUCCERISCO COME NOME/TIPO LOCALE NELLA MEMORIA DEGLI UTILIZZATORI]** Etimologia, prime attestazioni, distribuzione geografica e funzione storica del termine dovranno essere documentate prima della pubblicazione.",
+        "**[RESTARE ATTRIBUITA — BUCCIURISCU COME NOME/TIPO LOCALE NELLA MEMORIA DEGLI UTILIZZATORI]** Occorre verificare grafia, varianti dialettali, fonti scritte, area di utilizzo e rapporto storico con i macellai calabresi."
       ]
     },
     {
@@ -3690,8 +3694,8 @@ export const italianMaster = {
         }
       ],
       "editorialNotes": [
-        "**[VERIFICA — PERIODO BORBONICO]** Politiche agricole, diffusione del cane, opere artistiche e interpretazioni iconografiche richiedono verifica specifica.",
-        "Dott. Flavio Bruno collega anche il Cane Corso alla cultura figurativa del periodo borbonico. Qui il nostro metodo deve restare rigoroso: una scultura o una statuina può mostrare un tipo canino compatibile, ma l'identificazione precisa richiede prudenza. **[VERIFICA — ICONOGRAFIA BORBONICA]** Le attribuzioni specifiche delle figure canine della Reggia di Caserta, dei presepi e di altre opere devono essere controllate opera per opera."
+        "**[PARZIALMENTE CHIUSA — CONTESTO RURALE BORBONICO; OPEN — ALLEVAMENTO/PATRONAGE SPECIFICO DEL CANE CORSO]** Politiche agricole, diffusione del cane, opere artistiche e interpretazioni iconografiche richiedono verifica specifica.",
+        "Dott. Flavio Bruno collega anche il Cane Corso alla cultura figurativa del periodo borbonico. Qui il nostro metodo deve restare rigoroso: una scultura o una statuina può mostrare un tipo canino compatibile, ma l'identificazione precisa richiede prudenza. **[VERIFICA — ICONOGRAFIA BORBONICA: IDENTIFICARE OPERA/AUTORE/DATA; NESSUNA IDENTITÀ DI RAZZA SOLO DALLA SOMIGLIANZA]** Le attribuzioni specifiche delle figure canine della Reggia di Caserta, dei presepi e di altre opere devono essere controllate opera per opera."
       ]
     },
     {
@@ -3739,8 +3743,8 @@ export const italianMaster = {
         }
       ],
       "editorialNotes": [
-        "**[VERIFICA — BRIGANTAGGIO]** Date, nomi, episodi specifici e impiego dei cani devono essere verificati con fonti storiche indipendenti.",
-        "Nelle sue parole il Cane Corso dei briganti è soprattutto sentinella: un animale che deve vivere nel bosco, seguire uomini in movimento, percepire la presenza estranea e, quando necessario, proteggere. Dott. Flavio Bruno racconta anche di cani addestrati a segnalare in modo discreto per non rivelare la posizione del gruppo. È un'immagine coerente con la funzione, ma gli episodi specifici devono essere verificati prima di essere presentati come fatti storici. **[VERIFICA — FONTI MILITARI E BRIGANTAGGIO]**"
+        "**[PARZIALMENTE CHIUSA — CONTESTO STORICO DEL BRIGANTAGGIO; OPEN — IDENTIFICAZIONE DEI CANI COME CANE CORSO]** Date, nomi, episodi specifici e impiego dei cani devono essere verificati con fonti storiche indipendenti.",
+        "Nelle sue parole il Cane Corso dei briganti è soprattutto sentinella: un animale che deve vivere nel bosco, seguire uomini in movimento, percepire la presenza estranea e, quando necessario, proteggere. Dott. Flavio Bruno racconta anche di cani addestrati a segnalare in modo discreto per non rivelare la posizione del gruppo. È un'immagine coerente con la funzione, ma gli episodi specifici devono essere verificati prima di essere presentati come fatti storici. **[VERIFICA — FONTI MILITARI E BRIGANTAGGIO: SERVE FONTE PRIMARIA PER CANI/TIPO CANINO]**"
       ]
     },
     {
@@ -7377,10 +7381,23 @@ export const italianMaster = {
       {
         "type": "question",
         "text": "La funzione fa il tipo."
+      },
+      {
+        "type": "paragraph",
+        "text": "PASS C applica una revisione conservativa ai Capitoli 3, 5, 6, 9, 14, 16, 18, 19 e 30. Obiettivi: ridurre ripetizioni reali; distinguere dato documentario, ipotesi e interpretazione; non trasformare Pugnax, Molosso, varianti regionali o memoria funzionale in genealogie dimostrate; mantenere intatte le citazioni autentiche e la tesi «La funzione fa il tipo»."
+      },
+      {
+        "type": "paragraph",
+        "text": "Le citazioni attribuite al Dott. Flavio Bruno provengono dal corpus delle conversazioni private messe a disposizione per questo progetto e dovranno essere ricontrollate parola per parola nella fase finale di editing, mantenendo il significato e la voce originale."
+      },
+      {
+        "type": "paragraph",
+        "text": "Le sezioni in prima persona di Stefano De Tanini rappresentano interpretazione ed esperienza dell’autore e non vengono presentate come prova storica."
       }
     ],
     "editorialNotes": [
-      "## NOTA INTERNA V11 — PASS C STORICO\n\nPASS C applica una revisione conservativa ai Capitoli 3, 5, 6, 9, 14, 16, 18, 19 e 30.\nObiettivi: ridurre ripetizioni reali; distinguere dato documentario, ipotesi e interpretazione; non trasformare Pugnax, Molosso, varianti regionali o memoria funzionale in genealogie dimostrate; mantenere intatte le citazioni autentiche e la tesi «La funzione fa il tipo».\n\n---\n\n## NOTA INTERNA V11 — EDITORIAL CONSOLIDATION\n\nV11 consolida ripetizioni narrative evidenti senza modificare la struttura di 10 Parti, 49 Capitoli ed Epilogo.\nIn questa passata sono stati consolidati in modo conservativo i Capitoli 21, 24, 38 e 48, mantenendo testimonianze, citazioni, marcatori [VERIFICA] e distinzione fra fatto, memoria e interpretazione.\nI Capitoli 1, 2, 3, 6, 30, 49 e l’Epilogo sono stati riesaminati come nodi strutturali e mantenuti nella loro forma V10 perché già coerenti con il ritmo narrativo previsto.\n\n---\n\n## NOTA INTERNA PER LA REVISIONE DEL MASTER\n\nI marcatori **[VERIFICA]** appartengono soltanto al processo editoriale del master. Prima della pubblicazione saranno risolti attraverso fonti adeguate e rimossi dal testo finale oppure trasformati in note bibliografiche.\n\nLe citazioni attribuite al Dott. Flavio Bruno provengono dal corpus delle conversazioni private messe a disposizione per questo progetto e dovranno essere ricontrollate parola per parola nella fase finale di editing, mantenendo il significato e la voce originale.\n\nLe sezioni in prima persona di Stefano De Tanini rappresentano interpretazione ed esperienza dell’autore e non vengono presentate come prova storica."
+      "V11 consolida ripetizioni narrative evidenti senza modificare la struttura di 10 Parti, 49 Capitoli ed Epilogo. In questa passata sono stati consolidati in modo conservativo i Capitoli 21, 24, 38 e 48, mantenendo testimonianze, citazioni, marcatori [VERIFICA] e distinzione fra fatto, memoria e interpretazione. I Capitoli 1, 2, 3, 6, 30, 49 e l’Epilogo sono stati riesaminati come nodi strutturali e mantenuti nella loro forma V10 perché già coerenti con il ritmo narrativo previsto.",
+      "I marcatori **[VERIFICA]** appartengono soltanto al processo editoriale del master. Prima della pubblicazione saranno risolti attraverso fonti adeguate e rimossi dal testo finale oppure trasformati in note bibliografiche."
     ]
   }
 }
