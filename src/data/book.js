@@ -30,8 +30,8 @@ export const book = {
       subtitle: 'Преди и след Cane Corso',
       coverAuthors: 'Д-р Флавио Бруно / Стефано Де Танини',
       coverSubtitle: 'Италия и България в историческата приемственост на Cane Corso',
-      introduction: 'Българското издание се превежда от окончателно заключения италиански master текст.',
-      description: 'ПРЕДИ И СЛЕД CANE CORSO — български превод от заключения италиански master.',
+      introduction: 'Българското издание е преведено от окончателно заключения италиански оригинал.',
+      description: 'ПРЕДИ И СЛЕД CANE CORSO — български превод от заключения италиански оригинал.',
     },
     it: {
       titleLead: 'PRIMA E DOPO', titleSubject: 'IL CANE CORSO',

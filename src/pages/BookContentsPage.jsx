@@ -5,6 +5,10 @@ import { useBookLanguage } from '../localization/useBookLanguage'
 export function BookContentsPage() {
   const { language, t } = useBookLanguage()
   const frontMatter = readingItems.filter((item) => item.kind === 'front')
+  const frontMatterLabel = language === 'bg' ? 'Встъпление' : language === 'it' ? 'Apertura' : 'Opening'
+  const bookEyebrowLabel = language === 'bg' ? 'ПРЕДИ И СЛЕД CANE CORSO' : language === 'it' ? 'PRIMA E DOPO IL CANE CORSO' : 'BEFORE AND AFTER CANE CORSO'
+  const epilogueLabel = language === 'bg' ? 'Епилог' : language === 'it' ? 'Epilogo' : 'Epilogue'
+  const epilogueTitle = epilogue.translations[language]?.title ?? epilogue.translations.it.title
 
   return (
     <article className="inner-page contents-page">
@@ -14,8 +18,8 @@ export function BookContentsPage() {
       </header>
 
       <section className="contents-part" aria-labelledby="front-matter">
-        <p className="eyebrow">PRIMA E DOPO IL CANE CORSO</p>
-        <h2 id="front-matter">Apertura</h2>
+        <p className="eyebrow">{bookEyebrowLabel}</p>
+        <h2 id="front-matter">{frontMatterLabel}</h2>
         <ol className="contents-list">
           {frontMatter.map((item) => (
             <li key={item.id}>
@@ -49,12 +53,12 @@ export function BookContentsPage() {
       ))}
 
       <section className="contents-part" aria-labelledby="epilogue">
-        <p className="eyebrow">Epilogo</p>
-        <h2 id="epilogue">{epilogue.title}</h2>
+        <p className="eyebrow">{epilogueLabel}</p>
+        <h2 id="epilogue">{epilogueTitle}</h2>
         <ol className="contents-list">
           <li>
             <Link to={`/chapter/${epilogue.slug}`}>
-              <span><strong>{epilogue.title}</strong></span>
+              <span><strong>{epilogueTitle}</strong></span>
               <span className="contents-arrow" aria-hidden="true">↗</span>
             </Link>
           </li>
