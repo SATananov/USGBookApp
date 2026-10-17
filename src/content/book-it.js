@@ -2110,7 +2110,7 @@ export const italianMaster = {
         },
         {
           "type": "paragraph",
-          "text": "La continuità di specifiche popolazioni canine tra la tarda età romana e i secoli medievali dovrà essere verificata per territorio e fonte. L’assenza di documentazione continua non può essere colmata con una linea genealogica immaginaria."
+          "text": "La continuità di specifiche popolazioni canine tra la tarda età romana e i secoli medievali non è documentata in modo uniforme per ogni territorio. I vuoti delle fonti non possono quindi essere colmati con una linea genealogica immaginaria."
         },
         {
           "type": "heading",
@@ -2190,10 +2190,6 @@ export const italianMaster = {
         },
         {
           "type": "paragraph",
-          "text": "Ed è proprio da questa necessità che entriamo nel Medioevo."
-        },
-        {
-          "type": "paragraph",
           "text": "È in questa continuità disordinata che entriamo nel Medioevo: meno interessati a trovare un nome stabile, più attenti a seguire ciò che uomini e cani devono ancora fare insieme."
         }
       ],
@@ -2236,7 +2232,7 @@ export const italianMaster = {
         },
         {
           "type": "paragraph",
-          "text": "Questo collegamento fra terminologia canina, araldica e uso dei termini “mastino” e “corso” è parte dell’interpretazione del Dott. Flavio Bruno e dovrà essere confrontato con fonti linguistiche, letterarie e araldiche prima di essere trattati come dati certi."
+          "text": "Questo collegamento fra terminologia canina, araldica e uso dei termini “mastino” e “corso” appartiene all’interpretazione del Dott. Flavio Bruno. È una pista suggestiva, da leggere accanto alle fonti linguistiche, letterarie e araldiche, non come un dato già definitivo."
         },
         {
           "type": "paragraph",
@@ -2256,7 +2252,7 @@ export const italianMaster = {
         },
         {
           "type": "paragraph",
-          "text": "Caccia al cinghiale, eventuali impieghi militari, armature canine e altre pratiche specifiche dovranno essere verificate per area, periodo e fonte."
+          "text": "Caccia al cinghiale, eventuali impieghi militari, armature canine e altre pratiche specifiche appartengono a contesti diversi e acquistano significato soltanto quando vengono lette per area, periodo e fonte."
         },
         {
           "type": "paragraph",
@@ -2329,10 +2325,6 @@ export const italianMaster = {
         {
           "type": "paragraph",
           "text": "È il lungo laboratorio nel quale nomi, lavori e tipi continuano a muoversi."
-        },
-        {
-          "type": "paragraph",
-          "text": "E quando arriviamo al Rinascimento, le tracce diventano finalmente più visibili."
         },
         {
           "type": "paragraph",
@@ -2478,7 +2470,7 @@ export const italianMaster = {
         },
         {
           "type": "paragraph",
-          "text": "Ogni immagine dovrà essere studiata per autore, datazione, provenienza, soggetto e contesto. Le somiglianze morfologiche vengono presentate come osservazioni, non come prove genealogiche."
+          "text": "Ogni immagine acquista valore quando viene letta attraverso autore, datazione, provenienza, soggetto e contesto. Le somiglianze morfologiche restano osservazioni, non prove genealogiche."
         },
         {
           "type": "paragraph",
@@ -2600,7 +2592,7 @@ export const italianMaster = {
         },
         {
           "type": "paragraph",
-          "text": "La cronologia e la diffusione geografica di questo abbinamento dovranno essere documentate con fonti indipendenti; nel testo resta comunque fondamentale la testimonianza e la ricostruzione del Dott. Flavio Bruno."
+          "text": "La cronologia e la diffusione geografica di questo abbinamento non sono qui assunte come certezza generale; resta centrale la testimonianza e la ricostruzione del Dott. Flavio Bruno, distinta dal dato documentato."
         },
         {
           "type": "heading",
@@ -2750,7 +2742,7 @@ export const italianMaster = {
         },
         {
           "type": "paragraph",
-          "text": "Le affermazioni generali sull’alimentazione dei cani nelle diverse epoche, compreso il “pane canino”, dovranno essere verificate separatamente. Qui le presentiamo come parte della ricostruzione del Dott. Flavio Bruno e della memoria rurale."
+          "text": "Le descrizioni dell’alimentazione dei cani nelle diverse epoche, compreso il “pane canino”, appartengono qui alla ricostruzione del Dott. Flavio Bruno e alla memoria rurale; non vengono estese automaticamente a ogni territorio o periodo."
         },
         {
           "type": "heading",
@@ -2956,7 +2948,7 @@ export const italianMaster = {
         },
         {
           "type": "paragraph",
-          "text": "Le ipotesi di parentela fra Mastino Abruzzese, cani epiroti, popolazioni caucasiche, anatoliche, iberiche e altre razze da guardiania dovranno essere verificate con fonti storiche e genetiche moderne. Eventuali antichi incroci cane-lupo citati nella tradizione non vengono presentati come fatto generale senza documentazione specifica."
+          "text": "Le ipotesi di parentela fra Mastino Abruzzese, cani epiroti, popolazioni caucasiche, anatoliche, iberiche e altre razze da guardiania restano ipotesi da confrontare con fonti storiche e genetiche moderne. Anche gli antichi incroci cane-lupo ricordati nella tradizione non vengono trasformati in un fatto generale senza documentazione specifica."
         },
         {
           "type": "heading",
@@ -3260,7 +3252,7 @@ export const italianMaster = {
         },
         {
           "type": "paragraph",
-          "text": "L’estensione geografica e cronologica dell’allevamento brado, il valore economico dei boschi in relazione ai suini e le tecniche specifiche di gestione vanno sostenuti da fonti di storia agraria."
+          "text": "L’allevamento brado, il valore economico dei boschi e le tecniche di gestione dei suini variarono secondo epoca e territorio; il loro quadro storico va quindi letto attraverso le fonti agrarie locali."
         },
         {
           "type": "heading",
@@ -3284,7 +3276,7 @@ export const italianMaster = {
         },
         {
           "type": "paragraph",
-          "text": "Le tecniche, i punti di presa e le modalità operative vanno confrontati con testimonianze storiche indipendenti. Nel libro non saranno proposti come istruzioni contemporanee."
+          "text": "Tecniche, punti di presa e modalità operative appartengono alla memoria del lavoro e non vengono presentati come istruzioni contemporanee."
         },
         {
           "type": "paragraph",
@@ -3522,7 +3514,7 @@ export const italianMaster = {
         },
         {
           "type": "paragraph",
-          "text": "Noi non useremo questi racconti per sostenere che ogni macellaio del Sud possedesse Cane Corso o che tutti i Cane Corso svolgessero questa funzione."
+          "text": "Questi racconti non significano che ogni macellaio del Sud possedesse un Cane Corso, né che tutti i Cane Corso svolgessero questa funzione."
         },
         {
           "type": "paragraph",
@@ -3534,7 +3526,7 @@ export const italianMaster = {
         },
         {
           "type": "paragraph",
-          "text": "Fiere, mediatori, macellai, gestione del bestiame e terminologia regionale richiedono documentazione indipendente quando diventano affermazioni specifiche. La testimonianza orale resta identificata come tale."
+          "text": "Fiere, mediatori, macellai, gestione del bestiame e terminologia regionale cambiano secondo luogo e periodo; la testimonianza orale resta quindi riconoscibile come tale, senza essere trasformata in regola universale."
         },
         {
           "type": "paragraph",
@@ -3616,7 +3608,7 @@ export const italianMaster = {
         },
         {
           "type": "paragraph",
-          "text": "Etimologia, prime attestazioni, distribuzione geografica e funzione storica del termine dovranno essere documentate prima di essere trattati come dati certi."
+          "text": "Etimologia, prime attestazioni, distribuzione geografica e funzione storica del termine restano questioni aperte, da distinguere dalla memoria degli utilizzatori."
         },
         {
           "type": "paragraph",
@@ -3624,7 +3616,7 @@ export const italianMaster = {
         },
         {
           "type": "paragraph",
-          "text": "È importante distinguere e verificare grafia, varianti dialettali, fonti scritte, area di utilizzo e rapporto storico con i macellai calabresi."
+          "text": "Grafia, varianti dialettali, fonti scritte, area di utilizzo e rapporto storico con i macellai calabresi non coincidono necessariamente e vanno letti come livelli distinti della stessa memoria regionale."
         },
         {
           "type": "heading",
@@ -3915,7 +3907,7 @@ export const italianMaster = {
         },
         {
           "type": "paragraph",
-          "text": "Date, nomi, episodi specifici e impiego dei cani vanno verificati con fonti storiche indipendenti."
+          "text": "Date, nomi ed episodi specifici appartengono a un livello documentario diverso dalla memoria orale e non vengono automaticamente estesi oltre le fonti che li sostengono."
         },
         {
           "type": "paragraph",
@@ -3935,11 +3927,11 @@ export const italianMaster = {
         },
         {
           "type": "paragraph",
-          "text": "Nelle sue parole il Cane Corso dei briganti è soprattutto sentinella: un animale che deve vivere nel bosco, seguire uomini in movimento, percepire la presenza estranea e, quando necessario, proteggere. Dott. Flavio Bruno racconta anche di cani addestrati a segnalare in modo discreto per non rivelare la posizione del gruppo. È un'immagine coerente con la funzione, ma gli episodi specifici vanno verificati prima di essere presentati come fatti storici."
+          "text": "Nelle sue parole il Cane Corso dei briganti è soprattutto sentinella: un animale che deve vivere nel bosco, seguire uomini in movimento, percepire la presenza estranea e, quando necessario, proteggere. Dott. Flavio Bruno racconta anche di cani addestrati a segnalare in modo discreto per non rivelare la posizione del gruppo. È un’immagine coerente con la funzione, ma resta una testimonianza attribuita finché i singoli episodi non trovano riscontro documentario."
         },
         {
           "type": "paragraph",
-          "text": "Alcuni racconti ottocenteschi sui “cani feroci dei briganti” possono inoltre essere stati caricati di propaganda, paura o demonizzazione del nemico. Per questo non useremo le cronache come fotografie neutrali. Le leggeremo come documenti prodotti dentro un conflitto."
+          "text": "Alcuni racconti ottocenteschi sui “cani feroci dei briganti” possono inoltre essere stati caricati di propaganda, paura o demonizzazione del nemico. Per questo le cronache non sono fotografie neutrali: sono documenti prodotti dentro un conflitto."
         },
         {
           "type": "paragraph",
@@ -3965,19 +3957,11 @@ export const italianMaster = {
         },
         {
           "type": "paragraph",
-          "text": "Un cane non possiede un’ideologia."
-        },
-        {
-          "type": "paragraph",
           "text": "Se un tipo è utile, può essere utilizzato da parti opposte. Guardiani, proprietari, briganti, forze dell’ordine: il valore funzionale del cane non appartiene moralmente a chi lo impiega."
         },
         {
           "type": "paragraph",
           "text": "Questo capitolo serve a liberarci da un’altra tentazione: trasformare il Cane Corso in simbolo politico o sociale univoco. Il cane attraversa i conflitti umani senza comprenderne le bandiere."
-        },
-        {
-          "type": "paragraph",
-          "text": "La sua storia è la storia di ciò che gli uomini gli hanno chiesto di fare."
         },
         {
           "type": "paragraph",
@@ -4002,10 +3986,6 @@ export const italianMaster = {
         {
           "type": "paragraph",
           "text": "Proprio questa doppia possibilità rende il punto più forte: se qualità come vigilanza, coraggio, mobilità, presa e legame con il conduttore erano utili, potevano essere cercate da uomini collocati su lati opposti dello stesso conflitto."
-        },
-        {
-          "type": "paragraph",
-          "text": "Domandai a me stesso che cosa significasse raccontare un Cane Corso usato da uomini che combattevano su fronti opposti. La risposta, in fondo, era già contenuta in tutto ciò che Dott. Flavio Bruno mi stava insegnando: la funzione non appartiene a un'ideologia."
         },
         {
           "type": "paragraph",
@@ -4192,15 +4172,7 @@ export const italianMaster = {
         },
         {
           "type": "paragraph",
-          "text": "La storia di Guagliò mi fece capire quanto fosse sbagliato descrivere il Cane Corso soltanto attraverso la parola “aggressività”. Antonio, il vecchio macellaio molisano, racconta un cane che si muove con lui nelle campagne e alle fiere e che sa cambiare comportamento in base alla situazione."
-        },
-        {
-          "type": "paragraph",
-          "text": "Sul tratturo, davanti ai quattro Mastini che corrono verso il cavallo, Guagliò non si lancia in una rissa senza fine. Secondo il racconto supera il padrone, affronta il capo del gruppo, lo rovescia col petto e poi si piazza fra i Mastini e l’uomo. Quando scrissi a Dott. Flavio Bruno che io vedevo in quella scena «non aggressività senza controllo, ma coraggio, intelligenza, decisione e obbedienza legati alla funzione», lui rispose semplicemente: **«Sì certo.»**"
-        },
-        {
-          "type": "paragraph",
-          "text": "Quella risposta breve per me vale molto. Conferma che la mia lettura non stava trasformando la storia in un’esaltazione dello scontro. Il punto era la capacità del cane di comprendere dove fosse il vero problema: non inseguire ogni avversario, ma proteggere il proprio uomo."
+          "text": "Quando scrissi a Dott. Flavio Bruno che in quella scena vedevo «non aggressività senza controllo, ma coraggio, intelligenza, decisione e obbedienza legati alla funzione», lui rispose semplicemente: **«Sì certo.»** Quella risposta confermava il punto: non inseguire ogni avversario, ma comprendere dove fosse il vero problema e proteggere il proprio uomo."
         },
         {
           "type": "paragraph",
@@ -4407,7 +4379,7 @@ export const italianMaster = {
         },
         {
           "type": "paragraph",
-          "text": "Quando Il Dott. Flavio Bruno mi spiegò la differenza fra Mastino e Cane Corso, capii anche perché aveva voluto raccontarmi questa storia prima di passare «al lavoro e alla vita del cane corso». Non stava facendo confusione. Stava costruendo un confronto. Il mondo pastorale del Mastino e il mondo operativo del Corso possono toccarsi, ma non coincidono."
+          "text": "Quando il Dott. Flavio Bruno mi spiegò la differenza fra Mastino e Cane Corso, capii anche perché aveva voluto raccontarmi questa storia prima di passare «al lavoro e alla vita del cane corso». Non stava facendo confusione. Stava costruendo un confronto. Il mondo pastorale del Mastino e il mondo operativo del Corso possono toccarsi, ma non coincidono."
         },
         {
           "type": "paragraph",
@@ -5174,18 +5146,6 @@ export const italianMaster = {
         },
         {
           "type": "paragraph",
-          "text": "Il pedigree è uno strumento. Non è il cane."
-        },
-        {
-          "type": "paragraph",
-          "text": "Può essere prezioso perché permette di seguire genealogie, conoscere ascendenze, programmare accoppiamenti e controllare una popolazione. Ma non può garantire da solo salute, carattere o funzionalità."
-        },
-        {
-          "type": "paragraph",
-          "text": "Dott. Flavio Bruno, parlando dei miei Cane senza pedigree, mi disse di non considerarli automaticamente inferiori. Il suo punto non era che il pedigree fosse inutile, ma che la carta non dovesse sostituire il giudizio sul soggetto."
-        },
-        {
-          "type": "paragraph",
           "text": "Io considero la genealogia importante. Ma se un documento diventa il criterio unico, corriamo il rischio di certificare la discendenza e dimenticare ciò che dovrebbe discendere."
         },
         {
@@ -5507,10 +5467,6 @@ export const italianMaster = {
         },
         {
           "type": "paragraph",
-          "text": "Dott. Flavio Bruno mi ha parlato della dentatura e della preferenza per una chiusura che considera più funzionale. Questa rimane la sua opinione morfo-funzionale. Lo standard FCI vigente, invece, ricerca un leggero prognatismo entro 5 mm e considera la forbice un difetto grave. Il libro conserva entrambe le informazioni senza confonderle."
-        },
-        {
-          "type": "paragraph",
           "text": "La presa stessa non appartiene alla sola bocca. Nei racconti dei macellai il cane deve arrivare sul bersaglio, mantenere equilibrio, utilizzare il collo e il tronco, sostenere la pressione e soprattutto lasciare quando l’uomo interviene. Ridurre tutto questo a “forza del morso” significa perdere la funzione dentro una cifra spettacolare."
         },
         {
@@ -5536,10 +5492,6 @@ export const italianMaster = {
         {
           "type": "paragraph",
           "text": "Questo significa che bocca e testa non possono essere comprese senza comportamento. Una testa impressionante su un cane privo di tempismo e controllo non ricrea la funzione antica."
-        },
-        {
-          "type": "paragraph",
-          "text": "Non useremo numeri sensazionalistici sulla “forza del morso” in assenza di studi specifici e comparabili sul Cane Corso. La capacità di presa coinvolge anatomia, biomeccanica, comportamento, motivazione e contesto; una cifra isolata non descrive la funzione."
         },
         {
           "type": "paragraph",
@@ -5590,14 +5542,6 @@ export const italianMaster = {
         {
           "type": "paragraph",
           "text": "Il Cane Corso storico non era un atleta specializzato in una sola disciplina, ma doveva possedere una mobilità sufficiente a seguire il proprio uomo, attraversare terreni irregolari, accompagnare animali, accelerare quando necessario e recuperare. Anche se oggi non chiediamo più gli stessi lavori, il corpo dovrebbe conservare la possibilità di farli almeno nella logica generale."
-        },
-        {
-          "type": "paragraph",
-          "text": "Per me questa è una delle prove più oneste contro l’ipertipo. Il cane eccessivamente pesante, quello con proporzioni troppo estreme o quello che respira male può apparire monumentale per pochi secondi, ma il movimento rivela il prezzo pagato."
-        },
-        {
-          "type": "paragraph",
-          "text": "La funzionalità moderna non richiede di far correre il Cane Corso fino allo sfinimento. Richiede però di non selezionare un corpo che trasformi il semplice movimento naturale in fatica."
         },
         {
           "type": "paragraph",
@@ -5862,7 +5806,7 @@ export const italianMaster = {
         },
         {
           "type": "paragraph",
-          "text": "Nei suoi ricordi di *I sogni di un ragazzo* compare una varietà cromatica ampia: fulvo, grigio-cenere, nero, diverse tigrature e un formentino molto chiaro preferito in alcuni ambienti pastorali. Queste descrizioni sono memoria storica e dovranno essere distinte dai colori ammessi oggi dallo standard."
+          "text": "Nei suoi ricordi di *I sogni di un ragazzo* compare una varietà cromatica ampia: fulvo, grigio-cenere, nero, diverse tigrature e un formentino molto chiaro preferito in alcuni ambienti pastorali. Sono descrizioni di memoria storica, da distinguere dai colori ammessi oggi dallo standard."
         },
         {
           "type": "paragraph",
@@ -6149,7 +6093,7 @@ export const italianMaster = {
         },
         {
           "type": "paragraph",
-          "text": "Questo è uno dei punti nei quali il master si apre alla genetica contemporanea. Coefficienti di inbreeding, profondità del pedigree, effective population size, popular sire effect e test genomici sono strumenti utili, ma il libro non attribuisce al Cane Corso valori numerici di COI o Ne senza uno studio specifico e rappresentativo della popolazione considerata."
+          "text": "La genetica contemporanea aggiunge strumenti che il mondo rurale non possedeva: coefficienti di inbreeding, profondità del pedigree, effective population size, popular sire effect e test genomici. Sono strumenti utili, ma valori numerici di COI o Ne hanno senso soltanto dentro studi specifici e rappresentativi della popolazione considerata."
         },
         {
           "type": "paragraph",
@@ -6207,7 +6151,7 @@ export const italianMaster = {
         },
         {
           "type": "paragraph",
-          "text": "Dott. Flavio Bruno, da medico veterinario, ha dedicato molte pagine alla riproduzione, al parto, all’allattamento e ai primi giorni di vita. Alcune indicazioni riflettono conoscenze e pratiche del periodo in cui furono scritte e devono essere aggiornate prima di essere trattati come dati certi."
+          "text": "Dott. Flavio Bruno, da medico veterinario, ha dedicato molte pagine alla riproduzione, al parto, all’allattamento e ai primi giorni di vita. Alcune indicazioni riflettono conoscenze e pratiche del periodo in cui furono scritte e oggi vanno lette alla luce della medicina veterinaria aggiornata."
         },
         {
           "type": "paragraph",
@@ -6461,10 +6405,6 @@ export const italianMaster = {
         },
         {
           "type": "paragraph",
-          "text": "Una fotografia ferma un istante. Una razza viva attraversa il tempo."
-        },
-        {
-          "type": "paragraph",
           "text": "Il Cane Corso non può essere ridotto a una testa vista di fronte, a una misura, a un colore, a un campione o a una vecchia immagine scelta come modello assoluto."
         },
         {
@@ -6474,10 +6414,6 @@ export const italianMaster = {
         {
           "type": "paragraph",
           "text": "Quando diciamo “voglio il Cane Corso di una volta”, dobbiamo domandarci quale parte vogliamo davvero recuperare. La fotografia? Il peso? La testa? O il rapporto fra struttura, carattere e funzione?"
-        },
-        {
-          "type": "paragraph",
-          "text": "Se scegliamo soltanto l’immagine, possiamo creare una copia senza contenuto."
         },
         {
           "type": "paragraph",
@@ -6684,14 +6620,6 @@ export const italianMaster = {
         {
           "type": "paragraph",
           "text": "Il passato aveva selezione reale, ma anche malattie non diagnosticate, mortalità, conoscenze incomplete e pratiche che oggi non vorremmo ripetere. Il presente possiede medicina, genetica, registri e una capacità di condividere informazioni mai esistita prima. Ma possiede anche mercato globale, mode estetiche, selezione per immagini e una distanza crescente dalle funzioni originarie."
-        },
-        {
-          "type": "paragraph",
-          "text": "Che cosa abbiamo conservato? Sicuramente il nome. Molte caratteristiche morfologiche. Una parte importante del carattere. Una memoria culturale che persone come Dott. Flavio Bruno hanno contribuito a non far scomparire."
-        },
-        {
-          "type": "paragraph",
-          "text": "Che cosa possiamo aver perduto? Forse una parte della variabilità funzionale, una parte della selezione quotidiana, la semplicità con cui il lavoro eliminava ciò che non era adatto. Ma anche questa è una domanda, non una sentenza universale. Esistono ancora allevatori e proprietari che cercano salute, equilibrio e funzione."
         },
         {
           "type": "paragraph",
