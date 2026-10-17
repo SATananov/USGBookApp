@@ -1,3 +1,4 @@
+import { bgChapters01To10 } from './book-bg-chapters-01-10.js'
 // Bulgarian translation overlay for the locked Italian master.
 // Source: V12 FINAL IT LOCK commit f62fce7f4de9c8a1bab661484f7109ee076b6ca0
 // The Italian master remains untouched and is the source of truth.
@@ -140,6 +141,6 @@ export const bulgarianTranslation = {
       ],
     },
   },
-  chapters: {},
+  chapters: bgChapters01To10,
   epilogue: null,
 }
