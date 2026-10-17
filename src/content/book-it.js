@@ -2446,7 +2446,7 @@ export const italianMaster = {
         },
         {
           "type": "paragraph",
-          "text": "Gli incroci specifici, le denominazioni storiche dei prodotti e la loro diffusione devono essere documentati prima di essere trattati come dati certi. L’idea generale di selezione utilitaristica è plausibile; i dettagli richiedono fonte."
+          "text": "Dott. Flavio Bruno presenta questi incroci come parte di una selezione utilitaristica nella quale velocità e forza potevano essere cercate insieme. I dettagli sui singoli accoppiamenti, sui nomi attribuiti ai prodotti e sulla loro diffusione restano però una ricostruzione da leggere con prudenza, non una genealogia definitivamente dimostrata."
         },
         {
           "type": "heading",
@@ -4737,47 +4737,15 @@ export const italianMaster = {
         },
         {
           "type": "paragraph",
-          "text": "Questo capitolo richiede la massima disciplina."
+          "text": "Dott. Flavio Bruno distingue nettamente il mondo rurale tradizionale dai combattimenti clandestini organizzati e dal successivo sfruttamento criminale dei cani da presa. Nella sua ricostruzione, il fenomeno assume una scala diversa soprattutto dagli anni Ottanta e Novanta, quando ambienti criminali iniziano a utilizzare e incrociare razze differenti, incluso il Pitbull, anche per le scommesse clandestine."
         },
         {
           "type": "paragraph",
-          "text": "Dott. Flavio Bruno distingue chiaramente il mondo rurale tradizionale dai combattimenti clandestini organizzati e dal successivo sfruttamento criminale di cani da presa. Nelle sue note colloca una diversa scala del fenomeno soprattutto dagli anni Ottanta e Novanta e cita Cane Corso, Mastino Napoletano, Pit Bull e incroci in ambienti criminali."
+          "text": "La documentazione criminologica contemporanea conferma che i combattimenti tra animali sono un fenomeno reale, perseguito penalmente e in diversi casi collegato ad altre attività criminali. Questo, però, non autorizza a trasformare ogni racconto, territorio, razza o cronologia in una regola generale."
         },
         {
           "type": "paragraph",
-          "text": "La documentazione criminologica contemporanea conferma che i combattimenti tra animali sono un fenomeno reale, perseguito penalmente e collegato in diversi casi ad altre attività criminali; documenta inoltre sequestri di cani e procedimenti giudiziari. Non consente però di trasformare automaticamente ogni riferimento del Dott. Flavio Bruno a singole organizzazioni mafiose, razze, territori o cronologie in un fatto generale."
-        },
-        {
-          "type": "paragraph",
-          "text": "Questa parte non deve mai diventare folklore nero né pubblicità involontaria della violenza."
-        },
-        {
-          "type": "paragraph",
-          "text": "La distinzione fondamentale è morale e storica: la capacità di guardia o di presa di un cane non è criminale. È l’uomo che decide come utilizzarla."
-        },
-        {
-          "type": "paragraph",
-          "text": "Un cane nato per lavorare accanto all’uomo può essere sfruttato contro l’uomo. Questa deformazione non racconta l’essenza della razza; racconta l’essere umano."
-        },
-        {
-          "type": "paragraph",
-          "text": "Questo è uno dei capitoli che richiede maggiore rigore. Dott. Flavio Bruno distingue chiaramente il mondo tradizionale del cane da presa dal fenomeno moderno dei combattimenti clandestini. Nella sua ricostruzione, i combattimenti organizzati come fenomeno criminale di massa assumono una dimensione diversa soprattutto dagli anni Ottanta e Novanta, quando ambienti criminali iniziano a sfruttare e incrociare razze differenti, incluso il Pitbull, per le scommesse clandestine."
-        },
-        {
-          "type": "paragraph",
-          "text": "Questa distinzione è essenziale. Non possiamo retroproiettare il dog fighting moderno su ogni uso storico della presa. Contenere un toro, bloccare un suino, difendere un uomo o una proprietà e far combattere cani per scommessa sono fenomeni moralmente e funzionalmente diversi."
-        },
-        {
-          "type": "paragraph",
-          "text": "Dott. Flavio Bruno mi ha inviato anche affermazioni molto concrete su ’ndrangheta, Camorra, Sacra Corona Unita, intimidazione, status symbol e giro economico dei combattimenti. Queste restano **sue testimonianze e interpretazioni** finché non siano sostenute, punto per punto, da atti giudiziari, fonti investigative o studi criminologici indipendenti. Nessuna cifra, area geografica o attribuzione entrerà nel libro come fatto generale soltanto perché compare nella memoria o nella divulgazione."
-        },
-        {
-          "type": "paragraph",
-          "text": "La funzione del capitolo è soprattutto liberare il Cane Corso da una sovrapposizione pericolosa. La sua capacità di presa e il suo coraggio non sono sinonimi di combattimento clandestino. Quando la criminalità utilizza una qualità canina, non ne diventa l’origine storica."
-        },
-        {
-          "type": "paragraph",
-          "text": "Una razza può essere sfruttata senza essere definita da chi la sfrutta."
+          "text": "La distinzione fondamentale è semplice: contenere un toro, bloccare un suino, difendere una persona o una proprietà e far combattere cani per scommessa sono realtà moralmente e funzionalmente diverse. La capacità di guardia o di presa non è criminale. È l’uomo che decide come utilizzarla."
         },
         {
           "type": "heading",
@@ -4785,39 +4753,15 @@ export const italianMaster = {
         },
         {
           "type": "paragraph",
-          "text": "È questa la formula con cui possiamo separare due storie che non devono essere confuse. Guardia, presa, coraggio e controllo esistevano come qualità di lavoro prima che ambienti criminali moderni decidessero di sfruttarle per intimidazione, custodia di attività illegali o combattimenti clandestini."
+          "text": "Dott. Flavio Bruno richiama nelle nostre conversazioni anche ’ndrangheta, Camorra e Sacra Corona Unita, parlando di intimidazione, custodia di attività illegali, combattimenti e capacità delle organizzazioni criminali di muoversi oltre i territori d’origine. Questi passaggi restano attribuiti alla sua testimonianza e alla sua interpretazione quando non sono accompagnati da una fonte giudiziaria o investigativa specifica."
         },
         {
           "type": "paragraph",
-          "text": "Dott. Flavio Bruno cita nelle proprie conversazioni anche **’ndrangheta, Camorra e Sacra Corona Unita**, e parla della capacità delle organizzazioni criminali di muoversi oltre i territori d’origine. Questi riferimenti restano attribuiti alla sua lettura quando non sono accompagnati da una fonte giudiziaria o investigativa specifica. Il libro non trasforma una testimonianza in una generalizzazione."
+          "text": "Lo stesso vale per cifre economiche, città, porti e reti internazionali: hanno senso soltanto quando possono essere verificati. Il punto non dipende da un numero e non costruisce un’immagine del Cane Corso come “cane della mafia”. Mostra, al contrario, come qualità nate per il lavoro possano essere deformate quando la violenza diventa lo scopo."
         },
         {
           "type": "paragraph",
-          "text": "Per la stessa ragione, eventuali cifre economiche, città, porti o reti internazionali vengono utilizzati soltanto quando verificabili. Il punto del capitolo non dipende da un numero: **il Cane Corso non è un “cane della mafia”; è un cane le cui qualità, come quelle di altre razze forti, possono essere abusate dall’uomo.**"
-        },
-        {
-          "type": "heading",
-          "text": "Non confondere il lavoro con l'abuso"
-        },
-        {
-          "type": "paragraph",
-          "text": "Questo capitolo deve essere scritto con particolare responsabilità. Dott. Flavio Bruno distingue nettamente il Cane Corso tradizionale della prima metà del Novecento dal fenomeno dei combattimenti clandestini organizzati che, nella sua ricostruzione, assume altra scala e altra logica soprattutto negli ultimi decenni del secolo."
-        },
-        {
-          "type": "paragraph",
-          "text": "La distinzione è essenziale. La capacità di presa, il coraggio e la resistenza che avevano una funzione nel lavoro rurale possono essere sfruttati dall'uomo in attività criminali. Ma l'abuso non definisce l'origine della funzione."
-        },
-        {
-          "type": "paragraph",
-          "text": "Dott. Flavio Bruno mi ha descritto anche l'impiego di cani da presa da parte di organizzazioni criminali per intimidazione, guardia di luoghi illegali e combattimenti. Il libro conserva questo passaggio come **testimonianza attribuita**. Dove mancano riscontri giudiziari o istituzionali specifici, non useremo generalizzazioni su 'ndrangheta, Camorra, Sacra Corona Unita, razze coinvolte, periodi o diffusione internazionale."
-        },
-        {
-          "type": "paragraph",
-          "text": "Questa parte non serve a rendere il Cane più “duro”. Serve al contrario a separare il cane dalla scelta criminale dell'uomo. Un animale selezionato per lavorare può essere deformato, fisicamente e mentalmente, quando la violenza diventa lo scopo invece di uno strumento limitato dalla funzione."
-        },
-        {
-          "type": "paragraph",
-          "text": "Separato l’abuso dalla funzione, possiamo vedere meglio un fenomeno più ampio: le capacità del cane possono essere riutilizzate, imitate o deformate ogni volta che cambia il contesto umano."
+          "text": "Una razza può essere sfruttata senza essere definita da chi la sfrutta. Separato l’abuso dalla funzione, possiamo vedere meglio un fenomeno più ampio: le capacità del cane possono essere riutilizzate, imitate o deformate ogni volta che cambia il contesto umano."
         }
       ],
       "editorialNotes": []
@@ -5096,7 +5040,7 @@ export const italianMaster = {
         },
         {
           "type": "paragraph",
-          "text": "La ricostruzione S.A.C.C. riferisce che nel 1986, durante nuove ricerche nel Meridione, vennero reperiti circa trenta ulteriori esemplari ricondotti a undici differenti “correnti di sangue”: questo dettaglio richiede ancora il confronto con la documentazione originale S.A.C.C. Sul piano ENCI, invece, i numeri principali sono chiari: nel 1988 più di cinquanta Corsi furono sottoposti a rilievi cinometrici; nello stesso anno Vito Indiveri presentò il censimento di cinquantasette soggetti rustici accompagnato da novantasette fotografie; dal 1989 al 1992 più di cinquecento esemplari furono iscritti al Libro Aperto."
+          "text": "Secondo la ricostruzione S.A.C.C., nel 1986 nuove ricerche nel Meridione portarono al reperimento di circa trenta ulteriori esemplari ricondotti a undici differenti “correnti di sangue”. Il dato viene qui mantenuto come parte di quella ricostruzione. Sul piano ENCI, i numeri principali mostrano comunque una base molto più ampia di pochi soggetti iniziali: nel 1988 più di cinquanta Corsi furono sottoposti a rilievi cinometrici; nello stesso anno Vito Indiveri presentò il censimento di cinquantasette soggetti rustici accompagnato da novantasette fotografie; dal 1989 al 1992 più di cinquecento esemplari furono iscritti al Libro Aperto."
         },
         {
           "type": "heading",
@@ -5333,7 +5277,7 @@ export const italianMaster = {
         },
         {
           "type": "paragraph",
-          "text": "Anche questa tesi richiede verifica territoriale."
+          "text": "Questa geografia resta la lettura del Dott. Flavio Bruno: non una mappa definitiva dell’origine, ma l’invito a non confondere il luogo nel quale il recupero moderno acquistò visibilità con l’intero territorio nel quale funzioni e tipi simili potevano essere rimasti vivi."
         },
         {
           "type": "heading",
@@ -7443,7 +7387,7 @@ export const italianMaster = {
         },
         {
           "type": "paragraph",
-          "text": "Non voglio nemmeno trasformare ciò che ho fatto con i miei Cane in un modello universale. Il fatto di avere seguito circa novantasei cuccioli e di averli affidati senza farne un commercio racconta soltanto il modo in cui io ho cercato di assumermi questa responsabilità."
+          "text": "Non voglio nemmeno trasformare ciò che ho fatto con i miei Cane in un modello universale. L’esperienza accumulata seguendo nascite, crescita e affidamento dei cuccioli racconta soltanto il modo in cui io ho cercato di assumermi questa responsabilità, senza trasformarla in commercio."
         },
         {
           "type": "paragraph",
