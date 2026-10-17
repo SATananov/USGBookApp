@@ -157,6 +157,10 @@ export const italianMaster = {
         },
         {
           "type": "paragraph",
+          "text": "Una parte di questo lavoro è passata anche attraverso la scrittura. Tra i volumi che Dott. Flavio Bruno ha condiviso con Stefano compaiono **Il Cane Corso** e **Brevi annotazioni sul Cane Corso, nel tempo, nelle diverse condizioni geografiche, ambientali e sociali**. Il suo percorso si intreccia inoltre con **Il Contado del Molise** e con il **Centro Cinofilo Razze Meridionali di Santa Croce di Magliano**, dentro un interesse più ampio per i cani e le razze meridionali, riconosciute e non riconosciute. Non è un elenco inserito per attribuire autorità alle sue parole: è parte del contesto dal quale nasce la voce che attraversa questo libro."
+        },
+        {
+          "type": "paragraph",
           "text": "È nato il **27 aprile**. Nel raccontare la propria storia personale ha ricordato anche il legame che sente con il nome Flavio, con San Flaviano e con una cultura nella quale territorio, tradizione e animali continuano a intrecciarsi. Sono dettagli piccoli soltanto in apparenza: aiutano a vedere l’uomo dietro le parole."
         },
         {
@@ -169,7 +173,7 @@ export const italianMaster = {
         },
         {
           "type": "paragraph",
-          "text": "Ci sono persone che non hanno bisogno di stare al centro della scena per essere parte essenziale di una storia. Il nome di Maria appartiene a queste pagine come riconoscimento di quella presenza e di quel sostegno."
+          "text": "Ci sono persone che non hanno bisogno di stare al centro della scena per essere parte essenziale di una storia. Maria appartiene anche alla quotidianità vissuta accanto ai Cane: nelle immagini e nei ricordi condivisi con Stefano la vediamo insieme a loro, dentro quella cura concreta fatta di presenza, responsabilità e continuità. Il suo nome appartiene a queste pagine come riconoscimento di quella presenza e di quel sostegno."
         },
         {
           "type": "heading",
@@ -1758,7 +1762,7 @@ export const italianMaster = {
         },
         {
           "type": "paragraph",
-          "text": "Terminologia, attestazioni latine, uso di *pugnax* come eventuale denominazione stabile di un tipo canino, proprietà militare dei cani, strutture di allevamento, scuole di addestramento, tecniche di condizionamento, armature e impieghi tattici richiedono verifica separata. Il libro non assume automaticamente queste ricostruzioni come fatti documentati."
+          "text": "Molti dettagli legati al *Pugnax* — dalla terminologia latina alle strutture di allevamento, dalle pratiche di addestramento fino alle armature e agli impieghi tattici — non possiedono tutti lo stesso grado di documentazione. Per questo li leggiamo con prudenza, distinguendo ciò che le fonti permettono di sostenere da ciò che appartiene alla ricostruzione storica e funzionale del Dott. Flavio Bruno."
         },
         {
           "type": "paragraph",
