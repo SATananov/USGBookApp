@@ -1,12 +1,15 @@
 import { italianMaster } from '../content/book-it.js'
+import { englishTranslation } from '../content/book-en.js'
 import { bulgarianTranslation } from '../content/book-bg.js'
 
-const sameTitle = (title, bgTitle = title) => ({
-  en: { title },
+const localizedTitle = (title, enTitle = title, bgTitle = title) => ({
+  en: { title: enTitle },
   bg: { title: bgTitle },
   it: { title },
 })
 
+const getEnFront = (id) => englishTranslation.frontMatter[id] ?? null
+const getEnChapter = (id) => englishTranslation.chapters[id] ?? null
 const getBgFront = (id) => bulgarianTranslation.frontMatter[id] ?? null
 const getBgChapter = (id) => bulgarianTranslation.chapters[id] ?? null
 
@@ -19,11 +22,11 @@ export const book = {
   translations: {
     en: {
       titleLead: 'BEFORE AND AFTER', titleSubject: 'THE CANE CORSO',
-      subtitle: 'Before and after the Cane Corso',
+      subtitle: 'Before and After the Cane Corso',
       coverAuthors: 'Dott. Flavio Bruno / Stefano De Tanini',
       coverSubtitle: 'Italy and Bulgaria in the historical continuity of the Cane Corso',
-      introduction: 'Italian master edition. English book translation will follow after editorial lock.',
-      description: 'PRIMA E DOPO IL CANE CORSO — authoritative Italian master edition.',
+      introduction: 'The English edition is translated from the final locked Italian original.',
+      description: 'BEFORE AND AFTER THE CANE CORSO — English translation from the locked Italian original.',
     },
     bg: {
       titleLead: 'ПРЕДИ И СЛЕД', titleSubject: 'CANE CORSO',
@@ -57,7 +60,11 @@ export const parts = [
   { id: 'parte-x', bookId: 'prima-e-dopo', number: 'X', title: 'COSA ABBIAMO CONSERVATO?' },
 ].map((part) => ({
   ...part,
-  translations: sameTitle(part.title, bulgarianTranslation.parts[part.id] ?? part.title),
+  translations: localizedTitle(
+    part.title,
+    englishTranslation.parts[part.id] ?? part.title,
+    bulgarianTranslation.parts[part.id] ?? part.title,
+  ),
 }))
 
 const contentByChapterId = new Map(italianMaster.chapters.map((chapter) => [chapter.id, chapter]))
@@ -66,7 +73,9 @@ export const chapters = italianMaster.chapters.map((source, index, all) => {
   const previous = all[index - 1]
   const next = all[index + 1]
   const firstParagraph = source.blocks.find((block) => block.type === 'paragraph')?.text ?? source.title
+  const en = getEnChapter(source.id)
   const bg = getBgChapter(source.id)
+  const enFirstParagraph = en?.blocks?.find((block) => block.type === 'paragraph')?.text ?? firstParagraph
   const bgFirstParagraph = bg?.blocks?.find((block) => block.type === 'paragraph')?.text ?? firstParagraph
 
   return {
@@ -81,17 +90,19 @@ export const chapters = italianMaster.chapters.map((source, index, all) => {
     previousSlug: previous?.slug ?? 'introduzione',
     nextSlug: next?.slug ?? 'la-staffetta',
     translations: {
-      en: { title: source.title, intro: firstParagraph, description: firstParagraph },
+      en: { title: en?.title ?? source.title, intro: enFirstParagraph, description: enFirstParagraph },
       bg: { title: bg?.title ?? source.title, intro: bgFirstParagraph, description: bgFirstParagraph },
       it: { title: source.title, intro: firstParagraph, description: firstParagraph },
     },
     contentIt: contentByChapterId.get(source.id).blocks,
+    contentEn: en?.blocks ?? null,
     contentBg: bg?.blocks ?? null,
     editorialNotes: contentByChapterId.get(source.id).editorialNotes,
   }
 })
 
 const frontMatter = italianMaster.frontMatter.map((source, index, all) => {
+  const en = getEnFront(source.id)
   const bg = getBgFront(source.id)
   return {
     ...source,
@@ -100,8 +111,9 @@ const frontMatter = italianMaster.frontMatter.map((source, index, all) => {
     status: 'master',
     previousSlug: index === 0 ? null : all[index - 1].slug,
     nextSlug: index === all.length - 1 ? chapters[0].slug : all[index + 1].slug,
-    translations: sameTitle(source.title, bg?.title ?? source.title),
+    translations: localizedTitle(source.title, en?.title ?? source.title, bg?.title ?? source.title),
     contentIt: source.blocks,
+    contentEn: en?.blocks ?? null,
     contentBg: bg?.blocks ?? null,
   }
 })
@@ -113,8 +125,13 @@ export const epilogue = {
   status: 'master',
   previousSlug: chapters.at(-1).slug,
   nextSlug: null,
-  translations: sameTitle(italianMaster.epilogue.title, bulgarianTranslation.epilogue?.title ?? italianMaster.epilogue.title),
+  translations: localizedTitle(
+    italianMaster.epilogue.title,
+    englishTranslation.epilogue?.title ?? italianMaster.epilogue.title,
+    bulgarianTranslation.epilogue?.title ?? italianMaster.epilogue.title,
+  ),
   contentIt: italianMaster.epilogue.blocks,
+  contentEn: englishTranslation.epilogue?.blocks ?? null,
   contentBg: bulgarianTranslation.epilogue?.blocks ?? null,
 }
 

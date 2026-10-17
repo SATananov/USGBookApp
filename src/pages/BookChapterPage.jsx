@@ -45,11 +45,23 @@ function ChapterReader({ item }) {
   const previous = getChapter(item.previousSlug)
   const next = getChapter(item.nextSlug)
   const part = item.kind === 'chapter' ? parts.find((candidate) => candidate.id === item.partId) : null
-  const localizedBlocks = language === 'bg' && item.contentBg?.length ? item.contentBg : item.contentIt
-  const hasLocalizedBody = language === 'it' || (language === 'bg' && item.contentBg?.length)
+  const localizedBlocks = language === 'en' && item.contentEn?.length
+    ? item.contentEn
+    : language === 'bg' && item.contentBg?.length
+      ? item.contentBg
+      : item.contentIt
+  const hasLocalizedBody = language === 'it'
+    || (language === 'en' && item.contentEn?.length)
+    || (language === 'bg' && item.contentBg?.length)
   const fallbackNote = language === 'bg'
     ? 'Италиански master текст · българският превод на тази част предстои.'
-    : `Testo master italiano · traduzione ${language.toUpperCase()} dopo il lock editoriale.`
+    : language === 'en'
+      ? 'Italian original · the English translation of this section is forthcoming.'
+      : `Testo master italiano · traduzione ${language.toUpperCase()} dopo il lock editoriale.`
+
+  const structuralEyebrow = item.kind === 'epilogue'
+    ? (language === 'en' ? 'Epilogue' : 'Epilogo')
+    : (language === 'en' ? 'BEFORE AND AFTER THE CANE CORSO' : 'PRIMA E DOPO IL CANE CORSO')
 
   return (
     <article className="inner-page chapter-page">
@@ -57,7 +69,7 @@ function ChapterReader({ item }) {
         {part ? (
           <p className="eyebrow">{t.part} {part.number} <span aria-hidden="true">—</span> {part.translations[language].title}</p>
         ) : (
-          <p className="eyebrow">{item.kind === 'epilogue' ? 'Epilogo' : 'PRIMA E DOPO IL CANE CORSO'}</p>
+          <p className="eyebrow">{structuralEyebrow}</p>
         )}
         <BookOrnament className="chapter-rule" />
         <h1>{translated.title}</h1>

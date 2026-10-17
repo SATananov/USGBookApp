@@ -6,7 +6,7 @@ export function BookContentsPage() {
   const { language, t } = useBookLanguage()
   const frontMatter = readingItems.filter((item) => item.kind === 'front')
   const frontMatterLabel = language === 'bg' ? 'Встъпление' : language === 'it' ? 'Apertura' : 'Opening'
-  const bookEyebrowLabel = language === 'bg' ? 'ПРЕДИ И СЛЕД CANE CORSO' : language === 'it' ? 'PRIMA E DOPO IL CANE CORSO' : 'BEFORE AND AFTER CANE CORSO'
+  const bookEyebrowLabel = language === 'bg' ? 'ПРЕДИ И СЛЕД CANE CORSO' : language === 'it' ? 'PRIMA E DOPO IL CANE CORSO' : 'BEFORE AND AFTER THE CANE CORSO'
   const epilogueLabel = language === 'bg' ? 'Епилог' : language === 'it' ? 'Epilogo' : 'Epilogue'
   const epilogueTitle = epilogue.translations[language]?.title ?? epilogue.translations.it.title
 
@@ -53,8 +53,7 @@ export function BookContentsPage() {
       ))}
 
       <section className="contents-part" aria-labelledby="epilogue">
-        <p className="eyebrow">{epilogueLabel}</p>
-        <h2 id="epilogue">{epilogueTitle}</h2>
+        <p className="eyebrow" id="epilogue">{epilogueLabel}</p>
         <ol className="contents-list">
           <li>
             <Link to={`/chapter/${epilogue.slug}`}>
