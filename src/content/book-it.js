@@ -1880,10 +1880,6 @@ export const italianMaster = {
         },
         {
           "type": "paragraph",
-          "text": "Questo è forse il punto più importante da ricordare quando cerchiamo una relazione fra il mondo romano e il Cane Corso."
-        },
-        {
-          "type": "paragraph",
           "text": "Un impero non è una razza."
         },
         {
@@ -1893,10 +1889,6 @@ export const italianMaster = {
         {
           "type": "paragraph",
           "text": "Le popolazioni canine potevano viaggiare con proprietari, commercianti, coloni, eserciti e attività economiche. Potevano essere acquistate, scambiate, incrociate e adattate. Un cane arrivato in un nuovo territorio non rimane necessariamente identico per secoli: incontra altri cani, un altro clima, altri animali e soprattutto un’altra funzione."
-        },
-        {
-          "type": "paragraph",
-          "text": "Questa osservazione rende possibile parlare di diffusione senza inventare purezza."
         },
         {
           "type": "heading",
@@ -1924,19 +1916,7 @@ export const italianMaster = {
         },
         {
           "type": "paragraph",
-          "text": "Qui la sua ricostruzione contiene affermazioni molto specifiche — scuole di addestramento, cani appartenenti alle unità, tecniche militari, armature, modalità di selezione — che non possiamo trasferire automaticamente nel testo definitivo senza una fonte indipendente per ciascuna."
-        },
-        {
-          "type": "paragraph",
-          "text": "Le affermazioni su legioni, armature canine, castra, proprietà statale dei cani, selezione dei cuccioli, scuole di Capua e impieghi tattici vanno controllate individualmente. Dove la prova non è sufficiente, vengono presentate come ricostruzione o ipotesi, non come fatto."
-        },
-        {
-          "type": "paragraph",
-          "text": "Questo non svuota la visione del Dott. Flavio Bruno. La mette a fuoco."
-        },
-        {
-          "type": "paragraph",
-          "text": "Il cuore della sua idea non dipende dall’esistenza di una determinata scuola o da un numero preciso di cani. Dipende da un principio: **quando una società attribuisce a un cane una funzione precisa e seleziona per quella funzione, il tipo cambia.**"
+          "text": "Nei racconti del Dott. Flavio Bruno compaiono anche dettagli molto specifici — scuole di addestramento, cani legati alle unità, tecniche militari, armature e modalità di selezione. Sono elementi suggestivi, ma non tutti possiedono lo stesso grado di documentazione e vanno quindi letti con prudenza. Il nucleo della sua lettura resta però chiaro: **quando una società assegna a un cane una funzione precisa e seleziona per quella funzione, il tipo cambia.**"
         },
         {
           "type": "heading",
@@ -1980,7 +1960,7 @@ export const italianMaster = {
         },
         {
           "type": "paragraph",
-          "text": "La presenza di specifici centri di addestramento canino presso Capua, il rapporto diretto fra tali centri e la successiva diffusione del Cane Corso, la continuità territoriale in Lazio, Campania e Meridione e gli impieghi attribuiti ai diversi periodi richiedono fonti indipendenti. Nel libro queste affermazioni restano chiaramente presentate come la ricostruzione storico-funzionale del Dott. Flavio Bruno finché la documentazione non consente formulazioni più forti."
+          "text": "Il legame che Dott. Flavio Bruno propone fra Capua, la tradizione romana e la successiva presenza del Cane Corso in Lazio, Campania e Meridione appartiene alla sua ricostruzione storico-funzionale. Alcuni passaggi possono essere documentati con maggiore solidità di altri; per questo li manteniamo distinti dalla certezza di una genealogia continua."
         },
         {
           "type": "heading",
@@ -2068,10 +2048,6 @@ export const italianMaster = {
         },
         {
           "type": "paragraph",
-          "text": "Era affascinante perché sembrava dare un senso a tutto."
-        },
-        {
-          "type": "paragraph",
           "text": "Poi ho capito che la lezione del Dott. Flavio Bruno era più difficile."
         },
         {
@@ -2084,10 +2060,6 @@ export const italianMaster = {
         },
         {
           "type": "paragraph",
-          "text": "Non possiamo sempre sapere quale delle due cose sia avvenuta."
-        },
-        {
-          "type": "paragraph",
           "text": "E allora la domanda diventa più onesta:"
         },
         {
@@ -2096,23 +2068,11 @@ export const italianMaster = {
         },
         {
           "type": "paragraph",
-          "text": "È questa la domanda che voglio portare con me attraverso Roma."
-        },
-        {
-          "type": "paragraph",
           "text": "Il Cane Corso moderno non ha bisogno di essere chiamato “cane dei legionari” per essere legato culturalmente a una storia italiana di cani da lavoro. L’idea più interessante è che molte funzioni che ritroveremo nel Sud — guardia, caccia, contenimento, accompagnamento — erano già necessità antiche."
         },
         {
           "type": "paragraph",
-          "text": "Roma ci attrae perché sembra offrire un’origine nobile e riconoscibile. Ma un impero non è una razza. È un sistema nel quale confluiscono animali da regioni differenti e nel quale bisogni differenti favoriscono tipi differenti. Proprio questa pluralità rende Roma interessante."
-        },
-        {
-          "type": "paragraph",
-          "text": "Invece di cercare un’unica linea, possiamo osservare il principio organizzativo: allevamento, caccia, proprietà, difesa, esercito, spettacolo. Ognuno di questi ambiti poteva richiedere cani con caratteristiche differenti. Se la documentazione ci permette di riconoscere singoli impieghi, li presenteremo con precisione. Dove non arriva, non inventeremo un ponte."
-        },
-        {
-          "type": "paragraph",
-          "text": "Per la nostra storia, Roma è importante soprattutto perché mostra quanto sia antica l’associazione fra uomo e cane specializzato. Il resto deve essere conquistato fonte per fonte, non ricevuto come leggenda."
+          "text": "Roma ci attrae perché sembra offrire un’origine nobile e riconoscibile. Ma un impero non è una razza: è un sistema nel quale confluiscono animali da regioni differenti e bisogni differenti favoriscono tipi differenti. Per la nostra storia conta soprattutto questo principio di specializzazione, non la costruzione di un ponte genealogico che le fonti non permettono di tracciare."
         },
         {
           "type": "paragraph",
@@ -3901,19 +3861,11 @@ export const italianMaster = {
         },
         {
           "type": "paragraph",
-          "text": "È un’immagine potente. Non la useremo come prova assoluta di ogni dettaglio, ma come espressione del modo in cui Dott. Flavio Bruno legge quel mondo."
+          "text": "È un’immagine potente e va letta per ciò che è: l’espressione del modo in cui Dott. Flavio Bruno interpreta il rapporto fra Cane Corso e mondo rurale borbonico, non la prova automatica di ogni dettaglio storico."
         },
         {
           "type": "paragraph",
-          "text": "Politiche agricole, diffusione del cane, opere artistiche e interpretazioni iconografiche richiedono verifica specifica."
-        },
-        {
-          "type": "paragraph",
-          "text": "L’importanza dell’Ottocento è che il Cane Corso entra in un mondo storicamente più vicino e meglio documentabile: proprietà rurali, pastorizia, brigantaggio, commercio, amministrazione. La funzione diventa più visibile."
-        },
-        {
-          "type": "paragraph",
-          "text": "Non serve che ogni dettaglio venga confermato perché il capitolo abbia valore. La sua funzione narrativa è mostrare l’avvicinamento a un’epoca nella quale il cane del Sud può essere osservato sempre meno come figura astratta e sempre più come parte di economie e mestieri concreti."
+          "text": "Nell’Ottocento, però, il Cane Corso entra in un contesto più vicino e meglio documentabile: proprietà rurali, pastorizia, caccia, commercio, amministrazione e brigantaggio. La funzione diventa più visibile e può essere confrontata con fonti, opere e testimonianze senza confondere compatibilità e identificazione certa."
         },
         {
           "type": "heading",
@@ -3929,7 +3881,7 @@ export const italianMaster = {
         },
         {
           "type": "paragraph",
-          "text": "Dott. Flavio Bruno collega anche il Cane Corso alla cultura figurativa del periodo borbonico. Qui il nostro metodo deve restare rigoroso: una scultura o una statuina può mostrare un tipo canino compatibile, ma l'identificazione precisa richiede prudenza. Le attribuzioni specifiche delle figure canine della Reggia di Caserta, dei presepi e di altre opere vanno controllate opera per opera."
+          "text": "Dott. Flavio Bruno collega il Cane Corso anche alla cultura figurativa del periodo borbonico. Una scultura, una statuina o una scena di presepe possono mostrare un tipo canino compatibile, ma l’identificazione precisa richiede prudenza: l’immagine suggerisce, non sostituisce il documento."
         },
         {
           "type": "paragraph",
@@ -4359,39 +4311,11 @@ export const italianMaster = {
         },
         {
           "type": "paragraph",
-          "text": "Non ci interessa utilizzare questo racconto per confondere Mastino e Cane Corso. Al contrario. Ci insegna che culture canine diverse potevano condividere qualcosa di profondamente umano: fedeltà, lavoro e legame."
+          "text": "Il valore del racconto non sta nel trasformare Spezzaferro in una prova cinologica. Sta nel legame: Pasquale tenta di lasciarlo nel mondo che conosce, ma il Mastino spezza la catena e torna alla porta di casa. Più tardi, secondo la memoria tramandata dal Dott. Flavio Bruno, accompagna ancora il proprio uomo fino all’ultimo saluto."
         },
         {
           "type": "paragraph",
-          "text": "Spezzaferro merita di essere raccontato lentamente, perché non è importante per ciò che “dimostra” su una razza. È importante per ciò che mostra sul legame."
-        },
-        {
-          "type": "paragraph",
-          "text": "Pasquale lo aveva ottenuto da un massaro dell’alto Molise barattandolo con un piccolo di maiale. Questo dettaglio appartiene a un’economia lontana dalla nostra e rende quasi tangibile il mondo pastorale in cui il Mastino cresce. Latte di pecora, uova, pane, scarti di macelleria portati dagli uomini che passavano dalla masseria: la sua vita è intrecciata alla vita di quella comunità."
-        },
-        {
-          "type": "paragraph",
-          "text": "Quando Pasquale invecchia e decide di lasciarlo in masseria, non lo fa per abbandonarlo. Lo fa pensando al suo bene. Immagina che un cane cresciuto fra animali e pascoli possa vivere gli ultimi anni nel luogo che conosce. Per impedirgli di seguirlo, lo lega."
-        },
-        {
-          "type": "paragraph",
-          "text": "La mattina successiva il cane è dietro la porta di casa."
-        },
-        {
-          "type": "paragraph",
-          "text": "Questa scena vale tutto il racconto. La catena spezzata dà il nome al Mastino, ma il vero gesto non è spezzare il ferro: è scegliere dove stare. Pasquale comprende quella scelta e lo tiene con sé. Da quel momento i due invecchiano insieme."
-        },
-        {
-          "type": "paragraph",
-          "text": "Poi Pasquale muore. Dott. Flavio Bruno racconta che Spezzaferro dormiva sotto la finestra del padrone e che, al suono delle campane funebri, attese davanti alla chiesa e accompagnò il corteo al cimitero. Non abbiamo bisogno di trasformare ogni dettaglio in un fatto verificato da archivio. È un racconto tramandato e va rispettato come tale."
-        },
-        {
-          "type": "paragraph",
-          "text": "L’ultima immagine è ancora più semplice: un giorno di tardo autunno il figlio vede il vecchio Mastino allontanarsi lentamente verso il bosco. Non torna. «Aveva vent’anni.»"
-        },
-        {
-          "type": "paragraph",
-          "text": "Quando scrissi a Dott. Flavio Bruno della storia, sottolineai proprio questo: Spezzaferro avrebbe potuto restare nella masseria, con gli animali e con il mondo che conosceva, ma scelse di tornare da Pasquale. È per questo che il racconto appartiene al nostro libro anche se Spezzaferro non è un Cane Corso. Parla di quella relazione uomo-cane che precede le razze e che dà significato a tutte le razze da lavoro."
+          "text": "Per questo la storia appartiene al libro anche se Spezzaferro non è un Cane Corso. Parla di una relazione uomo-cane che precede le razze moderne e ricorda che la fedeltà a un racconto richiede anche di conservarne le differenze."
         },
         {
           "type": "heading",
@@ -4605,11 +4529,7 @@ export const italianMaster = {
         },
         {
           "type": "paragraph",
-          "text": "Poi elencò tre funzioni: contenimento dei suini bradi; guardia alla masseria, anche come “cane da catena”; scorta ai mediatori di bestiame, ai commercianti e ai macellai. È un passaggio fondamentale perché ci porta fuori dalla storia più lontana e dentro una memoria ancora collegata a persone concrete."
-        },
-        {
-          "type": "paragraph",
-          "text": "Il “cane da catena” va compreso nel proprio contesto. Non è l’ideale di vita che vogliamo proporre oggi. Era una modalità di custodia dentro proprietà nelle quali il cane poteva avere un punto di presidio preciso. Allo stesso tempo, le altre funzioni mostrano che il Cane Corso non era ridotto a quella posizione: accompagnava, seguiva, interveniva."
+          "text": "Quel quadro ci porta fuori dalla storia più lontana e dentro una memoria ancora collegata a persone concrete. Il “cane da catena” va compreso nel proprio contesto: era una modalità di presidio, non l’intera vita del Cane Corso, che nelle altre funzioni accompagnava, seguiva e interveniva."
         },
         {
           "type": "paragraph",
@@ -4637,7 +4557,7 @@ export const italianMaster = {
         },
         {
           "type": "paragraph",
-          "text": "Il Dott. Flavio Bruno colloca nella prima metà del Novecento una continuità ancora riconoscibile con il mondo ottocentesco: contenimento dei suini bradi, guardia alla masseria, accompagnamento di commercianti, mediatori e macellai. Non significa che tutto il Sud vivesse nello stesso modo o che ogni Cane Corso svolgesse tutti questi compiti. Significa che alcune delle funzioni tradizionali erano ancora presenti abbastanza tardi da entrare nella memoria diretta di persone che Dott. Flavio Bruno avrebbe poi incontrato."
+          "text": "Questa continuità non significa che tutto il Sud vivesse nello stesso modo o che ogni Cane Corso svolgesse ogni compito. Significa che alcune funzioni tradizionali rimasero presenti abbastanza a lungo da entrare nella memoria diretta delle persone che Dott. Flavio Bruno avrebbe poi ascoltato."
         },
         {
           "type": "paragraph",
@@ -4835,24 +4755,8 @@ export const italianMaster = {
           "text": "“Tutto passa, tutto torna” significa quindi che i bisogni fondamentali dell’uomo cambiano forma più lentamente di quanto cambino le mode. Se conserviamo le qualità profonde, il Cane Corso può attraversare epoche diverse senza diventare una caricatura del proprio passato."
         },
         {
-          "type": "heading",
-          "text": "Tutto passa, tutto torna"
-        },
-        {
           "type": "paragraph",
-          "text": "Dott. Flavio Bruno chiuse uno dei suoi ultimi grandi testi con quattro parole: **«Tutto passa tutto torna.»**"
-        },
-        {
-          "type": "paragraph",
-          "text": "Dentro questa frase c'è quasi tutta la seconda metà del libro. Le funzioni scompaiono, ma il desiderio umano di forza, protezione e presenza ritorna in forme nuove. I nomi cambiano. Gli incroci cambiano. Il mercato crea nuove etichette. Caratteristiche selezionate per secoli vengono cercate altrove e riutilizzate."
-        },
-        {
-          "type": "paragraph",
-          "text": "Dott. Flavio Bruno cita, nella propria ricostruzione, anche Bandog e Lacota come esempi moderni di incroci nei quali il sangue di cani da presa italiani sarebbe stato impiegato. Il libro non trasforma questa genealogia in un fatto acquisito: nomi, cronologie e composizione di tali popolazioni restano non chiusi documentalmente e vengono mantenuti soltanto come parte della sua ricostruzione."
-        },
-        {
-          "type": "paragraph",
-          "text": "Per me il senso più profondo non dipende però dalla correttezza di ogni genealogia moderna. È il paradosso: l'uomo può perdere un tipo perché non ne comprende più la funzione e, poco dopo, cercare di ricreare altrove precisamente le qualità che aveva lasciato scomparire."
+          "text": "Il paradosso è questo: l’uomo può perdere un tipo perché non comprende più la funzione che lo aveva formato e, poco dopo, cercare altrove proprio le qualità che aveva lasciato scomparire."
         },
         {
           "type": "paragraph",
@@ -4992,31 +4896,7 @@ export const italianMaster = {
         },
         {
           "type": "paragraph",
-          "text": "Per anni anch’io ho conosciuto una storia semplice."
-        },
-        {
-          "type": "paragraph",
-          "text": "Il Cane Corso era quasi scomparso."
-        },
-        {
-          "type": "paragraph",
-          "text": "Pochi soggetti erano rimasti nelle campagne del Sud."
-        },
-        {
-          "type": "paragraph",
-          "text": "Alcuni appassionati li avevano cercati, raccolti e fatti riprodurre."
-        },
-        {
-          "type": "paragraph",
-          "text": "La razza era stata salvata."
-        },
-        {
-          "type": "paragraph",
-          "text": "È una storia che possiede tutto ciò che serve per diventare memorabile: una perdita, pochi superstiti, alcuni uomini determinati e infine una rinascita."
-        },
-        {
-          "type": "paragraph",
-          "text": "Ed è anche, nelle sue linee istituzionali, una storia documentata."
+          "text": "Per anni anch’io ho conosciuto una storia semplice: il Cane Corso era quasi scomparso; pochi soggetti sopravvivevano nelle campagne del Sud; alcuni appassionati li cercarono, li raccolsero e salvarono la razza. È una narrazione memorabile e, nelle sue linee istituzionali, poggia su fatti reali."
         },
         {
           "type": "paragraph",
@@ -5064,19 +4944,7 @@ export const italianMaster = {
         },
         {
           "type": "paragraph",
-          "text": "Questi dati non dimostrano che la narrazione ufficiale sia falsa."
-        },
-        {
-          "type": "paragraph",
-          "text": "Dimostrano però qualcosa di più interessante: la frase popolare “erano rimasti pochissimi Cane Corso” è troppo semplice per contenere tutta la realtà."
-        },
-        {
-          "type": "paragraph",
-          "text": "Se esistevano decine di soggetti rustici, più aree di ricerca e diverse correnti di sangue, che cosa significa esattamente dire che la razza era “scomparsa”?"
-        },
-        {
-          "type": "paragraph",
-          "text": "È qui che entra la voce del **Dott. Flavio Bruno**."
+          "text": "Questi dati non cancellano la narrazione del recupero, ma rendono troppo semplice l’idea di una razza ridotta a due o tre ultimi esemplari. Se negli anni Ottanta emergono decine di soggetti rustici, più aree di ricerca e diverse correnti di sangue, la parola “scomparsa” ha bisogno di essere precisata."
         },
         {
           "type": "heading",
@@ -5084,15 +4952,7 @@ export const italianMaster = {
         },
         {
           "type": "paragraph",
-          "text": "Quando gli raccontai ciò che avevo letto sulla rinascita moderna, il Dott. Flavio Bruno non mi propose semplicemente un’altra lista di nomi."
-        },
-        {
-          "type": "paragraph",
-          "text": "Mise in discussione la premessa."
-        },
-        {
-          "type": "paragraph",
-          "text": "Nella sua ricostruzione il Cane Corso non era un reperto scomparso che alcuni cinofili riportarono improvvisamente alla luce. Continuava a vivere fra il popolo e gli utilizzatori: nella guardia, nelle campagne, presso proprietari terrieri, macellai, cacciatori e uomini che non avevano bisogno di un registro per sapere a quale tipo di cane affidavano un lavoro."
+          "text": "Quando gli raccontai ciò che avevo letto sulla rinascita moderna, il Dott. Flavio Bruno mise in discussione la premessa: nella sua ricostruzione il Cane Corso continuava a vivere fra utilizzatori, campagne, proprietari terrieri, macellai e cacciatori, anche senza un registro ufficiale."
         },
         {
           "type": "paragraph",
@@ -5105,27 +4965,7 @@ export const italianMaster = {
         },
         {
           "type": "paragraph",
-          "text": "Questa frase cambia completamente la prospettiva."
-        },
-        {
-          "type": "paragraph",
-          "text": "Perché se il cane continuava a esistere, allora ciò che veniva “recuperato” poteva essere qualcosa di diverso dalla sua esistenza biologica."
-        },
-        {
-          "type": "paragraph",
-          "text": "Forse il riconoscimento."
-        },
-        {
-          "type": "paragraph",
-          "text": "Forse una popolazione registrata."
-        },
-        {
-          "type": "paragraph",
-          "text": "Forse una definizione cinologica moderna."
-        },
-        {
-          "type": "paragraph",
-          "text": "Forse la visibilità nazionale di un cane che continuava a vivere lontano dai ring."
+          "text": "Se il cane continuava a esistere, allora il recupero poteva riguardare soprattutto il riconoscimento, la registrazione, la definizione cinologica moderna e la visibilità nazionale di un tipo ancora presente lontano dai ring."
         },
         {
           "type": "heading",
@@ -5133,43 +4973,15 @@ export const italianMaster = {
         },
         {
           "type": "paragraph",
-          "text": "Il 24 settembre 2026 il Dott. Flavio Bruno fu ancora più netto."
+          "text": "Il 24 settembre 2026 il Dott. Flavio Bruno definì **“favola”** la versione secondo cui “tre Nordisti” avrebbero salvato la razza recuperando pochi soggetti in Puglia. La sua critica è una contro-lettura personale e va conservata come tale, non trasformata in sentenza storica."
         },
         {
           "type": "paragraph",
-          "text": "Parlando del nuovo capitolo che stava preparando per me, *Il Cane Corso attraverso i secoli — Niente di nuovo sotto il sole*, mi scrisse che la continuità storica era proprio ciò che voleva farmi vedere."
+          "text": "In quel messaggio non nominò persone specifiche. Quando in precedenza gli avevo chiesto un giudizio scritto su Paolo Breber, aveva preferito non commentare e rimandare il discorso a una conversazione a voce. Questa prudenza fa parte del materiale tanto quanto la durezza della critica."
         },
         {
           "type": "paragraph",
-          "text": "Poi aggiunse una frase che non potevo ignorare."
-        },
-        {
-          "type": "paragraph",
-          "text": "Definì **“favola”** la versione secondo cui “tre Nordisti” avrebbero salvato la razza recuperando pochi soggetti in Puglia."
-        },
-        {
-          "type": "paragraph",
-          "text": "La sua critica era dura. Secondo la sua interpretazione quella narrazione avrebbe anche contribuito a legittimare successive scelte di incrocio e selezione attraverso l’idea che la base originaria fosse ormai troppo ridotta."
-        },
-        {
-          "type": "paragraph",
-          "text": "Questa è la posizione del Dott. Flavio Bruno."
-        },
-        {
-          "type": "paragraph",
-          "text": "Non la presenteremo come una sentenza storica dimostrata."
-        },
-        {
-          "type": "paragraph",
-          "text": "E non attribuiremo automaticamente l’espressione “tre Nordisti” a persone specifiche che egli non nomina in quel messaggio. In precedenza, quando gli avevo chiesto un giudizio scritto su Paolo Breber, il Dott. Flavio Bruno aveva preferito non commentare e mi aveva detto che sarebbe stato un discorso da affrontare a voce."
-        },
-        {
-          "type": "paragraph",
-          "text": "Questa prudenza è importante quanto la sua critica."
-        },
-        {
-          "type": "paragraph",
-          "text": "La sua tesi sulla continuità della popolazione, sugli eventuali incroci e sulle motivazioni del racconto del recupero resta una contro-lettura attribuita. I dati ENCI mostrano che negli anni Ottanta furono censiti e misurati numerosi soggetti, ma non dimostrano da soli né la continuità biologica completa sostenuta dal Dott. Flavio Bruno né il contrario. Le valutazioni su intenzioni personali, vanità o interessi economici non vengono presentate come fatti."
+          "text": "I dati ENCI mostrano una base di ricerca più ampia dei pochi soggetti iniziali, ma non dimostrano da soli né una continuità biologica completa né il contrario. Le ipotesi su incroci, intenzioni personali o interessi economici restano attribuite al loro autore finché non esistono prove indipendenti."
         },
         {
           "type": "heading",
@@ -5177,47 +4989,19 @@ export const italianMaster = {
         },
         {
           "type": "paragraph",
-          "text": "Fu allora che compresi che avevo impostato male la domanda."
+          "text": "Fu allora che compresi che non dovevo scegliere per forza fra “la razza era scomparsa ed è stata salvata” e “la razza non aveva mai avuto bisogno di essere salvata”. Potevano esistere due piani differenti."
         },
         {
           "type": "paragraph",
-          "text": "Forse non dovevo scegliere immediatamente fra:"
+          "text": "Sul piano rurale potevano continuare a esistere cani, famiglie e tipi riconosciuti dagli utilizzatori. Sul piano della cinofilia ufficiale mancavano invece una popolazione registrata e organizzata, uno standard condiviso, un libro genealogico e un riconoscimento istituzionale."
         },
         {
           "type": "question",
-          "text": "“la razza era scomparsa ed è stata salvata”"
+          "text": "Recuperare un cane è la stessa cosa che recuperare una razza per un sistema cinologico moderno?"
         },
         {
           "type": "paragraph",
-          "text": "e"
-        },
-        {
-          "type": "question",
-          "text": "“la razza non aveva mai avuto bisogno di essere salvata”."
-        },
-        {
-          "type": "paragraph",
-          "text": "Potevano esistere due piani differenti."
-        },
-        {
-          "type": "paragraph",
-          "text": "Sul piano rurale e funzionale potevano continuare a esistere cani, famiglie e tipi riconosciuti dagli utilizzatori."
-        },
-        {
-          "type": "paragraph",
-          "text": "Sul piano della cinofilia ufficiale, invece, non esistevano ancora una popolazione registrata sufficientemente organizzata, uno standard accettato, un libro genealogico e un riconoscimento istituzionale."
-        },
-        {
-          "type": "paragraph",
-          "text": "In questo senso il recupero può essere stato reale senza che fosse necessario immaginare una terra quasi vuota nella quale sopravvivevano soltanto pochi ultimi esemplari."
-        },
-        {
-          "type": "paragraph",
-          "text": "È una differenza enorme."
-        },
-        {
-          "type": "paragraph",
-          "text": "Recuperare **un cane** non è la stessa cosa che recuperare **una razza per un sistema cinologico moderno**."
+          "text": "Il recupero può quindi essere stato reale senza richiedere l’immagine di una terra quasi vuota popolata soltanto da pochi ultimi superstiti."
         },
         {
           "type": "heading",
@@ -5225,59 +5009,11 @@ export const italianMaster = {
         },
         {
           "type": "paragraph",
-          "text": "Anche la geografia cambia a seconda della domanda."
+          "text": "La Puglia occupa un posto centrale e documentato nel recupero moderno. Dott. Flavio Bruno insiste però su una geografia storica più larga — Campania, Beneventano, Lazio, Molise, Abruzzo, Basilicata, Calabria, Sicilia e più in generale il Meridione — nella quale funzioni simili potevano continuare a richiedere cani simili."
         },
         {
           "type": "paragraph",
-          "text": "La Puglia occupa un posto centrale e documentato nella storia del recupero moderno. Molti soggetti furono cercati e censiti lì, e la regione diventò inevitabilmente centrale nel racconto della rinascita."
-        },
-        {
-          "type": "paragraph",
-          "text": "Ma il Dott. Flavio Bruno insiste su una geografia più larga."
-        },
-        {
-          "type": "paragraph",
-          "text": "Campania."
-        },
-        {
-          "type": "paragraph",
-          "text": "Beneventano."
-        },
-        {
-          "type": "paragraph",
-          "text": "Lazio."
-        },
-        {
-          "type": "paragraph",
-          "text": "Molise."
-        },
-        {
-          "type": "paragraph",
-          "text": "Abruzzo."
-        },
-        {
-          "type": "paragraph",
-          "text": "Basilicata."
-        },
-        {
-          "type": "paragraph",
-          "text": "Calabria."
-        },
-        {
-          "type": "paragraph",
-          "text": "Sicilia."
-        },
-        {
-          "type": "paragraph",
-          "text": "E più in generale il Meridione nel quale funzioni simili continuavano a richiedere cani simili."
-        },
-        {
-          "type": "paragraph",
-          "text": "Secondo lui ridurre la storia del Cane Corso alla sola Puglia significa confondere **il luogo nel quale una parte importante del recupero moderno fu organizzata** con **l’intero territorio storico nel quale il tipo aveva vissuto**."
-        },
-        {
-          "type": "paragraph",
-          "text": "Questa geografia resta la lettura del Dott. Flavio Bruno: non una mappa definitiva dell’origine, ma l’invito a non confondere il luogo nel quale il recupero moderno acquistò visibilità con l’intero territorio nel quale funzioni e tipi simili potevano essere rimasti vivi."
+          "text": "Questa è la sua lettura, non una mappa definitiva dell’origine: l’invito è a non confondere il luogo nel quale il recupero moderno acquistò particolare visibilità con l’intero territorio nel quale il tipo e le sue funzioni potevano essere rimasti vivi."
         },
         {
           "type": "heading",
@@ -5289,11 +5025,7 @@ export const italianMaster = {
         },
         {
           "type": "paragraph",
-          "text": "Nelle nostre conversazioni Dott. Flavio Bruno ricordò anche **Michele Bocci** e **Masseria Moccaro** come realtà da lui conosciute nel contesto del Cane Corso meridionale. Non li presentiamo come gli artefici centrali dello standard ENCI, né attribuiamo loro un ruolo che la documentazione non dimostra. Il loro interesse, qui, è diverso: ricordano che la storia del Cane Corso non coincide interamente con la storia delle istituzioni che lo hanno riconosciuto."
-        },
-        {
-          "type": "paragraph",
-          "text": "Ma apre la domanda giusta."
+          "text": "Nelle nostre conversazioni Dott. Flavio Bruno ricordò anche **Michele Bocci** e **Masseria Moccaro** come realtà da lui conosciute nel contesto del Cane Corso meridionale. Non li presentiamo come artefici centrali dello standard ENCI: il loro interesse qui è ricordare che la storia del Cane Corso non coincide interamente con la storia delle istituzioni che lo hanno riconosciuto."
         },
         {
           "type": "heading",
@@ -5301,87 +5033,11 @@ export const italianMaster = {
         },
         {
           "type": "paragraph",
-          "text": "Da quel momento la parola *recupero* smise di essere per me una risposta."
+          "text": "Da quel momento la parola *recupero* smise di essere una risposta e divenne una domanda: che cosa fu recuperato — il nome, la forma, una parte della popolazione, una genealogia registrabile, la funzione, la memoria o il diritto del Cane Corso di entrare nella cinofilia ufficiale come razza distinta?"
         },
         {
           "type": "paragraph",
-          "text": "Divenne una domanda."
-        },
-        {
-          "type": "paragraph",
-          "text": "Che cosa fu recuperato?"
-        },
-        {
-          "type": "paragraph",
-          "text": "Il nome?"
-        },
-        {
-          "type": "paragraph",
-          "text": "La forma?"
-        },
-        {
-          "type": "paragraph",
-          "text": "Una parte della popolazione?"
-        },
-        {
-          "type": "paragraph",
-          "text": "Una genealogia registrabile?"
-        },
-        {
-          "type": "paragraph",
-          "text": "La memoria?"
-        },
-        {
-          "type": "paragraph",
-          "text": "La funzione?"
-        },
-        {
-          "type": "paragraph",
-          "text": "Oppure il diritto del Cane Corso di entrare nella cinofilia ufficiale come razza distinta?"
-        },
-        {
-          "type": "paragraph",
-          "text": "Il riconoscimento moderno ha avuto un valore enorme. Senza quel lavoro il Cane Corso difficilmente avrebbe raggiunto la diffusione internazionale che possiede oggi. Negarlo sarebbe ingiusto."
-        },
-        {
-          "type": "paragraph",
-          "text": "Ma riconoscere quel merito non ci obbliga ad accettare ogni versione celebrativa come una fotografia completa del passato."
-        },
-        {
-          "type": "paragraph",
-          "text": "Ogni recupero sceglie."
-        },
-        {
-          "type": "paragraph",
-          "text": "Quali soggetti rappresentano il tipo."
-        },
-        {
-          "type": "paragraph",
-          "text": "Quali differenze vengono tollerate."
-        },
-        {
-          "type": "paragraph",
-          "text": "Quali diventano difetti."
-        },
-        {
-          "type": "paragraph",
-          "text": "Quali linee entrano."
-        },
-        {
-          "type": "paragraph",
-          "text": "Quali restano fuori."
-        },
-        {
-          "type": "paragraph",
-          "text": "Quale cane viene scelto come prototipo."
-        },
-        {
-          "type": "paragraph",
-          "text": "E da quel momento quelle decisioni non descrivono soltanto il passato."
-        },
-        {
-          "type": "paragraph",
-          "text": "Cominciano a costruire il futuro."
+          "text": "Il riconoscimento moderno ebbe un valore enorme e negarlo sarebbe ingiusto. Ma ogni recupero sceglie: quali soggetti rappresentano il tipo, quali differenze vengono tollerate, quali linee entrano e quali restano fuori. Da quel momento quelle decisioni non descrivono soltanto il passato: cominciano a costruire il futuro."
         },
         {
           "type": "heading",
@@ -5389,43 +5045,19 @@ export const italianMaster = {
         },
         {
           "type": "paragraph",
-          "text": "Il Dott. Flavio Bruno mi aveva insegnato a non fermarmi davanti al nome."
+          "text": "Il Dott. Flavio Bruno mi aveva insegnato a non fermarmi davanti al nome. Adesso capivo che non dovevo fermarmi nemmeno davanti alla parola *recupero*."
         },
         {
           "type": "paragraph",
-          "text": "Adesso capivo che non dovevo fermarmi nemmeno davanti alla parola *recupero*."
-        },
-        {
-          "type": "paragraph",
-          "text": "Se il Cane Corso continuava a vivere fra gli utilizzatori, ma la cinofilia moderna aveva bisogno di trasformarlo in una popolazione definita e standardizzata, allora il vero punto di svolta non era semplicemente:"
+          "text": "Se il Cane Corso continuava a vivere fra gli utilizzatori mentre la cinofilia moderna aveva bisogno di trasformarlo in una popolazione definita e standardizzata, il punto di svolta poteva essere espresso in modo diverso:"
         },
         {
           "type": "question",
-          "text": "“il Cane Corso viene salvato”."
+          "text": "il Cane Corso cambia giudice."
         },
         {
           "type": "paragraph",
-          "text": "Era:"
-        },
-        {
-          "type": "question",
-          "text": "“il Cane Corso cambia giudice”."
-        },
-        {
-          "type": "paragraph",
-          "text": "Prima lo giudicava soprattutto la funzione."
-        },
-        {
-          "type": "paragraph",
-          "text": "Adesso avrebbe cominciato a giudicarlo anche lo standard."
-        },
-        {
-          "type": "paragraph",
-          "text": "Ed è proprio da qui che comincia il problema successivo."
-        },
-        {
-          "type": "paragraph",
-          "text": "Qualunque risposta daremo, una cosa è certa: dal momento del riconoscimento il Cane Corso entra stabilmente in un sistema diverso. Utilizzatori e cinofilia ufficiale iniziano a guardare lo stesso cane con strumenti differenti."
+          "text": "Prima lo giudicava soprattutto la funzione. Da quel momento avrebbe cominciato a giudicarlo anche lo standard. È da questa tensione che nasce il problema successivo: utilizzatori e cinofilia ufficiale iniziano a guardare lo stesso Cane con strumenti differenti."
         }
       ],
       "editorialNotes": []
@@ -5450,17 +5082,9 @@ export const italianMaster = {
           "text": "Fra i primi cita proprietari terrieri, macellai, cacciatori, guardiani. Il loro criterio è l’utilità: il cane deve essere sano e funzionale."
         },
         {
-          "type": "paragraph",
-          "text": "La sua critica verso l’ENCI e verso una parte dell’allevamento da esposizione è forte e personale. Deve rimanere riconoscibile come pensiero del Dott. Flavio Bruno, non essere trasformata automaticamente nella voce neutrale del libro."
-        },
-        {
           "type": "quote",
           "text": "«Nei primi il cane deve essere utile a una funzione e quindi l’allevamento è indirizzato su soggetti sani e funzionali.»",
           "attribution": "Dott. Flavio Bruno"
-        },
-        {
-          "type": "paragraph",
-          "text": "Questa frase è il punto che Stefano raccoglie."
         },
         {
           "type": "paragraph",
@@ -5520,23 +5144,15 @@ export const italianMaster = {
         },
         {
           "type": "heading",
-          "text": "Due modi di guardare lo stesso Cane"
+          "text": "Chi deve definire il Cane?"
         },
         {
           "type": "paragraph",
-          "text": "Una delle distinzioni più nette del Dott. Flavio Bruno è quella fra **utilizzatori pratici** e mondo cinofilo ufficiale. Quando ne parla, nomina proprietari terrieri, macellai, cacciatori, guardiani: persone per le quali il cane doveva avere un'utilità concreta."
+          "text": "La critica del Dott. Flavio Bruno alla cinofilia ufficiale nasce dalla convinzione che carriera, mercato ed esasperazione morfologica possano talvolta allontanare la selezione da salute e funzione. È la sua posizione, non una condanna automatica di ogni allevatore o istituzione."
         },
         {
           "type": "paragraph",
-          "text": "La sua critica verso ENCI e verso una parte dell'allevamento da esposizione è severa. Non dobbiamo trasformarla automaticamente in giudizio storico oggettivo. È la posizione del Dott. Flavio Bruno, nata dalla convinzione che la selezione moderna abbia talvolta privilegiato carriera, mercato ed esasperazione morfologica rispetto a salute e funzione. Le ricostruzioni specifiche sul ruolo di ENCI, sulle decisioni ufficiali e sulle motivazioni degli allevatori richiedono fonti indipendenti."
-        },
-        {
-          "type": "paragraph",
-          "text": "Ma anche separando l'opinione dal fatto resta una domanda legittima: **chi deve definire il Cane?** Chi lo usa e ne conosce il lavoro? Chi ne registra la genealogia? Chi lo giudica nel ring? Il veterinario? L'allevatore? Lo storico?"
-        },
-        {
-          "type": "paragraph",
-          "text": "Forse nessuno di questi, da solo, basta. La sfida è farli dialogare senza lasciare che uno solo cancelli tutti gli altri."
+          "text": "La domanda che resta è più ampia: chi deve definire il Cane — chi lo usa, chi ne registra la genealogia, chi lo giudica nel ring, il veterinario, l’allevatore, lo storico? Forse nessuno di questi, da solo, basta. La sfida è farli dialogare senza lasciare che uno cancelli tutti gli altri."
         },
         {
           "type": "paragraph",
@@ -5723,10 +5339,6 @@ export const italianMaster = {
         },
         {
           "type": "paragraph",
-          "text": "Dott. Flavio Bruno mi diede una definizione molto chiara dei tre concetti. L’**ipertipo** porta alcuni caratteri all’estremo: un muso eccessivamente corto, un corpo sproporzionato, una caratteristica che domina l’insieme. L’**ipotipo** manca invece dei caratteri sufficienti a rappresentare l’ideale della razza. Il cane **in tipo** rimane nel mezzo: conserva proporzioni e caratteristiche senza eccessi."
-        },
-        {
-          "type": "paragraph",
           "text": "Poi aggiunse una frase ancora più semplice: **«allevare è stare in equilibrio, cioè stare nel tipo.»**"
         },
         {
@@ -5747,19 +5359,11 @@ export const italianMaster = {
         },
         {
           "type": "paragraph",
-          "text": "Il Dott. Flavio Bruno mi spiegò tre concetti con una semplicità che ho voluto conservare: ipertipo, ipotipo e tipo. L'ipertipo esaspera. L'ipotipo perde. Il tipo conserva l'equilibrio."
-        },
-        {
-          "type": "paragraph",
           "text": "Queste parole non riguardano soltanto l'estetica. La letteratura veterinaria sulle conformazioni estreme mostra che una brachicefalia accentuata può compromettere respirazione e termoregolazione ed essere associata anche ad altri problemi sanitari e di benessere. Questo non significa attribuire automaticamente tali patologie a ogni Cane Corso: significa riconoscere che spingere un carattere morfologico oltre il limite fisiologico può trasformare il “tipo” in rischio."
         },
         {
           "type": "paragraph",
-          "text": "Dott. Flavio Bruno collega anche l'eccesso morfologico alla perdita di riproduzione naturale: cani che richiedono fecondazione artificiale, cesareo o assistenza sistematica non possono essere considerati funzionalmente equivalenti a una popolazione capace di riprodursi senza tali dipendenze. È una posizione forte. Nel libro la useremo come domanda biologica, non come condanna indiscriminata di ogni intervento veterinario."
-        },
-        {
-          "type": "paragraph",
-          "text": "La medicina deve aiutare quando serve. Ma la selezione non dovrebbe costruire volontariamente una popolazione che può esistere solo grazie all'intervento medico."
+          "text": "Dott. Flavio Bruno collega l’eccesso morfologico anche alla perdita di autonomia riproduttiva. È una posizione forte e la leggiamo come domanda biologica: la medicina deve aiutare quando serve, ma la selezione non dovrebbe cercare deliberatamente un tipo che dipenda sistematicamente dall’intervento medico per respirare, muoversi o riprodursi."
         }
       ],
       "editorialNotes": []
@@ -6143,19 +5747,11 @@ export const italianMaster = {
         },
         {
           "type": "paragraph",
-          "text": "La guardia non è abbaiare a tutto."
+          "text": "La guardia non è abbaiare a tutto né trasformare il Cane in un animale ingestibile. È una funzione complessa: attenzione, sicurezza, capacità di distinguere la normalità dall’anomalia, territorialità e legame con la persona o il luogo da proteggere."
         },
         {
           "type": "paragraph",
-          "text": "Non è l’aggressione indiscriminata. Non è costruire un animale ingestibile e chiamarlo “forte”."
-        },
-        {
-          "type": "paragraph",
-          "text": "La guardia è una funzione complessa. Richiede territorialità, attenzione, sicurezza, capacità di distinguere la normalità dall’anomalia e legame con la persona o il luogo da proteggere."
-        },
-        {
-          "type": "paragraph",
-          "text": "Dott. Flavio Bruno descrive il Cane Corso come cane di guardia per eccellenza in molti contesti del Sud. Questa affermazione storica, quando viene resa quantitativa o geografica, dovrà essere verificata. Ma la sua idea funzionale è chiarissima: il Cane Corso deve essere utile alla protezione reale."
+          "text": "Dott. Flavio Bruno descrive il Cane Corso come un guardiano centrale in molti contesti del Sud. Al di là dell’estensione geografica precisa, la sua idea funzionale è chiara: il Cane deve essere utile alla protezione reale, non alla teatralità."
         },
         {
           "type": "paragraph",
@@ -6195,11 +5791,7 @@ export const italianMaster = {
         },
         {
           "type": "paragraph",
-          "text": "Un buon guardiano non vive in guerra con il mondo. Osserva. Riconosce il normale. Nota ciò che cambia."
-        },
-        {
-          "type": "paragraph",
-          "text": "Dott. Flavio Bruno mi ha descritto più volte il Cane Corso come un cane vicino all'uomo, capace di custodire proprietà e persone senza trasformare ogni incontro in conflitto. Nella masseria questa qualità era indispensabile: entravano familiari, lavoratori, clienti, animali. Un cane incontrollabile avrebbe creato più problemi di quanti ne risolvesse."
+          "text": "Nella masseria questa qualità era indispensabile: familiari, lavoratori, clienti, animali e rumori facevano parte della normalità. Un Cane che interpretasse ogni incontro come conflitto avrebbe creato più problemi di quanti ne risolvesse."
         },
         {
           "type": "paragraph",
@@ -7194,51 +6786,11 @@ export const italianMaster = {
         },
         {
           "type": "paragraph",
-          "text": "Possiamo però riconoscere ciò che quelle funzioni avevano selezionato."
+          "text": "Possiamo però riconoscere ciò che quelle funzioni avevano selezionato: salute, mobilità, forza senza esasperazione, coraggio senza isteria, guardia senza aggressività indiscriminata, capacità di leggere il contesto, legame con l’uomo e una struttura che permetta al Cane di vivere pienamente dentro il proprio corpo."
         },
         {
           "type": "paragraph",
-          "text": "Salute."
-        },
-        {
-          "type": "paragraph",
-          "text": "Mobilità."
-        },
-        {
-          "type": "paragraph",
-          "text": "Forza senza esasperazione."
-        },
-        {
-          "type": "paragraph",
-          "text": "Coraggio senza isteria."
-        },
-        {
-          "type": "paragraph",
-          "text": "Guardia senza aggressività indiscriminata."
-        },
-        {
-          "type": "paragraph",
-          "text": "Intelligenza e capacità di leggere il contesto."
-        },
-        {
-          "type": "paragraph",
-          "text": "Legame con l’uomo."
-        },
-        {
-          "type": "paragraph",
-          "text": "Capacità di recuperare dopo uno stimolo."
-        },
-        {
-          "type": "paragraph",
-          "text": "Una struttura che permetta al cane di vivere dentro il proprio corpo, non di trascinarlo."
-        },
-        {
-          "type": "paragraph",
-          "text": "Una variabilità sufficiente perché la selezione futura non rimanga prigioniera di pochi antenati e pochi modelli."
-        },
-        {
-          "type": "paragraph",
-          "text": "E, sopra tutto, la capacità di essere ancora un cane completo."
+          "text": "A questo aggiungo una variabilità sufficiente perché la selezione futura non rimanga prigioniera di pochi antenati e pochi modelli. In una frase: la capacità di essere ancora un cane completo."
         },
         {
           "type": "paragraph",
@@ -7259,27 +6811,7 @@ export const italianMaster = {
         },
         {
           "type": "paragraph",
-          "text": "La genetica è uno strumento."
-        },
-        {
-          "type": "paragraph",
-          "text": "La medicina veterinaria è uno strumento."
-        },
-        {
-          "type": "paragraph",
-          "text": "Il pedigree è uno strumento."
-        },
-        {
-          "type": "paragraph",
-          "text": "Lo standard è uno strumento."
-        },
-        {
-          "type": "paragraph",
-          "text": "Le prove di salute, l’osservazione del comportamento, il controllo della riproduzione e la conoscenza delle linee sono strumenti."
-        },
-        {
-          "type": "paragraph",
-          "text": "Nessuno di essi, da solo, è il Cane Corso."
+          "text": "Genetica, medicina veterinaria, pedigree, standard, prove di salute, osservazione del comportamento e conoscenza delle linee sono strumenti. Nessuno di essi, da solo, è il Cane Corso."
         },
         {
           "type": "paragraph",
@@ -7291,19 +6823,7 @@ export const italianMaster = {
         },
         {
           "type": "paragraph",
-          "text": "Non romanticizzare i limiti del passato."
-        },
-        {
-          "type": "paragraph",
-          "text": "Non perdere la sua severità funzionale."
-        },
-        {
-          "type": "paragraph",
-          "text": "Se oggi possiamo riconoscere una patologia prima di riprodurre un cane, sarebbe assurdo ignorare quella possibilità in nome della tradizione. Se possiamo evitare una consanguineità eccessiva, dobbiamo considerarlo. Se una convinzione storica viene smentita da dati migliori, dobbiamo correggerla."
-        },
-        {
-          "type": "paragraph",
-          "text": "Ma allo stesso modo sarebbe assurdo usare strumenti sempre più sofisticati per produrre un Cane che respira peggio, si muove peggio, si riproduce peggio o possiede un carattere sempre più lontano dall’equilibrio che la sua funzione richiedeva."
+          "text": "Non romanticizzare i limiti del passato e non perdere la sua severità funzionale: questa è la responsabilità moderna. Se possiamo riconoscere una patologia, evitare una consanguineità eccessiva o correggere un’idea storica con dati migliori, dobbiamo farlo. Ma strumenti sempre più sofisticati non hanno senso se producono un Cane che respira, si muove, si riproduce o si comporta peggio."
         },
         {
           "type": "paragraph",
@@ -7311,67 +6831,11 @@ export const italianMaster = {
         },
         {
           "type": "paragraph",
-          "text": "Dire no quando serve."
+          "text": "Significa dire no al colore trasformato in prodotto, alla testa esasperata perché impressiona in fotografia, alla massa confusa con la forza, all’aggressività venduta come coraggio, all’uso eccessivo di un singolo riproduttore e alla cucciolata fatta soltanto perché esiste una domanda commerciale."
         },
         {
           "type": "paragraph",
-          "text": "No al colore trasformato in prodotto."
-        },
-        {
-          "type": "paragraph",
-          "text": "No alla testa esasperata perché impressiona in fotografia."
-        },
-        {
-          "type": "paragraph",
-          "text": "No alla massa confusa con la forza."
-        },
-        {
-          "type": "paragraph",
-          "text": "No all’aggressività venduta come coraggio."
-        },
-        {
-          "type": "paragraph",
-          "text": "No all’uso eccessivo di un singolo riproduttore soltanto perché famoso."
-        },
-        {
-          "type": "paragraph",
-          "text": "No a una cucciolata fatta perché esiste una domanda commerciale."
-        },
-        {
-          "type": "paragraph",
-          "text": "E significa anche dire sì."
-        },
-        {
-          "type": "paragraph",
-          "text": "Sì alla salute."
-        },
-        {
-          "type": "paragraph",
-          "text": "Sì al movimento."
-        },
-        {
-          "type": "paragraph",
-          "text": "Sì alla mente stabile."
-        },
-        {
-          "type": "paragraph",
-          "text": "Sì alla capacità di vivere vicino all’uomo senza perdere dignità e autonomia."
-        },
-        {
-          "type": "paragraph",
-          "text": "Sì alla diversità compatibile con il tipo."
-        },
-        {
-          "type": "paragraph",
-          "text": "Sì alla memoria, quando viene chiamata memoria."
-        },
-        {
-          "type": "paragraph",
-          "text": "Sì alla scienza, quando ci offre strumenti migliori."
-        },
-        {
-          "type": "paragraph",
-          "text": "Sì alla responsabilità dell’allevatore dopo la nascita del cucciolo, non soltanto prima della vendita o della cessione."
+          "text": "E significa dire sì a salute, movimento, mente stabile, capacità di vivere vicino all’uomo senza perdere dignità, diversità compatibile con il tipo, memoria quando è memoria, scienza quando offre strumenti migliori e responsabilità dell’allevatore anche dopo la nascita e l’affidamento del cucciolo."
         },
         {
           "type": "paragraph",
@@ -7411,19 +6875,7 @@ export const italianMaster = {
         },
         {
           "type": "paragraph",
-          "text": "Guardare la funzione."
-        },
-        {
-          "type": "paragraph",
-          "text": "Guardare il cane intero."
-        },
-        {
-          "type": "paragraph",
-          "text": "Guardare ciò che riesce a fare, non soltanto ciò che riesce a mostrare."
-        },
-        {
-          "type": "paragraph",
-          "text": "E scegliere in modo che il Cane di domani non conservi soltanto il nome di quello di ieri."
+          "text": "Il metodo che mi lascia è semplice: guardare la funzione, guardare il Cane intero e scegliere in modo che quello di domani non conservi soltanto il nome di quello di ieri."
         },
         {
           "type": "paragraph",
@@ -7438,351 +6890,175 @@ export const italianMaster = {
     }
   ],
   "epilogue": {
-    "id": "epilogo",
-    "slug": "la-staffetta",
-    "title": "La Staffetta",
-    "blocks": [
-      {
-        "type": "paragraph",
-        "text": "Non so se una storia come questa possa avere davvero una fine."
-      },
-      {
-        "type": "paragraph",
-        "text": "Quando scrissi per la prima volta al **Dott. Flavio Bruno**, non cercavo un libro. Cercavo una risposta."
-      },
-      {
-        "type": "paragraph",
-        "text": "Poi una risposta aprì un’altra domanda."
-      },
-      {
-        "type": "paragraph",
-        "text": "Io chiedevo. Lui spiegava. Tornavo sulle sue parole, le confrontavo con ciò che avevo letto e soprattutto con ciò che vedevo vivendo con i miei Cane. A volte capivo subito. Altre volte una frase rimaneva lì per settimane, finché un comportamento, un ricordo o un’altra domanda non le dava finalmente un senso."
-      },
-      {
-        "type": "paragraph",
-        "text": "Con il tempo compresi che il Dott. Flavio Bruno non mi stava consegnando un elenco di verità da ripetere. Mi stava insegnando un modo di guardare."
-      },
-      {
-        "type": "paragraph",
-        "text": "Guardare prima la funzione."
-      },
-      {
-        "type": "paragraph",
-        "text": "Guardare l’uomo insieme al cane."
-      },
-      {
-        "type": "paragraph",
-        "text": "Guardare il territorio."
-      },
-      {
-        "type": "paragraph",
-        "text": "Diffidare dei nomi quando i nomi pretendono di spiegare più di quanto possano."
-      },
-      {
-        "type": "paragraph",
-        "text": "Non confondere una fotografia con un tipo."
-      },
-      {
-        "type": "paragraph",
-        "text": "Non confondere un pedigree con il valore reale di un animale."
-      },
-      {
-        "type": "paragraph",
-        "text": "Non trasformare la memoria in documento, ma nemmeno trattarla come se non valesse nulla."
-      },
-      {
-        "type": "paragraph",
-        "text": "Questa, per me, è la staffetta."
-      },
-      {
-        "type": "paragraph",
-        "text": "All’inizio della ricerca volevo sapere da dove venisse il Cane Corso."
-      },
-      {
-        "type": "paragraph",
-        "text": "Il Dott. Flavio Bruno mi ha insegnato che la domanda più importante era un’altra: **perché era diventato così?**"
-      },
-      {
-        "type": "paragraph",
-        "text": "E arrivato alla fine, mi ha lasciato davanti a una domanda che nessun libro può chiudere definitivamente:"
-      },
-      {
-        "type": "question",
-        "text": "lo è ancora?"
-      },
-      {
-        "type": "paragraph",
-        "text": "Non il passaggio di una verità definitiva da un maestro a un allievo."
-      },
-      {
-        "type": "paragraph",
-        "text": "Il passaggio di una responsabilità."
-      },
-      {
-        "type": "paragraph",
-        "text": "Prima del Dott. Flavio Bruno ci sono gli uomini che lui ascoltò e osservò: veterinari, pastori, macellai, proprietari terrieri, famiglie, utilizzatori. Persone che non pensavano di stare costruendo una teoria cinofila. Vivevano con i loro cani, li sceglievano, li accoppiavano, li giudicavano attraverso il lavoro e raccontavano ciò che avevano visto."
-      },
-      {
-        "type": "paragraph",
-        "text": "Il Dott. Flavio Bruno ricevette una parte di quella memoria da ragazzo. Nelle sue parole ritornano le fiere, il vecchio veterinario, i Cane osservati nel Sud, gli uomini che ancora conoscevano un mondo nel quale il cane possedeva una funzione concreta. Più tardi arrivarono lo studio della Medicina Veterinaria, gli incontri, le letture, gli scambi, l’esperienza."
-      },
-      {
-        "type": "paragraph",
-        "text": "E non l’ha custodita soltanto per sé. Nel tempo Dott. Flavio Bruno ha organizzato e promosso incontri ed eventi, creando luoghi nei quali quella memoria potesse tornare a essere confronto fra persone."
-      },
-      {
-        "type": "paragraph",
-        "text": "Accanto a questo percorso c’è anche **Maria Alfieri**. Non come personaggio costruito dal libro, ma come presenza reale accanto all’uomo che ricorda, studia, organizza e racconta. Anche una staffetta è fatta di chi corre e di chi rende possibile continuare a correre."
-      },
-      {
-        "type": "paragraph",
-        "text": "Io quel testimone l’ho ricevuto in un altro modo."
-      },
-      {
-        "type": "paragraph",
-        "text": "Non sono cresciuto nelle stesse masserie e non possiedo quella memoria. Sono arrivato al Cane Corso attraverso i miei Cane, le generazioni che ho visto nascere, le scelte che ho fatto, gli errori, le responsabilità e soprattutto le domande."
-      },
-      {
-        "type": "paragraph",
-        "text": "Poi ho incontrato il Dott. Flavio Bruno."
-      },
-      {
-        "type": "paragraph",
-        "text": "All’inizio pensavo che avrei ricevuto risposte migliori."
-      },
-      {
-        "type": "paragraph",
-        "text": "Alla fine ho ricevuto soprattutto **domande migliori**."
-      },
-      {
-        "type": "paragraph",
-        "text": "Che cosa faceva quel cane?"
-      },
-      {
-        "type": "paragraph",
-        "text": "Perché aveva quella struttura?"
-      },
-      {
-        "type": "paragraph",
-        "text": "Quale qualità era necessaria e quale era soltanto ornamentale?"
-      },
-      {
-        "type": "paragraph",
-        "text": "Perché un uomo sceglieva quel tipo e non un altro?"
-      },
-      {
-        "type": "paragraph",
-        "text": "Che cosa succede quando scompare il lavoro che lo aveva formato?"
-      },
-      {
-        "type": "paragraph",
-        "text": "E infine:"
-      },
-      {
-        "type": "question",
-        "text": "che cosa resta?"
-      },
-      {
-        "type": "paragraph",
-        "text": "Questa domanda attraversa tutto il libro."
-      },
-      {
-        "type": "paragraph",
-        "text": "Resta il nome?"
-      },
-      {
-        "type": "paragraph",
-        "text": "Resta il corpo?"
-      },
-      {
-        "type": "paragraph",
-        "text": "Resta il carattere?"
-      },
-      {
-        "type": "paragraph",
-        "text": "Resta la capacità di muoversi, proteggere, leggere l’uomo, decidere quando intervenire e quando fermarsi?"
-      },
-      {
-        "type": "paragraph",
-        "text": "Oppure conserviamo una fotografia e chiamiamo continuità ciò che è soltanto somiglianza?"
-      },
-      {
-        "type": "paragraph",
-        "text": "Non credo che esista una risposta capace di chiudere per sempre la questione. E oggi questo non mi disturba più."
-      },
-      {
-        "type": "paragraph",
-        "text": "Forse una ricerca futura correggerà una nostra ipotesi sull’antichità."
-      },
-      {
-        "type": "paragraph",
-        "text": "Forse un documento dimenticato cambierà il significato di una parola che abbiamo interpretato in un certo modo."
-      },
-      {
-        "type": "paragraph",
-        "text": "Forse nuove conoscenze genetiche mostreranno relazioni che oggi non possiamo vedere."
-      },
-      {
-        "type": "paragraph",
-        "text": "Se accadrà, non sarà una sconfitta."
-      },
-      {
-        "type": "paragraph",
-        "text": "La verità non ha bisogno che fingiamo di sapere ciò che non sappiamo."
-      },
-      {
-        "type": "paragraph",
-        "text": "Per questo nel lavoro preparatorio abbiamo distinto il documento dalla memoria, l’esperienza dall’ipotesi e l’interpretazione dalla prova. Non per rendere freddo il racconto, ma per rispettare ogni voce per ciò che realmente può dirci."
-      },
-      {
-        "type": "paragraph",
-        "text": "Le parole del Dott. Flavio Bruno restano sue."
-      },
-      {
-        "type": "paragraph",
-        "text": "Quando racconta, non voglio correggere la sua memoria per farla sembrare un trattato accademico."
-      },
-      {
-        "type": "paragraph",
-        "text": "Quando propone un’interpretazione, non voglio trasformarla automaticamente in un fatto."
-      },
-      {
-        "type": "paragraph",
-        "text": "Quando una sua frase mi cambia il modo di vedere il Cane Corso, la mia responsabilità comincia proprio lì: capire, confrontare, osservare e poi scrivere con la mia voce."
-      },
-      {
-        "type": "paragraph",
-        "text": "Un maestro non serve a togliere il pensiero a chi ascolta."
-      },
-      {
-        "type": "paragraph",
-        "text": "Serve a costringerlo a pensare meglio."
-      },
-      {
-        "type": "paragraph",
-        "text": "E forse questa è la parte più importante di ciò che ho ricevuto."
-      },
-      {
-        "type": "paragraph",
-        "text": "Io guardo i miei Cane e continuo a fare le stesse domande."
-      },
-      {
-        "type": "paragraph",
-        "text": "Guardo ciò che passa da una generazione all’altra."
-      },
-      {
-        "type": "paragraph",
-        "text": "Guardo il carattere prima del colore."
-      },
-      {
-        "type": "paragraph",
-        "text": "Guardo se la forza è accompagnata da equilibrio."
-      },
-      {
-        "type": "paragraph",
-        "text": "Guardo il movimento."
-      },
-      {
-        "type": "paragraph",
-        "text": "Guardo il rapporto con l’uomo."
-      },
-      {
-        "type": "paragraph",
-        "text": "Guardo se il Cane che ho davanti possiede ancora quella combinazione difficile di presenza, lucidità, coraggio e controllo che nessuna misura, presa isolatamente, può descrivere."
-      },
-      {
-        "type": "paragraph",
-        "text": "E ogni volta ritorno alla domanda:"
-      },
-      {
-        "type": "question",
-        "text": "è ancora Cane Corso?"
-      },
-      {
-        "type": "paragraph",
-        "text": "Non nel senso burocratico."
-      },
-      {
-        "type": "paragraph",
-        "text": "Non per negare il pedigree, lo standard o la cinofilia moderna."
-      },
-      {
-        "type": "paragraph",
-        "text": "Nel senso più profondo: conserva ancora la ragione per la quale questo tipo di cane è stato scelto e conservato per generazioni?"
-      },
-      {
-        "type": "paragraph",
-        "text": "La risposta non appartiene soltanto a me."
-      },
-      {
-        "type": "paragraph",
-        "text": "Passa al lettore."
-      },
-      {
-        "type": "paragraph",
-        "text": "Passa all’allevatore che sceglierà la prossima coppia."
-      },
-      {
-        "type": "paragraph",
-        "text": "Passa al proprietario che dovrà capire che possedere un animale forte significa assumersi una responsabilità altrettanto forte."
-      },
-      {
-        "type": "paragraph",
-        "text": "Passa al veterinario che dovrà ricordare che salute e tipo non sono nemici."
-      },
-      {
-        "type": "paragraph",
-        "text": "Passa al ragazzo che un giorno vedrà per la prima volta un Cane Corso e vorrà sapere perché quel cane è fatto così."
-      },
-      {
-        "type": "paragraph",
-        "text": "Una staffetta non conserva il testimone tenendolo stretto."
-      },
-      {
-        "type": "paragraph",
-        "text": "Lo conserva consegnandolo."
-      },
-      {
-        "type": "paragraph",
-        "text": "Io non posso diventare il Dott. Flavio Bruno e non devo provarci. Non possiedo la sua infanzia, i suoi incontri o il suo sguardo sul Sud italiano. Posso però ascoltare con attenzione, conservare le sue parole quando sono sue, verificare ciò che richiede verifica e trasformare ciò che ho compreso in lavoro mio."
-      },
-      {
-        "type": "paragraph",
-        "text": "Non imitazione."
-      },
-      {
-        "type": "paragraph",
-        "text": "Trasmissione."
-      },
-      {
-        "type": "paragraph",
-        "text": "Forse è questo, alla fine, il significato più profondo di *Prima e dopo il Cane Corso*."
-      },
-      {
-        "type": "paragraph",
-        "text": "Non decidere una volta per tutte che cosa il Cane Corso è stato."
-      },
-      {
-        "type": "paragraph",
-        "text": "Fare in modo che la domanda su ciò che deve rimanere continui a essere posta."
-      },
-      {
-        "type": "paragraph",
-        "text": "Il Dott. Flavio Bruno mi ha insegnato a partire dalla funzione."
-      },
-      {
-        "type": "paragraph",
-        "text": "Io ho provato a trasformare quella lezione in una strada."
-      },
-      {
-        "type": "paragraph",
-        "text": "Da qui in poi, il testimone passa di mano."
-      },
-      {
-        "type": "question",
-        "text": "La funzione fa il tipo."
-      }
-    ],
-    "editorialNotes": []
-  }
+      "id": "epilogo",
+      "slug": "la-staffetta",
+      "title": "La Staffetta",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Non so se una storia come questa possa avere davvero una fine."
+        },
+        {
+          "type": "paragraph",
+          "text": "Quando scrissi per la prima volta al **Dott. Flavio Bruno**, non cercavo un libro. Cercavo una risposta."
+        },
+        {
+          "type": "paragraph",
+          "text": "Poi una risposta aprì un’altra domanda."
+        },
+        {
+          "type": "paragraph",
+          "text": "Io chiedevo. Lui spiegava. Tornavo sulle sue parole, le confrontavo con ciò che avevo letto e soprattutto con ciò che vedevo vivendo con i miei Cane. A volte capivo subito. Altre volte una frase rimaneva lì per settimane, finché un comportamento, un ricordo o un’altra domanda non le dava finalmente un senso."
+        },
+        {
+          "type": "paragraph",
+          "text": "Con il tempo compresi che il Dott. Flavio Bruno non mi stava consegnando un elenco di verità da ripetere. Mi stava insegnando un modo di guardare."
+        },
+        {
+          "type": "paragraph",
+          "text": "Mi stava insegnando a guardare prima la funzione, l’uomo insieme al cane e il territorio; a diffidare dei nomi quando pretendono di spiegare troppo; a non confondere una fotografia con un tipo, né un pedigree con il valore reale di un animale; a rispettare la memoria senza trasformarla automaticamente in documento."
+        },
+        {
+          "type": "paragraph",
+          "text": "Questa, per me, è la staffetta."
+        },
+        {
+          "type": "paragraph",
+          "text": "All’inizio della ricerca volevo sapere da dove venisse il Cane Corso."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il Dott. Flavio Bruno mi ha insegnato che la domanda più importante era un’altra: **perché era diventato così?**"
+        },
+        {
+          "type": "paragraph",
+          "text": "E arrivato alla fine, mi ha lasciato davanti a una domanda che nessun libro può chiudere definitivamente:"
+        },
+        {
+          "type": "question",
+          "text": "lo è ancora?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Non il passaggio di una verità definitiva da un maestro a un allievo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il passaggio di una responsabilità."
+        },
+        {
+          "type": "paragraph",
+          "text": "Prima del Dott. Flavio Bruno ci sono gli uomini che lui ascoltò e osservò: veterinari, pastori, macellai, proprietari terrieri, famiglie, utilizzatori. Persone che non pensavano di stare costruendo una teoria cinofila. Vivevano con i loro cani, li sceglievano, li accoppiavano, li giudicavano attraverso il lavoro e raccontavano ciò che avevano visto."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il Dott. Flavio Bruno ricevette una parte di quella memoria da ragazzo. Nelle sue parole ritornano le fiere, il vecchio veterinario, i Cane osservati nel Sud, gli uomini che ancora conoscevano un mondo nel quale il cane possedeva una funzione concreta. Più tardi arrivarono lo studio della Medicina Veterinaria, gli incontri, le letture, gli scambi, l’esperienza."
+        },
+        {
+          "type": "paragraph",
+          "text": "E non l’ha custodita soltanto per sé. Nel tempo Dott. Flavio Bruno ha organizzato e promosso incontri ed eventi, creando luoghi nei quali quella memoria potesse tornare a essere confronto fra persone."
+        },
+        {
+          "type": "paragraph",
+          "text": "Accanto a questo percorso c’è anche **Maria Alfieri**. Non come personaggio costruito dal libro, ma come presenza reale accanto all’uomo che ricorda, studia, organizza e racconta. Anche una staffetta è fatta di chi corre e di chi rende possibile continuare a correre."
+        },
+        {
+          "type": "paragraph",
+          "text": "Io quel testimone l’ho ricevuto in un altro modo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non sono cresciuto nelle stesse masserie e non possiedo quella memoria. Sono arrivato al Cane Corso attraverso i miei Cane, le generazioni che ho visto nascere, le scelte che ho fatto, gli errori, le responsabilità e soprattutto le domande."
+        },
+        {
+          "type": "paragraph",
+          "text": "Poi ho incontrato il Dott. Flavio Bruno."
+        },
+        {
+          "type": "paragraph",
+          "text": "All’inizio pensavo che avrei ricevuto risposte migliori."
+        },
+        {
+          "type": "paragraph",
+          "text": "Alla fine ho ricevuto soprattutto **domande migliori**."
+        },
+        {
+          "type": "paragraph",
+          "text": "Le domande migliori erano semplici e difficili: che cosa faceva quel cane? Perché aveva quella struttura? Quale qualità era necessaria e quale era soltanto ornamentale? Che cosa succede quando scompare il lavoro che lo aveva formato?"
+        },
+        {
+          "type": "question",
+          "text": "che cosa resta?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Resta il nome, il corpo, il carattere, la capacità di muoversi, proteggere, leggere l’uomo, decidere quando intervenire e quando fermarsi? Oppure conserviamo una fotografia e chiamiamo continuità ciò che è soltanto somiglianza?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Non credo che esista una risposta capace di chiudere per sempre la questione. Una ricerca futura potrà correggere un’ipotesi, un documento cambiare il significato di una parola, nuove conoscenze genetiche mostrare relazioni che oggi non vediamo. Non sarà una sconfitta: la verità non ha bisogno che fingiamo di sapere ciò che non sappiamo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Per questo abbiamo distinto documento, memoria, esperienza, interpretazione e ipotesi. Le parole del Dott. Flavio Bruno restano sue: quando racconta non voglio trasformare la memoria in un trattato; quando interpreta non voglio trasformare automaticamente l’interpretazione in fatto. La mia responsabilità è capire, confrontare, osservare e poi scrivere con la mia voce."
+        },
+        {
+          "type": "paragraph",
+          "text": "Un maestro non serve a togliere il pensiero a chi ascolta. Serve a costringerlo a pensare meglio. Forse questa è la parte più importante di ciò che ho ricevuto."
+        },
+        {
+          "type": "paragraph",
+          "text": "Io continuo a guardare i miei Cane: ciò che passa da una generazione all’altra, il carattere prima del colore, la forza accompagnata dall’equilibrio, il movimento, il rapporto con l’uomo e quella combinazione difficile di presenza, lucidità, coraggio e controllo che nessuna misura isolata può descrivere."
+        },
+        {
+          "type": "question",
+          "text": "è ancora Cane Corso?"
+        },
+        {
+          "type": "paragraph",
+          "text": "Non nel senso burocratico e non per negare pedigree, standard o cinofilia moderna. Nel senso più profondo: conserva ancora la ragione per la quale questo tipo di cane è stato scelto e conservato per generazioni?"
+        },
+        {
+          "type": "paragraph",
+          "text": "La risposta passa al lettore, all’allevatore che sceglierà la prossima coppia, al proprietario che dovrà comprendere la responsabilità di vivere con un animale forte, al veterinario che terrà insieme salute e tipo, e al ragazzo che un giorno vedrà per la prima volta un Cane Corso e vorrà sapere perché è fatto così."
+        },
+        {
+          "type": "paragraph",
+          "text": "Una staffetta non conserva il testimone tenendolo stretto. Lo conserva consegnandolo."
+        },
+        {
+          "type": "paragraph",
+          "text": "Io non posso diventare il Dott. Flavio Bruno e non devo provarci. Posso ascoltare con attenzione, conservare le sue parole quando sono sue, verificare ciò che richiede verifica e trasformare ciò che ho compreso in lavoro mio. Non imitazione: trasmissione."
+        },
+        {
+          "type": "paragraph",
+          "text": "Forse è questo, alla fine, il significato più profondo di *Prima e dopo il Cane Corso*."
+        },
+        {
+          "type": "paragraph",
+          "text": "Non decidere una volta per tutte che cosa il Cane Corso è stato."
+        },
+        {
+          "type": "paragraph",
+          "text": "Fare in modo che la domanda su ciò che deve rimanere continui a essere posta."
+        },
+        {
+          "type": "paragraph",
+          "text": "Il Dott. Flavio Bruno mi ha insegnato a partire dalla funzione."
+        },
+        {
+          "type": "paragraph",
+          "text": "Io ho provato a trasformare quella lezione in una strada."
+        },
+        {
+          "type": "paragraph",
+          "text": "Da qui in poi, il testimone passa di mano."
+        },
+        {
+          "type": "question",
+          "text": "La funzione fa il tipo."
+        }
+      ],
+      "editorialNotes": []
+    }
 }
