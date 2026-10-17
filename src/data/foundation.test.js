@@ -21,9 +21,10 @@ test('V12 FINAL IT LOCK structure is complete and ordered', () => {
   assert.equal(chapters.length, 49)
   assert.deepEqual(chapters.map((chapter) => chapter.number), Array.from({ length: 49 }, (_, index) => index + 1))
   assert.equal(new Set(chapters.map((chapter) => chapter.slug)).size, 49)
-  assert.equal(readingItems.length, 52)
+  assert.equal(readingItems.length, 53)
   assert.equal(readingItems[0].slug, 'idea-del-libro')
-  assert.equal(readingItems[1].slug, 'introduzione')
+  assert.equal(readingItems[1].slug, 'le-voci-dietro-questo-libro')
+  assert.equal(readingItems[2].slug, 'introduzione')
   assert.equal(readingItems.at(-1).slug, 'la-staffetta')
   assert.equal(epilogue.slug, 'la-staffetta')
 })
@@ -177,7 +178,7 @@ test('V12 FINAL IT LOCK has no editorial markers in reader content', () => {
 
 test('V12 FINAL IT LOCK is ready to become the BG translation source', () => {
   assert.equal(chapters.length, 49)
-  assert.equal(readingItems.length, 52)
+  assert.equal(readingItems.length, 53)
   assert.equal(epilogue.slug, 'la-staffetta')
 })
 
@@ -213,7 +214,7 @@ test('chapter 1 has its locked Prima della razza hero visual', () => {
 
 test('chapter 3 has its locked Il problema del Molosso hero visual', () => {
   assert.equal(chapterVisuals[3].chapter, 3)
-  assert.equal(chapterVisuals[3].slug, 'problema-del-molosso')
+  assert.equal(chapterVisuals[3].slug, 'il-problema-del-molosso')
   assert.equal(chapterVisuals[3].src, '/book/chapters/cap03-problema-molosso-hero.png')
 })
 
@@ -225,6 +226,6 @@ test('chapter 7 has its locked Dopo Roma hero visual', () => {
 
 test('chapter 8 has its locked Il Medioevo hero visual', () => {
   assert.equal(chapterVisuals[8].chapter, 8)
-  assert.equal(chapterVisuals[8].slug, 'medioevo')
+  assert.equal(chapterVisuals[8].slug, 'il-medioevo')
   assert.equal(chapterVisuals[8].src, '/book/chapters/cap08-medioevo-hero.png')
 })
