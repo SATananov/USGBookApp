@@ -1,10 +1,14 @@
 import { italianMaster } from '../content/book-it.js'
+import { bulgarianTranslation } from '../content/book-bg.js'
 
-const sameTitle = (title) => ({
+const sameTitle = (title, bgTitle = title) => ({
   en: { title },
-  bg: { title },
+  bg: { title: bgTitle },
   it: { title },
 })
+
+const getBgFront = (id) => bulgarianTranslation.frontMatter[id] ?? null
+const getBgChapter = (id) => bulgarianTranslation.chapters[id] ?? null
 
 export const book = {
   id: 'prima-e-dopo',
@@ -24,10 +28,10 @@ export const book = {
     bg: {
       titleLead: 'ПРЕДИ И СЛЕД', titleSubject: 'CANE CORSO',
       subtitle: 'Преди и след Cane Corso',
-      coverAuthors: 'Dott. Flavio Bruno / Stefano De Tanini',
+      coverAuthors: 'Д-р Флавио Бруно / Стефано Де Танини',
       coverSubtitle: 'Италия и България в историческата приемственост на Cane Corso',
-      introduction: 'Италианско master издание. Българският превод ще бъде добавен след окончателната редакция.',
-      description: 'PRIMA E DOPO IL CANE CORSO — основен италиански master текст.',
+      introduction: 'Българското издание се превежда от окончателно заключения италиански master текст.',
+      description: 'ПРЕДИ И СЛЕД CANE CORSO — български превод от заключения италиански master.',
     },
     it: {
       titleLead: 'PRIMA E DOPO', titleSubject: 'IL CANE CORSO',
@@ -41,69 +45,19 @@ export const book = {
 }
 
 export const parts = [
-  {
-    "id": "parte-i",
-    "bookId": "prima-e-dopo",
-    "number": "I",
-    "title": "PRIMA DEL CANE CORSO"
-  },
-  {
-    "id": "parte-ii",
-    "bookId": "prima-e-dopo",
-    "number": "II",
-    "title": "IL CANE CORSO ATTRAVERSO I SECOLI"
-  },
-  {
-    "id": "parte-iii",
-    "bookId": "prima-e-dopo",
-    "number": "III",
-    "title": "IL CANE DEL SUD"
-  },
-  {
-    "id": "parte-iv",
-    "bookId": "prima-e-dopo",
-    "number": "IV",
-    "title": "L’OTTOCENTO"
-  },
-  {
-    "id": "parte-v",
-    "bookId": "prima-e-dopo",
-    "number": "V",
-    "title": "LA MEMORIA VIVENTE"
-  },
-  {
-    "id": "parte-vi",
-    "bookId": "prima-e-dopo",
-    "number": "VI",
-    "title": "IL NOVECENTO"
-  },
-  {
-    "id": "parte-vii",
-    "bookId": "prima-e-dopo",
-    "number": "VII",
-    "title": "DOPO IL CANE CORSO"
-  },
-  {
-    "id": "parte-viii",
-    "bookId": "prima-e-dopo",
-    "number": "VIII",
-    "title": "LA FUNZIONE FA IL TIPO"
-  },
-  {
-    "id": "parte-ix",
-    "bookId": "prima-e-dopo",
-    "number": "IX",
-    "title": "ALLEVARE PER CONSERVARE"
-  },
-  {
-    "id": "parte-x",
-    "bookId": "prima-e-dopo",
-    "number": "X",
-    "title": "COSA ABBIAMO CONSERVATO?"
-  }
+  { id: 'parte-i', bookId: 'prima-e-dopo', number: 'I', title: 'PRIMA DEL CANE CORSO' },
+  { id: 'parte-ii', bookId: 'prima-e-dopo', number: 'II', title: 'IL CANE CORSO ATTRAVERSO I SECOLI' },
+  { id: 'parte-iii', bookId: 'prima-e-dopo', number: 'III', title: 'IL CANE DEL SUD' },
+  { id: 'parte-iv', bookId: 'prima-e-dopo', number: 'IV', title: 'L’OTTOCENTO' },
+  { id: 'parte-v', bookId: 'prima-e-dopo', number: 'V', title: 'LA MEMORIA VIVENTE' },
+  { id: 'parte-vi', bookId: 'prima-e-dopo', number: 'VI', title: 'IL NOVECENTO' },
+  { id: 'parte-vii', bookId: 'prima-e-dopo', number: 'VII', title: 'DOPO IL CANE CORSO' },
+  { id: 'parte-viii', bookId: 'prima-e-dopo', number: 'VIII', title: 'LA FUNZIONE FA IL TIPO' },
+  { id: 'parte-ix', bookId: 'prima-e-dopo', number: 'IX', title: 'ALLEVARE PER CONSERVARE' },
+  { id: 'parte-x', bookId: 'prima-e-dopo', number: 'X', title: 'COSA ABBIAMO CONSERVATO?' },
 ].map((part) => ({
   ...part,
-  translations: sameTitle(part.title),
+  translations: sameTitle(part.title, bulgarianTranslation.parts[part.id] ?? part.title),
 }))
 
 const contentByChapterId = new Map(italianMaster.chapters.map((chapter) => [chapter.id, chapter]))
@@ -112,6 +66,9 @@ export const chapters = italianMaster.chapters.map((source, index, all) => {
   const previous = all[index - 1]
   const next = all[index + 1]
   const firstParagraph = source.blocks.find((block) => block.type === 'paragraph')?.text ?? source.title
+  const bg = getBgChapter(source.id)
+  const bgFirstParagraph = bg?.blocks?.find((block) => block.type === 'paragraph')?.text ?? firstParagraph
+
   return {
     id: source.id,
     bookId: book.id,
@@ -125,24 +82,29 @@ export const chapters = italianMaster.chapters.map((source, index, all) => {
     nextSlug: next?.slug ?? 'la-staffetta',
     translations: {
       en: { title: source.title, intro: firstParagraph, description: firstParagraph },
-      bg: { title: source.title, intro: firstParagraph, description: firstParagraph },
+      bg: { title: bg?.title ?? source.title, intro: bgFirstParagraph, description: bgFirstParagraph },
       it: { title: source.title, intro: firstParagraph, description: firstParagraph },
     },
     contentIt: contentByChapterId.get(source.id).blocks,
+    contentBg: bg?.blocks ?? null,
     editorialNotes: contentByChapterId.get(source.id).editorialNotes,
   }
 })
 
-const frontMatter = italianMaster.frontMatter.map((source, index, all) => ({
-  ...source,
-  kind: 'front',
-  bookId: book.id,
-  status: 'master',
-  previousSlug: index === 0 ? null : all[index - 1].slug,
-  nextSlug: index === all.length - 1 ? chapters[0].slug : all[index + 1].slug,
-  translations: sameTitle(source.title),
-  contentIt: source.blocks,
-}))
+const frontMatter = italianMaster.frontMatter.map((source, index, all) => {
+  const bg = getBgFront(source.id)
+  return {
+    ...source,
+    kind: 'front',
+    bookId: book.id,
+    status: 'master',
+    previousSlug: index === 0 ? null : all[index - 1].slug,
+    nextSlug: index === all.length - 1 ? chapters[0].slug : all[index + 1].slug,
+    translations: sameTitle(source.title, bg?.title ?? source.title),
+    contentIt: source.blocks,
+    contentBg: bg?.blocks ?? null,
+  }
+})
 
 export const epilogue = {
   ...italianMaster.epilogue,
@@ -151,8 +113,9 @@ export const epilogue = {
   status: 'master',
   previousSlug: chapters.at(-1).slug,
   nextSlug: null,
-  translations: sameTitle(italianMaster.epilogue.title),
+  translations: sameTitle(italianMaster.epilogue.title, bulgarianTranslation.epilogue?.title ?? italianMaster.epilogue.title),
   contentIt: italianMaster.epilogue.blocks,
+  contentBg: bulgarianTranslation.epilogue?.blocks ?? null,
 }
 
 export const readingItems = [...frontMatter, ...chapters.map((chapter) => ({ ...chapter, kind: 'chapter' })), epilogue]

@@ -45,6 +45,11 @@ function ChapterReader({ item }) {
   const previous = getChapter(item.previousSlug)
   const next = getChapter(item.nextSlug)
   const part = item.kind === 'chapter' ? parts.find((candidate) => candidate.id === item.partId) : null
+  const localizedBlocks = language === 'bg' && item.contentBg?.length ? item.contentBg : item.contentIt
+  const hasLocalizedBody = language === 'it' || (language === 'bg' && item.contentBg?.length)
+  const fallbackNote = language === 'bg'
+    ? 'Италиански master текст · българският превод на тази част предстои.'
+    : `Testo master italiano · traduzione ${language.toUpperCase()} dopo il lock editoriale.`
 
   return (
     <article className="inner-page chapter-page">
@@ -56,11 +61,10 @@ function ChapterReader({ item }) {
         )}
         <BookOrnament className="chapter-rule" />
         <h1>{translated.title}</h1>
-        {language !== 'it' && <p className="intro">Testo master italiano · traduzione {language.toUpperCase()} dopo il lock editoriale.</p>}
+        {!hasLocalizedBody && <p className="intro">{fallbackNote}</p>}
       </header>
-
-            <ChapterHero chapter={item} />
-      <ReadingBlocks blocks={item.contentIt} />
+      <ChapterHero chapter={item} />
+      <ReadingBlocks blocks={localizedBlocks} />
 
       {item.kind === 'chapter' && (
         <BookProgress
@@ -70,7 +74,6 @@ function ChapterReader({ item }) {
           next={next && { slug: next.slug, title: next.translations[language]?.title ?? next.translations.it.title }}
         />
       )}
-
       <div className="chapter-notes">
         <Link className="text-link" to={previous ? `/chapter/${previous.slug}` : '/contents'}>
           <span aria-hidden="true">←</span> {t.previous} · {previous ? previous.translations[language]?.title ?? previous.translations.it.title : t.contents}
