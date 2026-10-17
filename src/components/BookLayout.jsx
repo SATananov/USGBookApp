@@ -7,6 +7,12 @@ import { BookSidebar } from './BookSidebar'
 import { BookFooter } from './BookFooter'
 import { BookCorners } from './BookOrnament'
 
+const referenceSections = ['contents', 'timeline', 'glossary', 'sources']
+const companionSections = {
+  'flavio-bruno': 'flavioBruno',
+  usg: 'usg',
+}
+
 export function BookLayout() {
   const { pathname } = useLocation()
   const { language, t } = useBookLanguage()
@@ -15,11 +21,26 @@ export function BookLayout() {
   const chapter = normalizedPath.startsWith('/chapter/')
     ? getChapter(normalizedPath.slice('/chapter/'.length)) : null
   const section = normalizedPath.slice(1)
-  const knownSection = ['contents', 'timeline', 'glossary', 'sources'].includes(section)
+  const referenceKey = referenceSections.includes(section) ? section : null
+  const companionKey = companionSections[section] ?? null
+
   const pageTitle = chapter?.translations[language].title
-    ?? (normalizedPath === '/' ? t.cover : knownSection ? t[section] : t.notFound)
+    ?? (normalizedPath === '/'
+      ? t.cover
+      : referenceKey
+        ? t[referenceKey]
+        : companionKey
+          ? t[companionKey]
+          : t.notFound)
+
   const description = chapter?.translations[language].description
-    ?? (knownSection ? t[`${section}Intro`] : normalizedPath === '/' ? book.translations[language].description : t.notFoundNote)
+    ?? (referenceKey
+      ? t[`${referenceKey}Intro`]
+      : companionKey
+        ? t[`${companionKey}Intro`]
+        : normalizedPath === '/'
+          ? book.translations[language].description
+          : t.notFoundNote)
 
   useEffect(() => {
     document.title = `${pageTitle} | ${book.title} — USG Heritage`
@@ -38,7 +59,13 @@ export function BookLayout() {
       <div className="book-workspace">
         <BookSidebar />
         <main id="book-main" ref={mainRef} tabIndex={-1} className="reader">
-          <div className="book-page"><BookCorners /><Outlet /></div>
+          <div className="book-page">
+            <BookCorners />
+            <Outlet />
+            <div className="page-copyright-imprint" role="note" aria-label={t.rightsCreditsTitle}>
+              {t.copyrightNotice}
+            </div>
+          </div>
         </main>
       </div>
       <BookFooter />

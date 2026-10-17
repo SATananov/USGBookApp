@@ -118,6 +118,11 @@ function SourcesContent({ language, t }) {
       </div>
 
       <p className="editorial-note source-policy-note">{t.sourcePolicy}</p>
+
+      <aside className="rights-credits-note">
+        <p className="eyebrow">{t.rightsCreditsTitle}</p>
+        <p>{t.rightsCreditsNote}</p>
+      </aside>
     </>
   )
 }

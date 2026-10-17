@@ -1787,3 +1787,1166 @@
 
 
 /* === PASS D REFERENCES END === */
+
+/* === PEOPLE & PROJECT COMPANION 13 START === */
+
+/* Special author/project navigation sits below the sidebar artwork on desktop. */
+.sidebar-companion {
+  margin-top: 14px;
+  padding: 10px 2px 2px;
+  border-top: 1px solid rgba(116, 87, 27, 0.46);
+}
+
+.sidebar-companion-label,
+.mobile-companion-nav > p {
+  margin: 0 0 9px;
+  color: #9c7c30;
+  font: 700 9px/1.3 var(--sans);
+  letter-spacing: .18em;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.sidebar-feature-links,
+.mobile-companion-links {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  gap: 7px;
+}
+
+.sidebar-feature-links a {
+  min-height: 54px;
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 9px 12px 9px 14px;
+  border: 1px solid #4c3a12;
+  border-radius: 15px;
+  background: linear-gradient(180deg, rgba(35, 29, 16, .74), rgba(15, 14, 10, .92));
+  color: #ded5c4;
+  text-decoration: none;
+  font-size: 14.5px;
+  line-height: 1.2;
+  box-shadow: inset 0 0 0 1px rgba(0, 0, 0, .42);
+  transition: color .18s ease, border-color .18s ease, background .18s ease, transform .18s ease;
+}
+
+.sidebar-feature-links a:hover {
+  color: #f1d46b;
+  border-color: #765a18;
+  background: linear-gradient(180deg, #2a2213, #15120c);
+  transform: translateX(2px);
+}
+
+.sidebar-feature-links a.active {
+  color: #f2d36d;
+  border-color: #8b6a1d;
+  background: linear-gradient(180deg, #352913, #1b160d);
+  box-shadow: inset 0 0 0 1px #090b09, 0 7px 18px #0005;
+}
+
+.sidebar-feature-links .book-icon {
+  width: 25px;
+  height: 28px;
+}
+
+.sidebar-feature-links .nav-chevron {
+  font-size: 21px;
+}
+
+.mobile-companion-nav {
+  display: none;
+}
+
+/* Companion pages */
+.companion-page {
+  max-width: 1040px;
+  margin: 0 auto;
+  text-align: left;
+}
+
+.companion-heading {
+  max-width: 850px;
+  margin-inline: auto;
+  text-align: center;
+}
+
+.companion-heading h1 {
+  margin-bottom: 14px;
+}
+
+.companion-heading .intro {
+  max-width: 760px;
+  margin-inline: auto;
+}
+
+.companion-hero {
+  display: grid;
+  grid-template-columns: 210px minmax(0, 1fr);
+  gap: 34px;
+  align-items: center;
+  margin: 28px 0 34px;
+  padding: 30px 34px;
+  border-block: 1px solid rgba(184, 154, 108, .76);
+  background:
+    linear-gradient(90deg, rgba(103, 76, 31, .075), rgba(255, 252, 244, .2) 48%, rgba(103, 76, 31, .055));
+}
+
+.companion-mark {
+  width: 174px;
+  height: 174px;
+  display: grid;
+  place-items: center;
+  margin: 0 auto;
+  border: 1px solid rgba(132, 96, 38, .72);
+  border-radius: 50%;
+  background:
+    radial-gradient(circle at 45% 38%, #46341e, #19160f 68%, #0b0d0b);
+  box-shadow:
+    inset 0 0 0 6px rgba(211, 176, 100, .07),
+    0 14px 30px rgba(49, 37, 20, .13);
+}
+
+.companion-mark.is-flavio span {
+  color: #d4b263;
+  font: 400 3.3rem/1 var(--serif);
+  letter-spacing: .08em;
+  text-shadow: 0 1px 0 #000;
+}
+
+.companion-mark.is-usg {
+  border-radius: 24px;
+  background:
+    radial-gradient(circle at 50% 40%, #4b391c, #18150e 68%, #0a0c0a);
+}
+
+.companion-mark.is-usg img {
+  width: 124px;
+  height: 150px;
+  object-fit: contain;
+  filter: sepia(.14) saturate(.92) contrast(1.02);
+}
+
+.companion-hero-copy .eyebrow {
+  margin-bottom: 8px;
+}
+
+.companion-hero-copy h2 {
+  margin: 0 0 13px;
+  font-size: clamp(1.65rem, 2.6vw, 2.15rem);
+  line-height: 1.14;
+}
+
+.companion-hero-copy > p:last-of-type {
+  margin: 0;
+  font-size: 1.08rem;
+  line-height: 1.78;
+}
+
+.companion-status {
+  display: flex;
+  align-items: baseline;
+  gap: 12px;
+  margin-top: 19px;
+  padding-top: 14px;
+  border-top: 1px solid rgba(184, 154, 108, .42);
+}
+
+.companion-status span {
+  color: #8a672b;
+  font: 700 .68rem/1.3 var(--sans);
+  letter-spacing: .13em;
+  text-transform: uppercase;
+}
+
+.companion-status strong {
+  color: #49361a;
+  font-size: 1rem;
+  font-weight: 600;
+}
+
+.companion-statement {
+  max-width: 780px;
+  margin: 34px auto 40px;
+  padding: 20px 28px 18px;
+  border-left: 2px solid #a98039;
+  border-right: 2px solid #a98039;
+  background: linear-gradient(90deg, transparent, rgba(194, 159, 94, .08), transparent);
+  text-align: center;
+}
+
+.companion-statement p {
+  margin: 0;
+  color: #3f2c12;
+  font-size: clamp(1.45rem, 2.7vw, 2rem);
+  font-style: italic;
+  line-height: 1.35;
+}
+
+.companion-statement cite {
+  display: block;
+  margin-top: 11px;
+  color: #7b6542;
+  font: 700 .76rem/1.4 var(--sans);
+  font-style: normal;
+  letter-spacing: .09em;
+  text-transform: uppercase;
+}
+
+.companion-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 20px;
+}
+
+.companion-card {
+  min-height: 100%;
+  padding: 24px 26px;
+  border: 1px solid rgba(137, 104, 55, .34);
+  border-top: 2px solid #b89a6c;
+  background: linear-gradient(180deg, rgba(255, 251, 239, .28), rgba(218, 194, 151, .08));
+  box-shadow: 0 8px 22px rgba(63, 47, 24, .055);
+}
+
+.companion-card .eyebrow {
+  margin-bottom: 7px;
+}
+
+.companion-card h2 {
+  margin: 0 0 11px;
+  font-size: clamp(1.3rem, 2vw, 1.58rem);
+  line-height: 1.2;
+}
+
+.companion-card > p:last-child {
+  margin: 0;
+  color: var(--muted-ink);
+  font-size: 1rem;
+  line-height: 1.75;
+}
+
+.companion-note {
+  max-width: 850px;
+  margin: 38px auto 0;
+  padding: 18px 24px;
+  border-block: 1px solid rgba(184, 154, 108, .55);
+  color: #6d5d43;
+  text-align: center;
+  font-size: .98rem;
+  line-height: 1.72;
+}
+
+.companion-note p {
+  margin: 0;
+}
+
+.companion-actions {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 28px;
+  margin-top: 28px;
+}
+
+.companion-actions .text-link {
+  display: inline-block;
+}
+
+@media (max-width: 980px) {
+  .sidebar-feature-links a {
+    gap: 9px;
+    padding-inline: 10px;
+    font-size: 13.5px;
+  }
+
+  .companion-hero {
+    grid-template-columns: 175px minmax(0, 1fr);
+    gap: 26px;
+    padding-inline: 26px;
+  }
+
+  .companion-mark {
+    width: 150px;
+    height: 150px;
+  }
+
+  .companion-mark.is-usg img {
+    width: 108px;
+    height: 132px;
+  }
+}
+
+@media (max-width: 760px) {
+  .sidebar-companion {
+    display: none;
+  }
+
+  .mobile-companion-nav {
+    display: block;
+    padding: 12px 12px 14px;
+    border-top: 1px solid #3e3115;
+  }
+
+  .mobile-companion-nav > p {
+    margin-bottom: 8px;
+  }
+
+  .mobile-companion-links a {
+    min-height: 50px;
+    display: flex;
+    align-items: center;
+    gap: 14px;
+    padding: 8px 16px;
+    border: 1px solid transparent;
+    border-radius: 12px;
+    color: #ddd4c4;
+    text-decoration: none;
+  }
+
+  .mobile-companion-links a:hover,
+  .mobile-companion-links a.active {
+    color: #f1d46b;
+    border-color: #5c4715;
+    background: #1b160d;
+  }
+
+  .mobile-companion-links .book-icon {
+    width: 24px;
+    height: 27px;
+  }
+
+  .mobile-companion-links .nav-chevron {
+    margin-left: auto;
+    font-size: 21px;
+  }
+
+  .companion-hero {
+    grid-template-columns: 1fr;
+    gap: 20px;
+    padding: 24px 18px;
+    text-align: center;
+  }
+
+  .companion-hero-copy .eyebrow {
+    text-align: center;
+  }
+
+  .companion-status {
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+
+  .companion-grid {
+    grid-template-columns: 1fr;
+    gap: 14px;
+  }
+
+  .companion-card {
+    padding: 20px 17px;
+  }
+
+  .companion-statement {
+    margin: 28px auto 32px;
+    padding-inline: 18px;
+  }
+
+  .companion-note {
+    padding-inline: 15px;
+  }
+}
+
+/* === PEOPLE & PROJECT COMPANION 13 END === */
+
+/* === FLAVIO MATERIALS + SIDEBAR FIX 14 START === */
+
+/* Keep the companion buttons directly below the Cane Corso artwork.
+   The old flex: 1 artwork stretched on long pages and pushed them down. */
+@media (min-width: 761px) {
+  .sidebar-art {
+    flex: 0 0 345px;
+    height: 345px;
+    min-height: 345px;
+  }
+
+  .sidebar-companion,
+  .sidebar-signature {
+    flex: 0 0 auto;
+  }
+
+  .sidebar-signature {
+    margin-top: 10px;
+  }
+}
+
+@media (min-width: 761px) and (max-width: 980px) {
+  .sidebar-art {
+    flex-basis: 285px;
+    height: 285px;
+    min-height: 285px;
+  }
+}
+
+.companion-hero.has-portrait {
+  grid-template-columns: 250px minmax(0, 1fr) 250px;
+  gap: 28px;
+}
+
+.companion-mark.is-flavio,
+.companion-portrait {
+  min-width: 0;
+  height: 250px;
+  aspect-ratio: 1 / 1;
+  overflow: hidden;
+  border: 1px solid rgba(132, 96, 38, .72);
+  outline: 1px solid rgba(181, 145, 85, .35);
+  outline-offset: -6px;
+  box-shadow: 0 12px 28px rgba(51, 38, 19, .15);
+}
+
+.companion-mark.is-flavio {
+  border-radius: 24px;
+  background: #efe5d3;
+}
+
+.companion-mark.is-flavio img,
+.companion-portrait img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center;
+}
+
+.companion-portrait {
+  background: #15120d;
+}
+
+.companion-section-heading {
+  max-width: 850px;
+  margin: 54px auto 24px;
+  text-align: center;
+}
+
+.companion-section-heading h2 {
+  margin: 8px 0 12px;
+  font-size: clamp(1.8rem, 3vw, 2.5rem);
+  line-height: 1.18;
+}
+
+.companion-section-heading > p:last-child {
+  max-width: 760px;
+  margin: 0 auto;
+  color: var(--muted-ink);
+  font-size: 1rem;
+  line-height: 1.7;
+}
+
+.flavio-work-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 18px;
+}
+
+.flavio-work-card {
+  min-width: 0;
+  border: 1px solid rgba(137, 104, 55, .38);
+  border-top: 2px solid #b89a6c;
+  background: linear-gradient(180deg, rgba(255, 251, 239, .32), rgba(218, 194, 151, .08));
+  box-shadow: 0 9px 24px rgba(63, 47, 24, .06);
+  overflow: hidden;
+}
+
+.flavio-work-image {
+  aspect-ratio: 4 / 5;
+  overflow: hidden;
+  background: #17130d;
+  border-bottom: 1px solid rgba(137, 104, 55, .32);
+}
+
+.flavio-work-image img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.flavio-work-card:nth-child(3) .flavio-work-image {
+  aspect-ratio: 4 / 5;
+}
+
+.flavio-work-card:nth-child(3) .flavio-work-image img {
+  object-position: center;
+}
+
+.flavio-work-copy {
+  padding: 19px 20px 22px;
+}
+
+.flavio-work-year {
+  margin: 0 0 7px !important;
+  color: #9a741d !important;
+  font: 700 .75rem/1.2 var(--sans) !important;
+  letter-spacing: .1em;
+  text-transform: uppercase;
+}
+
+.flavio-work-copy h3 {
+  margin: 0 0 10px;
+  color: #3b2913;
+  font: 600 1.18rem/1.25 var(--serif);
+}
+
+.flavio-work-copy > p:last-child {
+  margin: 0;
+  color: var(--muted-ink);
+  font-size: .94rem;
+  line-height: 1.66;
+}
+
+.flavio-context-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 20px;
+}
+
+.flavio-context-card {
+  min-width: 0;
+  margin: 0;
+  border: 1px solid rgba(137, 104, 55, .36);
+  background: rgba(255, 251, 239, .18);
+  overflow: hidden;
+}
+
+.flavio-context-image {
+  aspect-ratio: 16 / 9;
+  overflow: hidden;
+  background: #17130d;
+  border-bottom: 1px solid rgba(137, 104, 55, .32);
+}
+
+.flavio-context-card.is-contado .flavio-context-image {
+  aspect-ratio: 1 / 1;
+}
+
+.flavio-context-image img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.flavio-context-card.is-contado .flavio-context-image img {
+  object-position: center;
+}
+
+.flavio-context-card figcaption {
+  padding: 18px 20px 21px;
+}
+
+.flavio-context-card h3 {
+  margin: 0 0 8px;
+  color: #3b2913;
+  font: 600 1.25rem/1.25 var(--serif);
+}
+
+.flavio-context-card p {
+  margin: 0;
+  color: var(--muted-ink);
+  font-size: .95rem;
+  line-height: 1.68;
+}
+
+.flavio-archive-note {
+  max-width: 820px;
+  margin: 23px auto 0;
+  color: #776344;
+  font: italic .92rem/1.7 var(--serif);
+  text-align: center;
+}
+
+@media (max-width: 1100px) {
+  .companion-hero.has-portrait {
+    grid-template-columns: 135px minmax(0, 1fr) 210px;
+    gap: 20px;
+  }
+
+  .companion-portrait {
+    height: 220px;
+  }
+
+  .flavio-work-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .flavio-work-card {
+    display: grid;
+    grid-template-columns: minmax(230px, 42%) minmax(0, 1fr);
+  }
+
+  .flavio-work-image,
+  .flavio-work-card:nth-child(3) .flavio-work-image {
+    aspect-ratio: auto;
+    min-height: 300px;
+    border-bottom: 0;
+    border-right: 1px solid rgba(137, 104, 55, .32);
+  }
+}
+
+@media (max-width: 760px) {
+  .companion-hero.has-portrait {
+    grid-template-columns: 1fr;
+  }
+
+  .companion-portrait {
+    width: min(100%, 420px);
+    height: 270px;
+    margin: 0 auto;
+  }
+
+  .flavio-work-card {
+    display: block;
+  }
+
+  .flavio-work-image,
+  .flavio-work-card:nth-child(3) .flavio-work-image {
+    aspect-ratio: 4 / 5;
+    min-height: 0;
+    border-right: 0;
+    border-bottom: 1px solid rgba(137, 104, 55, .32);
+  }
+
+  .flavio-context-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .companion-section-heading {
+    margin-top: 42px;
+  }
+}
+
+
+.flavio-identity-strip {
+  max-width: 930px;
+  margin: 28px auto 0;
+}
+
+.flavio-identity-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 24px;
+  align-items: stretch;
+}
+
+.flavio-identity-card {
+  margin: 0;
+  min-width: 0;
+  aspect-ratio: 1 / 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 14px;
+  border: 1px solid rgba(132, 96, 38, .72);
+  outline: 1px solid rgba(181, 145, 85, .35);
+  outline-offset: -6px;
+  background: linear-gradient(180deg, rgba(255, 251, 239, .56), rgba(218, 194, 151, .14));
+  box-shadow: 0 12px 28px rgba(51, 38, 19, .12);
+  overflow: hidden;
+}
+
+.flavio-identity-card img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  object-position: center;
+}
+
+.flavio-overview {
+  margin-top: 20px;
+  padding-top: 22px;
+  border-top: 1px solid rgba(137, 104, 55, .36);
+}
+
+.flavio-overview .companion-hero-copy {
+  max-width: 860px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.flavio-overview .companion-hero-copy > p:last-of-type {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.flavio-overview .companion-status {
+  justify-content: center;
+}
+
+.flavio-work-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 18px;
+  align-items: start;
+}
+
+.flavio-work-card {
+  min-width: 0;
+  border: 1px solid rgba(137, 104, 55, .38);
+  border-top: 2px solid #b89a6c;
+  background: linear-gradient(180deg, rgba(255, 251, 239, .32), rgba(218, 194, 151, .08));
+  box-shadow: 0 9px 24px rgba(63, 47, 24, .06);
+  overflow: hidden;
+}
+
+.flavio-work-image {
+  aspect-ratio: 4 / 5;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+  padding: 12px;
+  background: #f3ead9;
+  border-bottom: 1px solid rgba(137, 104, 55, .32);
+}
+
+.flavio-work-image img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  object-position: center top;
+}
+
+.flavio-work-card:nth-child(3) .flavio-work-image,
+.flavio-work-card:nth-child(3) .flavio-work-image img {
+  aspect-ratio: 4 / 5;
+  object-position: center top;
+}
+
+.flavio-work-copy {
+  padding: 19px 20px 22px;
+}
+
+.flavio-work-year {
+  margin: 0 0 7px !important;
+  color: #9a741d !important;
+  font: 700 .75rem/1.2 var(--sans) !important;
+  letter-spacing: .1em;
+  text-transform: uppercase;
+}
+
+.flavio-work-copy h3 {
+  margin: 0 0 10px;
+  color: #3b2913;
+  font: 600 1.18rem/1.25 var(--serif);
+}
+
+.flavio-work-copy > p:last-child {
+  margin: 0;
+  color: var(--muted-ink);
+  font-size: .94rem;
+  line-height: 1.66;
+}
+
+.flavio-context-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 20px;
+  align-items: start;
+}
+
+.flavio-context-card {
+  min-width: 0;
+  margin: 0;
+  border: 1px solid rgba(137, 104, 55, .36);
+  background: rgba(255, 251, 239, .18);
+  overflow: hidden;
+}
+
+.flavio-context-image {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+  padding: 12px;
+  background: #f3ead9;
+  border-bottom: 1px solid rgba(137, 104, 55, .32);
+}
+
+.flavio-context-card.is-centro .flavio-context-image,
+.flavio-context-card.is-archive-photo .flavio-context-image {
+  aspect-ratio: 16 / 9;
+}
+
+.flavio-context-card.is-contado .flavio-context-image,
+.flavio-context-card.is-daily-care .flavio-context-image {
+  aspect-ratio: 4 / 5;
+}
+
+.flavio-context-image img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  object-position: center;
+}
+
+.flavio-context-card figcaption {
+  padding: 18px 20px 21px;
+}
+
+.flavio-context-card h3 {
+  margin: 0 0 8px;
+  color: #3b2913;
+  font: 600 1.25rem/1.25 var(--serif);
+}
+
+.flavio-context-card p {
+  margin: 0;
+  color: var(--muted-ink);
+  font-size: .95rem;
+  line-height: 1.68;
+}
+
+.flavio-archive-note {
+  max-width: 820px;
+  margin: 23px auto 0;
+  color: #776344;
+  font: italic .92rem/1.7 var(--serif);
+  text-align: center;
+}
+
+@media (max-width: 1100px) {
+  .flavio-work-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .flavio-work-card {
+    display: grid;
+    grid-template-columns: minmax(230px, 42%) minmax(0, 1fr);
+  }
+
+  .flavio-work-image,
+  .flavio-work-card:nth-child(3) .flavio-work-image {
+    aspect-ratio: auto;
+    min-height: 300px;
+    border-bottom: 0;
+    border-right: 1px solid rgba(137, 104, 55, .32);
+  }
+}
+
+@media (max-width: 760px) {
+  .flavio-identity-grid,
+  .flavio-context-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .flavio-work-card {
+    display: block;
+  }
+
+  .flavio-work-image,
+  .flavio-work-card:nth-child(3) .flavio-work-image {
+    aspect-ratio: 4 / 5;
+    min-height: 0;
+    border-right: 0;
+    border-bottom: 1px solid rgba(137, 104, 55, .32);
+  }
+
+  .flavio-identity-strip {
+    margin-top: 18px;
+  }
+}
+
+/* === FLAVIO MUSEUM LAYOUT FIX 14E END === */
+
+/* === FLAVIO GALLERY PROPORTIONS FIX 14F START === */
+
+/* Keep the identity pair exactly balanced. */
+.flavio-identity-grid {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  align-items: stretch;
+}
+
+.flavio-identity-card {
+  aspect-ratio: 1 / 1;
+  height: auto;
+}
+
+.flavio-identity-card img {
+  max-width: 100%;
+  max-height: 100%;
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  object-position: center;
+}
+
+/* Three works: identical museum mats and equal-height cards. */
+.flavio-work-grid {
+  align-items: stretch;
+}
+
+.flavio-work-card {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
+.flavio-work-image,
+.flavio-work-card:nth-child(3) .flavio-work-image {
+  aspect-ratio: auto;
+  height: 330px;
+  min-height: 330px;
+  padding: 18px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background:
+    linear-gradient(180deg, rgba(247, 239, 220, .96), rgba(232, 218, 190, .82));
+  border-bottom: 1px solid rgba(137, 104, 55, .32);
+}
+
+.flavio-work-image::before {
+  content: '';
+  position: absolute;
+  inset: 11px;
+  border: 1px solid rgba(137, 104, 55, .18);
+  pointer-events: none;
+}
+
+.flavio-work-image {
+  position: relative;
+}
+
+.flavio-work-image img,
+.flavio-work-card:nth-child(3) .flavio-work-image img {
+  width: auto;
+  height: auto;
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: contain;
+  object-position: center;
+}
+
+.flavio-work-copy {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+}
+
+/* Archive gallery: one visual system for all four source formats. */
+.flavio-context-grid {
+  align-items: stretch;
+}
+
+.flavio-context-card {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
+.flavio-context-card .flavio-context-image,
+.flavio-context-card.is-centro .flavio-context-image,
+.flavio-context-card.is-contado .flavio-context-image,
+.flavio-context-card.is-archive-photo .flavio-context-image,
+.flavio-context-card.is-daily-care .flavio-context-image {
+  position: relative;
+  aspect-ratio: auto;
+  height: 330px;
+  min-height: 330px;
+  padding: 18px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background:
+    linear-gradient(180deg, rgba(247, 239, 220, .96), rgba(232, 218, 190, .82));
+}
+
+.flavio-context-image::before {
+  content: '';
+  position: absolute;
+  inset: 11px;
+  border: 1px solid rgba(137, 104, 55, .18);
+  pointer-events: none;
+}
+
+.flavio-context-card .flavio-context-image img,
+.flavio-context-card.is-centro .flavio-context-image img,
+.flavio-context-card.is-contado .flavio-context-image img,
+.flavio-context-card.is-archive-photo .flavio-context-image img,
+.flavio-context-card.is-daily-care .flavio-context-image img {
+  width: auto;
+  height: auto;
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: contain;
+  object-position: center;
+}
+
+.flavio-context-card figcaption {
+  flex: 1;
+  min-height: 154px;
+}
+
+@media (max-width: 1100px) {
+  .flavio-work-card {
+    display: grid;
+    grid-template-columns: minmax(230px, 42%) minmax(0, 1fr);
+  }
+
+  .flavio-work-image,
+  .flavio-work-card:nth-child(3) .flavio-work-image {
+    height: 320px;
+    min-height: 320px;
+    border-right: 1px solid rgba(137, 104, 55, .32);
+    border-bottom: 0;
+  }
+}
+
+@media (max-width: 760px) {
+  .flavio-identity-grid,
+  .flavio-context-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .flavio-work-card {
+    display: flex;
+  }
+
+  .flavio-work-image,
+  .flavio-work-card:nth-child(3) .flavio-work-image,
+  .flavio-context-card .flavio-context-image,
+  .flavio-context-card.is-centro .flavio-context-image,
+  .flavio-context-card.is-contado .flavio-context-image,
+  .flavio-context-card.is-archive-photo .flavio-context-image,
+  .flavio-context-card.is-daily-care .flavio-context-image {
+    height: 280px;
+    min-height: 280px;
+    border-right: 0;
+    border-bottom: 1px solid rgba(137, 104, 55, .32);
+  }
+
+  .flavio-context-card figcaption {
+    min-height: 0;
+  }
+}
+
+/* === FLAVIO GALLERY PROPORTIONS FIX 14F END === */
+
+/* === FLAVIO INTRO CENTERING FIX 14G START === */
+
+/* The Flavio overview has only one content block. Remove the generic
+   two-column companion grid so the introduction sits symmetrically
+   beneath the crest + portrait identity pair. */
+.flavio-overview {
+  display: block;
+  grid-template-columns: none;
+  max-width: 760px;
+  margin: 22px auto 34px;
+  padding: 26px 38px 28px;
+  text-align: center;
+}
+
+.flavio-overview .companion-hero-copy {
+  width: min(100%, 640px);
+  max-width: 640px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.flavio-overview .companion-hero-copy .eyebrow,
+.flavio-overview .companion-hero-copy h2,
+.flavio-overview .companion-hero-copy > p:last-of-type {
+  text-align: center;
+}
+
+.flavio-overview .companion-hero-copy > p:last-of-type {
+  max-width: 610px;
+  margin: 0 auto;
+}
+
+.flavio-overview .companion-status {
+  width: min(100%, 540px);
+  margin: 19px auto 0;
+  justify-content: center;
+  flex-wrap: wrap;
+  text-align: center;
+}
+
+@media (max-width: 760px) {
+  .flavio-overview {
+    margin-top: 18px;
+    padding: 22px 18px 24px;
+  }
+
+  .flavio-overview .companion-status {
+    gap: 8px 12px;
+  }
+}
+
+/* === FLAVIO INTRO CENTERING FIX 14G END === */
+
+/* === RIGHTS + CREDITS FIX 14H START === */
+
+.rights-credits-note {
+  max-width: 860px;
+  margin: 28px auto 10px;
+  padding: 20px 24px;
+  border-block: 1px solid rgba(184, 154, 108, .72);
+  background: linear-gradient(90deg, transparent, rgba(214, 189, 145, .10), transparent);
+  text-align: center;
+}
+
+.rights-credits-note .eyebrow {
+  margin-bottom: 8px;
+}
+
+.rights-credits-note > p:last-child {
+  max-width: 760px;
+  margin: 0 auto;
+  color: var(--muted-ink);
+  font-size: .93rem;
+  line-height: 1.7;
+}
+
+@media (max-width: 760px) {
+  .rights-credits-note {
+    padding-inline: 16px;
+  }
+}
+/* === RIGHTS + CREDITS FIX 14H END === */
+
+/* === PAGE COPYRIGHT IMPRINT FIX 14I START === */
+/* Treat the rights line as part of the edition itself, not as site chrome.
+   BookLayout renders this once inside every parchment page, including the cover,
+   contents, all chapters, reference pages, Dott. Flavio Bruno and USG. */
+.book-page {
+  display: flex;
+  flex-direction: column;
+}
+
+.page-copyright-imprint {
+  flex: 0 0 auto;
+  width: min(calc(100% - 76px), 920px);
+  margin: auto auto 22px;
+  padding: 14px 12px 0;
+  border-top: 1px solid rgba(117, 89, 24, .42);
+  color: #776f62;
+  text-align: center;
+  font: 500 11px/1.55 var(--serif);
+  letter-spacing: .025em;
+}
+
+/* The cover already has a generous lower safe zone; keep its imprint visually
+   quiet and close to the lower ornamental frame. */
+.cover-language-page + .page-copyright-imprint {
+  margin-top: 0;
+}
+
+@media (max-width: 760px) {
+  .page-copyright-imprint {
+    width: min(calc(100% - 40px), 920px);
+    margin-bottom: 18px;
+    padding-top: 10px;
+    font-size: 10px;
+    line-height: 1.5;
+  }
+}
+/* === PAGE COPYRIGHT IMPRINT FIX 14I END === */

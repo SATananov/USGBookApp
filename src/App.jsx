@@ -5,6 +5,7 @@ import { BookCoverPage } from './pages/BookCoverPage'
 import { BookContentsPage } from './pages/BookContentsPage'
 import { BookChapterPage } from './pages/BookChapterPage'
 import { BookReferencePage, BookNotFoundPage } from './pages/BookReferencePage'
+import { BookCompanionPage } from './pages/BookCompanionPage'
 import './App.css'
 
 export default function App() {
@@ -19,6 +20,8 @@ export default function App() {
             <Route path="timeline" element={<BookReferencePage section="timeline" />} />
             <Route path="glossary" element={<BookReferencePage section="glossary" />} />
             <Route path="sources" element={<BookReferencePage section="sources" />} />
+            <Route path="flavio-bruno" element={<BookCompanionPage pageKey="flavioBruno" />} />
+            <Route path="usg" element={<BookCompanionPage pageKey="usg" />} />
             <Route path="*" element={<BookNotFoundPage />} />
           </Route>
         </Routes>

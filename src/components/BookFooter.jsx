@@ -24,6 +24,7 @@ export function BookFooter() {
         <Link to="/sources">{t.sources}</Link>
         <small lang={book.originalLanguage}>{book.title}</small>
       </nav>
+
     </footer>
   )
 }
