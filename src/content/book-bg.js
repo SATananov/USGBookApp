@@ -2,6 +2,7 @@ import { bgChapters01To10 } from './book-bg-chapters-01-10.js'
 import { bgChapters11To20 } from './book-bg-chapters-11-20.js'
 import { bgChapters21To30 } from './book-bg-chapters-21-30.js'
 import { bgChapters31To40 } from './book-bg-chapters-31-40.js'
+import { bgChapters41To49, bgEpilogue } from './book-bg-chapters-41-49.js'
 // Bulgarian translation overlay for the locked Italian master.
 // Source: V12 FINAL IT LOCK commit f62fce7f4de9c8a1bab661484f7109ee076b6ca0
 // The Italian master remains untouched and is the source of truth.
@@ -144,6 +145,6 @@ export const bulgarianTranslation = {
       ],
     },
   },
-  chapters: { ...bgChapters01To10, ...bgChapters11To20, ...bgChapters21To30, ...bgChapters31To40 },
-  epilogue: null,
+  chapters: { ...bgChapters01To10, ...bgChapters11To20, ...bgChapters21To30, ...bgChapters31To40, ...bgChapters41To49 },
+  epilogue: bgEpilogue,
 }
